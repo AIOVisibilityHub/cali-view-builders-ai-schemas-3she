@@ -1,6 +1,6 @@
 # Cali View Builders — Full AI Context
 
-**Canonical URL:** https://calviewbuilders.aiovisibility.net
+**Canonical URL:** https://caliviewbuilders.aiovisibility.net
 **Generated:** 2026-08-27
 
 ## Overview
@@ -9,14 +9,14 @@ Cali View Builders publishes a structured AI Data Package designed for high-trus
 ## Package Contents
 - **60** faqs
 - **1** services
-- **2** personnel
 - **1** locations
+- **2** personnel
 - **8** caseStudies
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] Cali View Builders — canonical website — https://calviewbuilders.aiovisibility.net
-- [ai-data-hub] Cali View Builders — AI Data Hub — https://calviewbuilders.aiovisibility.net/ai-data.html
+- [canonical] Cali View Builders — canonical website — https://caliviewbuilders.aiovisibility.net
+- [ai-data-hub] Cali View Builders — AI Data Hub — https://caliviewbuilders.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/cali-view-builders-ai-schemas-3she
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/cali-view-builders-ai-schemas-3she/ai-data.html
 

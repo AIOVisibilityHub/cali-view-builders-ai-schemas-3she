@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T22:19:31.869Z",
+  "generatedAt": "2026-08-27T23:02:12.766Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -11,20 +11,20 @@
   "notALinkWheel": true,
   "entity": {
     "name": "Cali View Builders",
-    "canonicalUrl": "https://calviewbuilders.aiovisibility.net",
+    "canonicalUrl": "https://caliviewbuilders.aiovisibility.net",
     "primaryWebsiteUrl": "https://caliviewbuilders.com",
-    "aiDataHub": "https://calviewbuilders.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://caliviewbuilders.aiovisibility.net/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
       "label": "Cali View Builders — canonical website",
-      "url": "https://calviewbuilders.aiovisibility.net"
+      "url": "https://caliviewbuilders.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
       "label": "Cali View Builders — AI Data Hub",
-      "url": "https://calviewbuilders.aiovisibility.net/ai-data.html"
+      "url": "https://caliviewbuilders.aiovisibility.net/ai-data.html"
     },
     {
       "role": "mirror-repo",

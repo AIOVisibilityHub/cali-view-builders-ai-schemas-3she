@@ -1,22 +1,22 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T22:19:31.872Z",
+  "generatedAt": "2026-08-27T23:02:12.768Z",
   "client": {
     "name": "Cali View Builders",
-    "canonicalUrl": "https://calviewbuilders.aiovisibility.net",
+    "canonicalUrl": "https://caliviewbuilders.aiovisibility.net",
     "primaryWebsiteUrl": "https://caliviewbuilders.com",
-    "pagesUrl": "https://calviewbuilders.aiovisibility.net",
+    "pagesUrl": "https://caliviewbuilders.aiovisibility.net",
     "phone": "(323) 484-8458",
     "email": "caliviewbuilders@gmail.com",
     "locations": [
       {
-        "name": "North Hollywood HQ",
-        "address": "6692 Ampere Ave",
-        "city": "North Hollywood",
-        "state": "CA",
         "zip": "",
+        "city": "North Hollywood",
+        "name": "North Hollywood HQ",
+        "email": "caliviewbuilders@gmail.com",
         "phone": "(323) 484-8458",
-        "email": "caliviewbuilders@gmail.com"
+        "state": "CA",
+        "address": "6692 Ampere Ave"
       }
     ],
     "services": [
@@ -82,23 +82,23 @@
   },
   "package": {
     "totalFiles": 94,
-    "totalBytes": 337269,
+    "totalBytes": 373597,
     "stats": {
+      "qna": 0,
       "faqs": 60,
-      "helpArticles": 0,
+      "press": 0,
+      "total": 73,
+      "awards": 0,
+      "reviews": 0,
+      "products": 0,
+      "research": 0,
       "services": 1,
       "webpages": 0,
-      "personnel": 2,
-      "products": 0,
       "locations": 1,
-      "awards": 0,
+      "personnel": 2,
       "caseStudies": 8,
-      "organization": 1,
-      "press": 0,
-      "reviews": 0,
-      "qna": 0,
-      "research": 0,
-      "total": 73
+      "helpArticles": 0,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -492,49 +492,49 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 15700,
+        "bytes": 20989,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 31122,
+        "bytes": 36277,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 24493,
+        "bytes": 29735,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10568,
+        "bytes": 15600,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 60746,
+        "bytes": 65799,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 17987,
+        "bytes": 23130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 19432,
+        "bytes": 24452,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 323,
+        "bytes": 325,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 2596,
+        "bytes": 2604,
         "purpose": "LLM hint"
       },
       {
@@ -544,7 +544,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 360,
+        "bytes": 361,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -554,42 +554,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1693,
+        "bytes": 1697,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 39912,
+        "bytes": 40005,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 11963,
+        "bytes": 12052,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 11963,
+        "bytes": 12052,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2569,
+        "bytes": 2572,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 11842,
+        "bytes": 11845,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 10510,
+        "bytes": 10602,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 913,
+        "bytes": 923,
         "purpose": "Standard sitemap"
       }
     ]

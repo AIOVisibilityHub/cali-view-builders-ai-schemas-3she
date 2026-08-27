@@ -16,5 +16,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://calviewbuilders.aiovisibility.net/sitemap.xml
-Sitemap: https://calviewbuilders.aiovisibility.net/ai-sitemap.xml
+Sitemap: https://caliviewbuilders.aiovisibility.net/sitemap.xml
+Sitemap: https://caliviewbuilders.aiovisibility.net/ai-sitemap.xml
