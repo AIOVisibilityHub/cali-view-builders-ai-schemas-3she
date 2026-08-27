@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does CaliView Builder provide warranties on work?",
+  "description": "Yes, workmanship and material warranties are provided to ensure long-term client confidence and project quality.",
+  "url": "https://caliviewbuilders.com/faq/does-caliview-builder-provide-warranties-on-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does CaliView Builder provide warranties on work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workmanship and material warranties are provided to ensure long-term client confidence and project quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

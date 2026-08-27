@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kitchen remodeling services does CaliView offer?",
+  "description": "They offer custom cabinetry, layout optimization, new fixtures, countertops, flooring, and energy-efficient appliances installation.",
+  "url": "https://caliviewbuilders.com/faq/what-kitchen-remodeling-services-does-caliview-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kitchen remodeling services does CaliView offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They offer custom cabinetry, layout optimization, new fixtures, countertops, flooring, and energy-efficient appliances installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

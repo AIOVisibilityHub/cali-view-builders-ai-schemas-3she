@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the quality of workmanship from CaliView Builder?",
+  "description": "Reviews highlight skilled carpenters, plumbers, and electricians with attention to detail and high-quality finishes.",
+  "url": "https://caliviewbuilders.com/faq/what-is-the-quality-of-workmanship-from-caliview-builder",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the quality of workmanship from CaliView Builder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reviews highlight skilled carpenters, plumbers, and electricians with attention to detail and high-quality finishes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

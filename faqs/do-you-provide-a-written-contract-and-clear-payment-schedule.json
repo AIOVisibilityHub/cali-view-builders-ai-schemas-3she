@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you provide a written contract and clear payment schedule?",
+  "description": "Yes, every project includes a detailed written contract outlining scope, timeline, payments, and warranty terms, ensuring transparency and mutual understanding.",
+  "url": "https://caliviewbuilders.com/faq/do-you-provide-a-written-contract-and-clear-payment-schedule",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you provide a written contract and clear payment schedule?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, every project includes a detailed written contract outlining scope, timeline, payments, and warranty terms, ensuring transparency and mutual understanding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

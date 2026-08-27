@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I budget and finance my home remodel?",
+  "description": "Create a detailed budget including a contingency fund of 10-20%. Consider financing options such as home equity loans or personal loans and prioritize projects",
+  "url": "https://caliviewbuilders.com/faq/how-do-i-budget-and-finance-my-home-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I budget and finance my home remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Create a detailed budget including a contingency fund of 10-20%. Consider financing options such as home equity loans or personal loans and prioritize projects to align with your budget and goals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

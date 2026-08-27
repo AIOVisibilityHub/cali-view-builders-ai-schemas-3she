@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much experience does CaliView Builder have?",
+  "description": "CaliView Builder has over 20 years of experience in residential and commercial construction, specializing in remodeling and new builds in California.",
+  "url": "https://caliviewbuilders.com/faq/how-much-experience-does-caliview-builder-have",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much experience does CaliView Builder have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CaliView Builder has over 20 years of experience in residential and commercial construction, specializing in remodeling and new builds in California."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

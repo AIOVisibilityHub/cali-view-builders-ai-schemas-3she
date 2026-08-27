@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does CaliView Builder handle project delays?",
+  "description": "While delays can occur due to unforeseen circumstances, CaliView Builder strives to keep clients informed and resolve any issues promptly.",
+  "url": "https://caliviewbuilders.com/faq/how-does-caliview-builder-handle-project-delays",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does CaliView Builder handle project delays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While delays can occur due to unforeseen circumstances, CaliView Builder strives to keep clients informed and resolve any issues promptly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

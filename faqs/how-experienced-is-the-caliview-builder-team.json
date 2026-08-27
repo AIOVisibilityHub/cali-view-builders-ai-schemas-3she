@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How experienced is the CaliView Builder team?",
+  "description": "With over 20 years serving California, the team brings extensive knowledge in remodeling, new construction, and specialty projects.",
+  "url": "https://caliviewbuilders.com/faq/how-experienced-is-the-caliview-builder-team",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How experienced is the CaliView Builder team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With over 20 years serving California, the team brings extensive knowledge in remodeling, new construction, and specialty projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

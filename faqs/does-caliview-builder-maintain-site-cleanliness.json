@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does CaliView Builder maintain site cleanliness?",
+  "description": "Clients report that the team keeps work sites clean and shows respect for the home during and after construction activities.",
+  "url": "https://caliviewbuilders.com/faq/does-caliview-builder-maintain-site-cleanliness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does CaliView Builder maintain site cleanliness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clients report that the team keeps work sites clean and shows respect for the home during and after construction activities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

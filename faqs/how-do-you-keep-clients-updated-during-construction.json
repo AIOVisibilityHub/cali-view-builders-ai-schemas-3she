@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you keep clients updated during construction?",
+  "description": "A dedicated project manager provides regular updates, answers questions, and is a single point of contact for the client.",
+  "url": "https://caliviewbuilders.com/faq/how-do-you-keep-clients-updated-during-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you keep clients updated during construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dedicated project manager provides regular updates, answers questions, and is a single point of contact for the client."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

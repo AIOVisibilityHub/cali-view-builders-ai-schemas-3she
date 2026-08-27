@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Custom Home Remodel in Burbank",
+  "articleBody": "Renovated a 2,000 sq ft home including structural expansion, updated kitchen and bathrooms, and modern finishes to meet client’s contemporary style vision.",
+  "author": {
+    "@type": "Organization",
+    "name": "Cali View Builders",
+    "url": "https://caliviewbuilders.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cali View Builders",
+    "url": "https://caliviewbuilders.com"
+  },
+  "genre": "Case Study"
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for remodeling projects?",
+  "description": "Most remodels take between 3 to 6 months, depending on scope, with detailed timelines provided during the consultation phase.",
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-timeline-for-remodeling-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for remodeling projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most remodels take between 3 to 6 months, depending on scope, with detailed timelines provided during the consultation phase."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

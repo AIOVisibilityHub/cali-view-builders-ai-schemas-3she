@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main steps in ADU construction?",
+  "description": "Key steps include site work, trenching and foundation, framing, insulation and drywall, finishing, and final inspections.",
+  "url": "https://caliviewbuilders.com/faq/what-are-the-main-steps-in-adu-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main steps in ADU construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key steps include site work, trenching and foundation, framing, insulation and drywall, finishing, and final inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

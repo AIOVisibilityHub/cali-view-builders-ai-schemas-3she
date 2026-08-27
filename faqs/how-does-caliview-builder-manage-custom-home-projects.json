@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does CaliView Builder manage custom home projects?",
+  "description": "They coordinate design, permitting, and build phases with architects and engineers, providing clients with personalized project management and regular updates.",
+  "url": "https://caliviewbuilders.com/faq/how-does-caliview-builder-manage-custom-home-projects",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does CaliView Builder manage custom home projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They coordinate design, permitting, and build phases with architects and engineers, providing clients with personalized project management and regular updates."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

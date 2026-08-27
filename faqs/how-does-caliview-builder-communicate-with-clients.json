@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does CaliView Builder communicate with clients?",
+  "description": "Clients receive regular updates from a dedicated project manager who serves as the main point of contact throughout projects.",
+  "url": "https://caliviewbuilders.com/faq/how-does-caliview-builder-communicate-with-clients",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does CaliView Builder communicate with clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clients receive regular updates from a dedicated project manager who serves as the main point of contact throughout projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What outdoor living features can CaliView build?",
+  "description": "Custom outdoor kitchens, patios, fire pits, pools, and landscaping designed to enhance residential outdoor living spaces.",
+  "url": "https://caliviewbuilders.com/faq/what-outdoor-living-features-can-caliview-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What outdoor living features can CaliView build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom outdoor kitchens, patios, fire pits, pools, and landscaping designed to enhance residential outdoor living spaces."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

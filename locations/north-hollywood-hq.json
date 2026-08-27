@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Cali View Builders - North Hollywood HQ",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6692 Ampere Ave",
+    "addressLocality": "North Hollywood",
+    "addressRegion": "CA"
+  },
+  "telephone": "(323) 484-8458",
+  "url": "https://caliviewbuilders.com"
+}

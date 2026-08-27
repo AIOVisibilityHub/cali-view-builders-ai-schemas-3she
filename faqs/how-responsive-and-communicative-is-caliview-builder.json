@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How responsive and communicative is CaliView Builder?",
+  "description": "Clients frequently praise CaliView Builder for timely responses, clear communication, and dedicated project management throughout the build.",
+  "url": "https://caliviewbuilders.com/faq/how-responsive-and-communicative-is-caliview-builder",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How responsive and communicative is CaliView Builder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clients frequently praise CaliView Builder for timely responses, clear communication, and dedicated project management throughout the build."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

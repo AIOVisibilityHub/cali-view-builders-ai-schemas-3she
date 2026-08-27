@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What site preparation is needed for an ADU?",
+  "description": "Site prep includes clearing, grading, utility connections, and sometimes retaining walls or other foundation work depending on the lot.",
+  "url": "https://caliviewbuilders.com/faq/what-site-preparation-is-needed-for-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What site preparation is needed for an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Site prep includes clearing, grading, utility connections, and sometimes retaining walls or other foundation work depending on the lot."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
