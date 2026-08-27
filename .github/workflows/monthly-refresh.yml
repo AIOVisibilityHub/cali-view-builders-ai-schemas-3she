@@ -24,8 +24,8 @@ jobs:
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - Cali View Builders' && git push)
       - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          SITE="https://calviewbuilders.aiovisibility.net"
-          KEY="7f486062cdc4f5d092d98d3eef08b8aa"
+          SITE="https://caliviewbuilders.aiovisibility.net"
+          KEY="7445fcd1ceae324e885116c136b73f46"
           HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
           if [ -f ai-sitemap.xml ]; then
             URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)
