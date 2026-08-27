@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you handle site cleanliness and respect for my home?",
-  "description": "Our team prioritizes keeping the worksite clean and respects your property, ensuring minimal disruption and thorough cleanup after project completion.",
   "url": "https://caliviewbuilders.com/faq/how-do-you-handle-site-cleanliness-and-respect-for-my-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you handle site cleanliness and respect for my home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Our team prioritizes keeping the worksite clean and respects your property, ensuring minimal disruption and thorough cleanup after project completion."
-      }
-    }
-  ],
+  "name": "How do you handle site cleanliness and respect for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle site cleanliness and respect for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our team prioritizes keeping the worksite clean and respects your property, ensuring minimal disruption and thorough cleanup after project completion.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Our team prioritizes keeping the worksite clean and respects your property, ensuring minimal disruption and thorough cleanup after project completion."
 }

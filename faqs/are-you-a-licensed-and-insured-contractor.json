@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are you a licensed and insured contractor?",
-  "description": "Yes, CaliView Builder is a licensed general contractor in California and carries necessary insurance including workers’ compensation and liability coverage to p",
   "url": "https://caliviewbuilders.com/faq/are-you-a-licensed-and-insured-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are you a licensed and insured contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, CaliView Builder is a licensed general contractor in California and carries necessary insurance including workers’ compensation and liability coverage to protect clients."
-      }
-    }
-  ],
+  "name": "Are you a licensed and insured contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are you a licensed and insured contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CaliView Builder is a licensed general contractor in California and carries necessary insurance including workers’ compensation and liability coverage to protect clients.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, CaliView Builder is a licensed general contractor in California and carries necessary insurance including workers’ compensation and liability coverage to p"
 }

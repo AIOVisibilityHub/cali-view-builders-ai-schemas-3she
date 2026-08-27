@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does general contracting with CaliView Builder include?",
-  "description": "CaliView Builder provides comprehensive general contracting covering new constructions, home remodels, ADUs, garage conversions, and commercial projects.",
   "url": "https://caliviewbuilders.com/faq/what-does-general-contracting-with-caliview-builder-include",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does general contracting with CaliView Builder include?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CaliView Builder provides comprehensive general contracting covering new constructions, home remodels, ADUs, garage conversions, and commercial projects."
-      }
-    }
-  ],
+  "name": "What does general contracting with CaliView Builder include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does general contracting with CaliView Builder include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CaliView Builder provides comprehensive general contracting covering new constructions, home remodels, ADUs, garage conversions, and commercial projects.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CaliView Builder provides comprehensive general contracting covering new constructions, home remodels, ADUs, garage conversions, and commercial projects."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is CaliView Builder a licensed and accredited contractor?",
-  "description": "CaliView Builder is a licensed general contractor in California, although not currently BBB accredited.",
   "url": "https://caliviewbuilders.com/faq/is-caliview-builder-a-licensed-and-accredited-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is CaliView Builder a licensed and accredited contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CaliView Builder is a licensed general contractor in California, although not currently BBB accredited."
-      }
-    }
-  ],
+  "name": "Is CaliView Builder a licensed and accredited contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is CaliView Builder a licensed and accredited contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CaliView Builder is a licensed general contractor in California, although not currently BBB accredited.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CaliView Builder is a licensed general contractor in California, although not currently BBB accredited."
 }

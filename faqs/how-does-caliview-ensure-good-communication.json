@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does CaliView ensure good communication?",
-  "description": "We assign a project manager as your direct contact for updates and questions throughout the construction process.",
   "url": "https://caliviewbuilders.com/faq/how-does-caliview-ensure-good-communication",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does CaliView ensure good communication?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We assign a project manager as your direct contact for updates and questions throughout the construction process."
-      }
-    }
-  ],
+  "name": "How does CaliView ensure good communication?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does CaliView ensure good communication?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We assign a project manager as your direct contact for updates and questions throughout the construction process.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We assign a project manager as your direct contact for updates and questions throughout the construction process."
 }

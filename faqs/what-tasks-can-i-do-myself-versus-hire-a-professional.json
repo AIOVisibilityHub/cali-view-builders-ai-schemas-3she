@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What tasks can I do myself versus hire a professional?",
-  "description": "DIY-friendly tasks include painting and minor demolition. Structural work, electrical, plumbing, and complex carpentry should be handled by licensed professiona",
   "url": "https://caliviewbuilders.com/faq/what-tasks-can-i-do-myself-versus-hire-a-professional",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What tasks can I do myself versus hire a professional?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DIY-friendly tasks include painting and minor demolition. Structural work, electrical, plumbing, and complex carpentry should be handled by licensed professionals to ensure safety and compliance."
-      }
-    }
-  ],
+  "name": "What tasks can I do myself versus hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What tasks can I do myself versus hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DIY-friendly tasks include painting and minor demolition. Structural work, electrical, plumbing, and complex carpentry should be handled by licensed professionals to ensure safety and compliance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DIY-friendly tasks include painting and minor demolition. Structural work, electrical, plumbing, and complex carpentry should be handled by licensed professiona"
 }

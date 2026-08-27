@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are CaliView Builder’s prices transparent and competitive?",
-  "description": "Many clients appreciate upfront pricing and detailed estimates, though some note insurance-related complexities affecting costs.",
   "url": "https://caliviewbuilders.com/faq/are-caliview-builder-s-prices-transparent-and-competitive",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are CaliView Builder’s prices transparent and competitive?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many clients appreciate upfront pricing and detailed estimates, though some note insurance-related complexities affecting costs."
-      }
-    }
-  ],
+  "name": "Are CaliView Builder’s prices transparent and competitive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are CaliView Builder’s prices transparent and competitive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many clients appreciate upfront pricing and detailed estimates, though some note insurance-related complexities affecting costs.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Many clients appreciate upfront pricing and detailed estimates, though some note insurance-related complexities affecting costs."
 }

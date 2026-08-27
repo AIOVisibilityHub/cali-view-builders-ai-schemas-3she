@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you provide warranties on your work?",
-  "description": "Yes, we provide warranties covering workmanship and materials to ensure client satisfaction and peace of mind.",
   "url": "https://caliviewbuilders.com/faq/do-you-provide-warranties-on-your-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you provide warranties on your work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide warranties covering workmanship and materials to ensure client satisfaction and peace of mind."
-      }
-    }
-  ],
+  "name": "Do you provide warranties on your work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you provide warranties on your work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we provide warranties covering workmanship and materials to ensure client satisfaction and peace of mind.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, we provide warranties covering workmanship and materials to ensure client satisfaction and peace of mind."
 }

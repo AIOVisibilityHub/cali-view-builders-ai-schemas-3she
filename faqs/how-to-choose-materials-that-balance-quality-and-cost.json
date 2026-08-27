@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How to choose materials that balance quality and cost?",
-  "description": "Look for mid-range options that offer durability and style, such as builder-grade fixtures with efficient performance. Consider energy-saving products that qual",
   "url": "https://caliviewbuilders.com/faq/how-to-choose-materials-that-balance-quality-and-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How to choose materials that balance quality and cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Look for mid-range options that offer durability and style, such as builder-grade fixtures with efficient performance. Consider energy-saving products that qualify for rebates and incentives."
-      }
-    }
-  ],
+  "name": "How to choose materials that balance quality and cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How to choose materials that balance quality and cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for mid-range options that offer durability and style, such as builder-grade fixtures with efficient performance. Consider energy-saving products that qualify for rebates and incentives.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Look for mid-range options that offer durability and style, such as builder-grade fixtures with efficient performance. Consider energy-saving products that qual"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of remodeling do you do?",
-  "description": "We handle kitchen, bathroom, whole-house, and addition remodels, focusing on quality craftsmanship and design.",
   "url": "https://caliviewbuilders.com/faq/what-types-of-remodeling-do-you-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of remodeling do you do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We handle kitchen, bathroom, whole-house, and addition remodels, focusing on quality craftsmanship and design."
-      }
-    }
-  ],
+  "name": "What types of remodeling do you do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of remodeling do you do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We handle kitchen, bathroom, whole-house, and addition remodels, focusing on quality craftsmanship and design.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We handle kitchen, bathroom, whole-house, and addition remodels, focusing on quality craftsmanship and design."
 }

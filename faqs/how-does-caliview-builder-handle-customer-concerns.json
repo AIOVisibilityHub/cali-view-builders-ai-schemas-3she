@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does CaliView Builder handle customer concerns?",
-  "description": "The team aims to address concerns quickly with personal involvement from leadership to ensure project success and client satisfaction.",
   "url": "https://caliviewbuilders.com/faq/how-does-caliview-builder-handle-customer-concerns",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does CaliView Builder handle customer concerns?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The team aims to address concerns quickly with personal involvement from leadership to ensure project success and client satisfaction."
-      }
-    }
-  ],
+  "name": "How does CaliView Builder handle customer concerns?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does CaliView Builder handle customer concerns?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The team aims to address concerns quickly with personal involvement from leadership to ensure project success and client satisfaction.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The team aims to address concerns quickly with personal involvement from leadership to ensure project success and client satisfaction."
 }

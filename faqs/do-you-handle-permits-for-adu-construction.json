@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you handle permits for ADU construction?",
-  "description": "Yes, we manage all necessary permits and work with local officials to ensure compliance with all building codes and regulations.",
   "url": "https://caliviewbuilders.com/faq/do-you-handle-permits-for-adu-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you handle permits for ADU construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we manage all necessary permits and work with local officials to ensure compliance with all building codes and regulations."
-      }
-    }
-  ],
+  "name": "Do you handle permits for ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle permits for ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we manage all necessary permits and work with local officials to ensure compliance with all building codes and regulations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, we manage all necessary permits and work with local officials to ensure compliance with all building codes and regulations."
 }

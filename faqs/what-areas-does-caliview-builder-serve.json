@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What areas does CaliView Builder serve?",
-  "description": "They serve Greater Los Angeles including North Hollywood, Burbank, Glendale, Studio City, and surrounding communities.",
   "url": "https://caliviewbuilders.com/faq/what-areas-does-caliview-builder-serve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What areas does CaliView Builder serve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "They serve Greater Los Angeles including North Hollywood, Burbank, Glendale, Studio City, and surrounding communities."
-      }
-    }
-  ],
+  "name": "What areas does CaliView Builder serve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does CaliView Builder serve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "They serve Greater Los Angeles including North Hollywood, Burbank, Glendale, Studio City, and surrounding communities.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "They serve Greater Los Angeles including North Hollywood, Burbank, Glendale, Studio City, and surrounding communities."
 }

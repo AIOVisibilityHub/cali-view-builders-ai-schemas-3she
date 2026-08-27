@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of projects does CaliView Builder handle?",
-  "description": "They handle a wide range of projects, from small bathroom remodels to large custom homes and commercial renovations.",
   "url": "https://caliviewbuilders.com/faq/what-types-of-projects-does-caliview-builder-handle",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of projects does CaliView Builder handle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "They handle a wide range of projects, from small bathroom remodels to large custom homes and commercial renovations."
-      }
-    }
-  ],
+  "name": "What types of projects does CaliView Builder handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of projects does CaliView Builder handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "They handle a wide range of projects, from small bathroom remodels to large custom homes and commercial renovations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "They handle a wide range of projects, from small bathroom remodels to large custom homes and commercial renovations."
 }

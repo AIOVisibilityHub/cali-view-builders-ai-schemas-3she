@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Kitchen and Living Area Remodel",
-  "articleBody": "Full remodel of kitchen and adjoining living space including new cabinetry, flooring, and lighting. Client desired modern open concept with natural light.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Kitchen and Living Area Remodel",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Full remodel of kitchen and adjoining living space including new cabinetry, flooring, and lighting. Client desired modern open concept with natural light."
 }

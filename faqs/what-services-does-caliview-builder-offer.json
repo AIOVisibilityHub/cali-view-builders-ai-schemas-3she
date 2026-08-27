@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What services does CaliView Builder offer?",
-  "description": "CaliView Builder offers full-service general contracting including new construction, home remodeling, ADUs, garage conversions, and commercial projects.",
   "url": "https://caliviewbuilders.com/faq/what-services-does-caliview-builder-offer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What services does CaliView Builder offer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CaliView Builder offers full-service general contracting including new construction, home remodeling, ADUs, garage conversions, and commercial projects."
-      }
-    }
-  ],
+  "name": "What services does CaliView Builder offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What services does CaliView Builder offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CaliView Builder offers full-service general contracting including new construction, home remodeling, ADUs, garage conversions, and commercial projects.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CaliView Builder offers full-service general contracting including new construction, home remodeling, ADUs, garage conversions, and commercial projects."
 }

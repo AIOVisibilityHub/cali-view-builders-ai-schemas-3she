@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What payment methods do you accept?",
-  "description": "Accepted payment methods include cash, checks, all major credit/debit cards, wire transfers, PayPal, and financing options.",
   "url": "https://caliviewbuilders.com/faq/what-payment-methods-do-you-accept",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What payment methods do you accept?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Accepted payment methods include cash, checks, all major credit/debit cards, wire transfers, PayPal, and financing options."
-      }
-    }
-  ],
+  "name": "What payment methods do you accept?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What payment methods do you accept?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accepted payment methods include cash, checks, all major credit/debit cards, wire transfers, PayPal, and financing options.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Accepted payment methods include cash, checks, all major credit/debit cards, wire transfers, PayPal, and financing options."
 }

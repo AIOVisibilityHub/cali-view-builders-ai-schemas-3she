@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for building a custom home?",
-  "description": "The process involves preliminary study, design development, permitting, bidding, and supervised construction to ensure a smooth project.",
   "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-building-a-custom-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for building a custom home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process involves preliminary study, design development, permitting, bidding, and supervised construction to ensure a smooth project."
-      }
-    }
-  ],
+  "name": "What is the process for building a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process involves preliminary study, design development, permitting, bidding, and supervised construction to ensure a smooth project.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The process involves preliminary study, design development, permitting, bidding, and supervised construction to ensure a smooth project."
 }

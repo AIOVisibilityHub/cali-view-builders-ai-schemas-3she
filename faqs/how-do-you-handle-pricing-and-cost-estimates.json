@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you handle pricing and cost estimates?",
-  "description": "We offer detailed, itemized estimates and discuss any potential price contingencies upfront to avoid surprises during the project.",
   "url": "https://caliviewbuilders.com/faq/how-do-you-handle-pricing-and-cost-estimates",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you handle pricing and cost estimates?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We offer detailed, itemized estimates and discuss any potential price contingencies upfront to avoid surprises during the project."
-      }
-    }
-  ],
+  "name": "How do you handle pricing and cost estimates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle pricing and cost estimates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer detailed, itemized estimates and discuss any potential price contingencies upfront to avoid surprises during the project.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We offer detailed, itemized estimates and discuss any potential price contingencies upfront to avoid surprises during the project."
 }

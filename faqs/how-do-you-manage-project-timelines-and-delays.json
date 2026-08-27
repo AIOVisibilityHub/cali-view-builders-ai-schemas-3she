@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you manage project timelines and delays?",
-  "description": "We provide realistic timelines and proactively communicate any delays caused by unforeseen issues, working diligently to keep projects on schedule.",
   "url": "https://caliviewbuilders.com/faq/how-do-you-manage-project-timelines-and-delays",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you manage project timelines and delays?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We provide realistic timelines and proactively communicate any delays caused by unforeseen issues, working diligently to keep projects on schedule."
-      }
-    }
-  ],
+  "name": "How do you manage project timelines and delays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you manage project timelines and delays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide realistic timelines and proactively communicate any delays caused by unforeseen issues, working diligently to keep projects on schedule.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We provide realistic timelines and proactively communicate any delays caused by unforeseen issues, working diligently to keep projects on schedule."
 }

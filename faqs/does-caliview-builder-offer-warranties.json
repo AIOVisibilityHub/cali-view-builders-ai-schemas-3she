@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does CaliView Builder offer warranties?",
-  "description": "Yes, they provide warranties on workmanship and materials ensuring long-term client satisfaction and peace of mind.",
   "url": "https://caliviewbuilders.com/faq/does-caliview-builder-offer-warranties",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does CaliView Builder offer warranties?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, they provide warranties on workmanship and materials ensuring long-term client satisfaction and peace of mind."
-      }
-    }
-  ],
+  "name": "Does CaliView Builder offer warranties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does CaliView Builder offer warranties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, they provide warranties on workmanship and materials ensuring long-term client satisfaction and peace of mind.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, they provide warranties on workmanship and materials ensuring long-term client satisfaction and peace of mind."
 }

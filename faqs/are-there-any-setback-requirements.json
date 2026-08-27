@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there any setback requirements?",
-  "description": "Yes, local zoning laws require ADUs to maintain specific setbacks from property lines and the main house, varying by city.",
   "url": "https://caliviewbuilders.com/faq/are-there-any-setback-requirements",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there any setback requirements?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, local zoning laws require ADUs to maintain specific setbacks from property lines and the main house, varying by city."
-      }
-    }
-  ],
+  "name": "Are there any setback requirements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any setback requirements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, local zoning laws require ADUs to maintain specific setbacks from property lines and the main house, varying by city.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, local zoning laws require ADUs to maintain specific setbacks from property lines and the main house, varying by city."
 }

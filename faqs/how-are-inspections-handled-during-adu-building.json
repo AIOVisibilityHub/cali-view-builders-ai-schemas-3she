@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How are inspections handled during ADU building?",
-  "description": "Inspections occur at critical stages such as foundation, framing, drywall, and final completion to ensure safety and compliance.",
   "url": "https://caliviewbuilders.com/faq/how-are-inspections-handled-during-adu-building",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How are inspections handled during ADU building?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Inspections occur at critical stages such as foundation, framing, drywall, and final completion to ensure safety and compliance."
-      }
-    }
-  ],
+  "name": "How are inspections handled during ADU building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How are inspections handled during ADU building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inspections occur at critical stages such as foundation, framing, drywall, and final completion to ensure safety and compliance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Inspections occur at critical stages such as foundation, framing, drywall, and final completion to ensure safety and compliance."
 }

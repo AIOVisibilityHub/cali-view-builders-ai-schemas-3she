@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who will manage my project and how do you communicate?",
-  "description": "Each project has a dedicated manager who provides regular updates and is available to answer questions, ensuring a smooth process and clear communication.",
   "url": "https://caliviewbuilders.com/faq/who-will-manage-my-project-and-how-do-you-communicate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who will manage my project and how do you communicate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Each project has a dedicated manager who provides regular updates and is available to answer questions, ensuring a smooth process and clear communication."
-      }
-    }
-  ],
+  "name": "Who will manage my project and how do you communicate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who will manage my project and how do you communicate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Each project has a dedicated manager who provides regular updates and is available to answer questions, ensuring a smooth process and clear communication.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Each project has a dedicated manager who provides regular updates and is available to answer questions, ensuring a smooth process and clear communication."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need permits for my remodeling project?",
-  "description": "If your project involves structural changes, electrical, plumbing, or HVAC updates, permits and inspections are usually required by local authorities to ensure",
   "url": "https://caliviewbuilders.com/faq/do-i-need-permits-for-my-remodeling-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need permits for my remodeling project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If your project involves structural changes, electrical, plumbing, or HVAC updates, permits and inspections are usually required by local authorities to ensure safety and code compliance."
-      }
-    }
-  ],
+  "name": "Do I need permits for my remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your project involves structural changes, electrical, plumbing, or HVAC updates, permits and inspections are usually required by local authorities to ensure safety and code compliance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "If your project involves structural changes, electrical, plumbing, or HVAC updates, permits and inspections are usually required by local authorities to ensure"
 }

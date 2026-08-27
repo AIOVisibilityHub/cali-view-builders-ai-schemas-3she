@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does CaliView Builder handle ADU projects?",
-  "description": "Yes, CaliView Builder manages ADU design, permitting, construction, and final inspections, helping clients navigate local regulations.",
   "url": "https://caliviewbuilders.com/faq/does-caliview-builder-handle-adu-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does CaliView Builder handle ADU projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, CaliView Builder manages ADU design, permitting, construction, and final inspections, helping clients navigate local regulations."
-      }
-    }
-  ],
+  "name": "Does CaliView Builder handle ADU projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does CaliView Builder handle ADU projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CaliView Builder manages ADU design, permitting, construction, and final inspections, helping clients navigate local regulations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, CaliView Builder manages ADU design, permitting, construction, and final inspections, helping clients navigate local regulations."
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Eco-Friendly Home Addition",
-  "articleBody": "Built a 600 sq ft addition using sustainable materials and energy-efficient systems, incorporating solar panels and drought-resistant landscaping.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Eco-Friendly Home Addition",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Built a 600 sq ft addition using sustainable materials and energy-efficient systems, incorporating solar panels and drought-resistant landscaping."
 }

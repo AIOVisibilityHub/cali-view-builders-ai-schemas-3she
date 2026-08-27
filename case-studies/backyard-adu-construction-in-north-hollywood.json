@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Backyard ADU Construction in North Hollywood",
-  "articleBody": "Completed a 500 sq ft accessory dwelling unit (ADU) for a homeowner seeking rental income. Included permitting, design, and build from start to finish.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Backyard ADU Construction in North Hollywood",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Completed a 500 sq ft accessory dwelling unit (ADU) for a homeowner seeking rental income. Included permitting, design, and build from start to finish."
 }

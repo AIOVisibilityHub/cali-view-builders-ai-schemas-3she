@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Multi-Family Property Renovation",
-  "articleBody": "Converted a single-family home into a duplex by adding an ADU with separate entrance, kitchen, and laundry, maximizing rental income potential for client.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Multi-Family Property Renovation",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Converted a single-family home into a duplex by adding an ADU with separate entrance, kitchen, and laundry, maximizing rental income potential for client."
 }

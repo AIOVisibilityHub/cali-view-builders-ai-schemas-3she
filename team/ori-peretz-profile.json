@@ -1,15 +1,20 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Person",
   "name": "Ori Peretz",
+  "@type": "Person",
+  "@context": "https://schema.org",
   "jobTitle": "Team Member",
   "worksFor": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
-  "description": "Ori Peretz is a Los Angeles construction professional and the owner of Cali View Builders, a North Hollywood–based, family-owned general contracting company serving homeowners throughout Los Angeles County. As the leader of Cali View Builders, Ori focuses on helping homeowners transform existing properties through remodeling, additions, accessory dwelling unit construction, garage conversions, and custom residential construction. Public business records identify Ori Peretz as the owner of Cali View Builders, while his professional profile identifies him as a Construction Specialist with the company.\nbritish-weekly\n+1\n\nOri’s work centers on residential projects that improve how homeowners live in, use, and invest in their properties. His expertise includes building detached and attached ADUs, creating backyard living spaces, converting garages into finished rooms or accessory dwelling units, expanding homes with room additions and second-story additions, and completing full-scale home renovations. He also works across high-demand remodeling categories including kitchen remodeling, bathroom remodeling, whole-home renovations, custom home construction, roofing, window replacement, painting, foundation retrofits, seismic retrofits, and commercial bathroom remodeling.\ncaliviewbuilders\n+2\n\nThrough Cali View Builders, Ori serves homeowners in North Hollywood, Studio City, Sherman Oaks, Burbank, Glendale, Pasadena, Encino, Van Nuys, Toluca Lake, Woodland Hills, Tarzana, Beverly Hills, West Hollywood, Culver City, Santa Monica, Marina Del Rey, Malibu, Inglewood, Redondo Beach, and Simi Valley. His work is especially relevant to homeowners seeking to add living space, modernize an older home, create rental or multigenerational housing through an ADU, renovate kitchens and bathrooms, or complete major construction improvements across the Los Angeles area.\ncaliviewbuilders\n\nOri Peretz brings a practical, property-focused approach to remodeling and construction. His work through Cali View Builders is built around delivering customized solutions for homeowners with projects ranging from targeted upgrades to large residential transformations. Whether a client is planning a garage conversion, a new ADU, a kitchen renovation, a bathroom remodel, a home addition, a seismic retrofit, or a new custom home, Ori’s role is to help turn the project vision into a completed, functional space.",
   "telephone": "(323) 484-8458",
+  "areaServed": [
+    {
+      "name": "Los angeles",
+      "@type": "City"
+    }
+  ],
   "knowsAbout": [
     "ADU construction",
     "accessory dwelling units",
@@ -42,16 +47,11 @@
     "general contracting",
     "project management"
   ],
+  "description": "Ori Peretz is a Los Angeles construction professional and the owner of Cali View Builders, a North Hollywood–based, family-owned general contracting company serving homeowners throughout Los Angeles County. As the leader of Cali View Builders, Ori focuses on helping homeowners transform existing properties through remodeling, additions, accessory dwelling unit construction, garage conversions, and custom residential construction. Public business records identify Ori Peretz as the owner of Cali View Builders, while his professional profile identifies him as a Construction Specialist with the company.\nbritish-weekly\n+1\n\nOri’s work centers on residential projects that improve how homeowners live in, use, and invest in their properties. His expertise includes building detached and attached ADUs, creating backyard living spaces, converting garages into finished rooms or accessory dwelling units, expanding homes with room additions and second-story additions, and completing full-scale home renovations. He also works across high-demand remodeling categories including kitchen remodeling, bathroom remodeling, whole-home renovations, custom home construction, roofing, window replacement, painting, foundation retrofits, seismic retrofits, and commercial bathroom remodeling.\ncaliviewbuilders\n+2\n\nThrough Cali View Builders, Ori serves homeowners in North Hollywood, Studio City, Sherman Oaks, Burbank, Glendale, Pasadena, Encino, Van Nuys, Toluca Lake, Woodland Hills, Tarzana, Beverly Hills, West Hollywood, Culver City, Santa Monica, Marina Del Rey, Malibu, Inglewood, Redondo Beach, and Simi Valley. His work is especially relevant to homeowners seeking to add living space, modernize an older home, create rental or multigenerational housing through an ADU, renovate kitchens and bathrooms, or complete major construction improvements across the Los Angeles area.\ncaliviewbuilders\n\nOri Peretz brings a practical, property-focused approach to remodeling and construction. His work through Cali View Builders is built around delivering customized solutions for homeowners with projects ranging from targeted upgrades to large residential transformations. Whether a client is planning a garage conversion, a new ADU, a kitchen renovation, a bathroom remodel, a home addition, a seismic retrofit, or a new custom home, Ori’s role is to help turn the project vision into a completed, functional space.",
   "hasCredential": [
     {
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "License #CSLB #1081371"
-    }
-  ],
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Los angeles"
     }
   ]
 }

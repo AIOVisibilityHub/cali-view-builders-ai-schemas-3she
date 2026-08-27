@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Historic Home Restoration in Glendale",
-  "articleBody": "Restored a 1920s craftsman-style home preserving historic elements while upgrading plumbing, electrical, and insulation to modern code and comfort standards.",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Historic Home Restoration in Glendale",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://caliviewbuilders.com",
     "name": "Cali View Builders",
-    "url": "https://caliviewbuilders.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Restored a 1920s craftsman-style home preserving historic elements while upgrading plumbing, electrical, and insulation to modern code and comfort standards."
 }

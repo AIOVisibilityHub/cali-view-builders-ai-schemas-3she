@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do ADUs comply with energy efficiency standards?",
-  "description": "All ADUs are built to comply with California Title 24 energy efficiency standards to ensure sustainable, cost-effective homes.",
   "url": "https://caliviewbuilders.com/faq/do-adus-comply-with-energy-efficiency-standards",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do ADUs comply with energy efficiency standards?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "All ADUs are built to comply with California Title 24 energy efficiency standards to ensure sustainable, cost-effective homes."
-      }
-    }
-  ],
+  "name": "Do ADUs comply with energy efficiency standards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do ADUs comply with energy efficiency standards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "All ADUs are built to comply with California Title 24 energy efficiency standards to ensure sustainable, cost-effective homes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "All ADUs are built to comply with California Title 24 energy efficiency standards to ensure sustainable, cost-effective homes."
 }

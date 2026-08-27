@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is CaliView Builder a licensed contractor?",
-  "description": "Yes, CaliView Builder operates as a licensed contractor compliant with California requirements.",
   "url": "https://caliviewbuilders.com/faq/is-caliview-builder-a-licensed-contractor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is CaliView Builder a licensed contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, CaliView Builder operates as a licensed contractor compliant with California requirements."
-      }
-    }
-  ],
+  "name": "Is CaliView Builder a licensed contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is CaliView Builder a licensed contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CaliView Builder operates as a licensed contractor compliant with California requirements.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, CaliView Builder operates as a licensed contractor compliant with California requirements."
 }

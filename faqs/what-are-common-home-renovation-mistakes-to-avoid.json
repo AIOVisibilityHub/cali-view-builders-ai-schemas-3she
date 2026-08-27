@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common home renovation mistakes to avoid?",
-  "description": "Avoid underestimating costs, skipping permits, mixing DIY with licensed work improperly, and neglecting to plan for waste removal and site cleanup. A detailed p",
   "url": "https://caliviewbuilders.com/faq/what-are-common-home-renovation-mistakes-to-avoid",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common home renovation mistakes to avoid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Avoid underestimating costs, skipping permits, mixing DIY with licensed work improperly, and neglecting to plan for waste removal and site cleanup. A detailed plan and communication with your contractor mitigate these risks."
-      }
-    }
-  ],
+  "name": "What are common home renovation mistakes to avoid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common home renovation mistakes to avoid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Avoid underestimating costs, skipping permits, mixing DIY with licensed work improperly, and neglecting to plan for waste removal and site cleanup. A detailed plan and communication with your contractor mitigate these risks.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Avoid underestimating costs, skipping permits, mixing DIY with licensed work improperly, and neglecting to plan for waste removal and site cleanup. A detailed p"
 }

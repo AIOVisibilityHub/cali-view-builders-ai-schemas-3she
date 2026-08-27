@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you provide references or examples of past projects?",
-  "description": "Absolutely. We provide portfolios and client references upon request so you can review the quality and scope of our previous work.",
   "url": "https://caliviewbuilders.com/faq/can-you-provide-references-or-examples-of-past-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you provide references or examples of past projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. We provide portfolios and client references upon request so you can review the quality and scope of our previous work."
-      }
-    }
-  ],
+  "name": "Can you provide references or examples of past projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you provide references or examples of past projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. We provide portfolios and client references upon request so you can review the quality and scope of our previous work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Absolutely. We provide portfolios and client references upon request so you can review the quality and scope of our previous work."
 }

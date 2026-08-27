@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How satisfied are customers with CaliView Builder?",
-  "description": "Reviews praise their professionalism, communication, craftsmanship, and ability to deliver projects on time and budget.",
   "url": "https://caliviewbuilders.com/faq/how-satisfied-are-customers-with-caliview-builder",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How satisfied are customers with CaliView Builder?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reviews praise their professionalism, communication, craftsmanship, and ability to deliver projects on time and budget."
-      }
-    }
-  ],
+  "name": "How satisfied are customers with CaliView Builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How satisfied are customers with CaliView Builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reviews praise their professionalism, communication, craftsmanship, and ability to deliver projects on time and budget.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Reviews praise their professionalism, communication, craftsmanship, and ability to deliver projects on time and budget."
 }
