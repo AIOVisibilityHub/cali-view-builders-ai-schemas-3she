@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T22:19:24.849Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Cali View Builders",
+    "canonicalUrl": "https://calviewbuilders.aiovisibility.net",
+    "primaryWebsiteUrl": "https://caliviewbuilders.com",
+    "aiDataHub": "https://calviewbuilders.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Cali View Builders — canonical website",
+      "url": "https://calviewbuilders.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Cali View Builders — AI Data Hub",
+      "url": "https://calviewbuilders.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/cali-view-builders-ai-schemas-3she"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/cali-view-builders-ai-schemas-3she",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/cali-view-builders-ai-schemas-3she"
+    }
+  }
+}

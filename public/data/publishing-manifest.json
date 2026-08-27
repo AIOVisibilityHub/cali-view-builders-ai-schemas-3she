@@ -1,0 +1,604 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T22:19:24.852Z",
+  "client": {
+    "name": "Cali View Builders",
+    "canonicalUrl": "https://calviewbuilders.aiovisibility.net",
+    "primaryWebsiteUrl": "https://caliviewbuilders.com",
+    "pagesUrl": "https://calviewbuilders.aiovisibility.net",
+    "phone": "(323) 484-8458",
+    "email": "caliviewbuilders@gmail.com",
+    "locations": [
+      {
+        "name": "North Hollywood HQ",
+        "address": "6692 Ampere Ave",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip": "",
+        "phone": "(323) 484-8458",
+        "email": "caliviewbuilders@gmail.com"
+      }
+    ],
+    "services": [
+      "ADU Contractor",
+      "ADU Builder",
+      "ADU Construction",
+      "Accessory Dwelling Unit Builder",
+      "Detached ADU Builder",
+      "Attached ADU Builder",
+      "Backyard ADU Builder",
+      "Garage Conversion Contractor",
+      "Garage To ADU Conversion",
+      "Garage Conversion Builder",
+      "Home Addition Contractor",
+      "Room Addition Contractor",
+      "House Addition Contractor",
+      "Second Story Addition Contractor",
+      "Kitchen Remodeling Contractor",
+      "Kitchen Renovation Contractor",
+      "Custom Kitchen Remodeling",
+      "Bathroom Remodeling Contractor",
+      "Bathroom Renovation Contractor",
+      "Custom Bathroom Remodeling",
+      "Whole Home Remodeling Contractor",
+      "Whole House Renovation Contractor",
+      "Home Renovation Contractor",
+      "New Home Construction",
+      "Custom Home Builder",
+      "Foundation Retrofit Contractor",
+      "Seismic Retrofit Contractor",
+      "Earthquake Retrofit Contractor",
+      "Roof Replacement Contractor",
+      "Roofing Contractor",
+      "Window Replacement Contractor",
+      "Window Installation Contractor",
+      "Interior Painting Contractor",
+      "Exterior Painting Contractor",
+      "Commercial Bathroom Remodeling Contractor"
+    ],
+    "cities": [
+      "Los Angeles",
+      "North Hollywood",
+      "Studio City",
+      "Sherman Oaks",
+      "Burbank",
+      "Glendale",
+      "Pasadena",
+      "Encino",
+      "Van Nuys",
+      "Toluca Lake",
+      "Woodland Hills",
+      "Tarzana",
+      "Beverly Hills",
+      "West Hollywood",
+      "Culver City",
+      "Santa Monica",
+      "Marina Del Rey",
+      "Malibu",
+      "Inglewood",
+      "Redondo Beach",
+      "Simi Valley"
+    ]
+  },
+  "package": {
+    "totalFiles": 94,
+    "totalBytes": 371827,
+    "stats": {
+      "faqs": 60,
+      "helpArticles": 0,
+      "services": 1,
+      "webpages": 0,
+      "personnel": 2,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
+      "caseStudies": 8,
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 73
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/what-services-does-caliview-builder-offer.json",
+        "bytes": 771,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-caliview-builder-a-licensed-contractor.json",
+        "bytes": 657,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-typical-project-take.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-get-a-price-estimate.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-payment-methods-do-you-accept.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-caliview-ensure-good-communication.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-process-for-building-a-custom-home.json",
+        "bytes": 754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-custom-home-cost.json",
+        "bytes": 674,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-custom-home-building-take.json",
+        "bytes": 715,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-remodeling-do-you-do.json",
+        "bytes": 666,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-permits-and-code-compliance.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-sustainable-or-energy-efficient-building-options.json",
+        "bytes": 775,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-keep-clients-updated-during-construction.json",
+        "bytes": 739,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-provide-warranties-on-your-work.json",
+        "bytes": 678,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-build-an-adu.json",
+        "bytes": 713,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-permits-for-adu-construction.json",
+        "bytes": 726,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-site-preparation-is-needed-for-an-adu.json",
+        "bytes": 740,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-steps-in-adu-construction.json",
+        "bytes": 715,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-inspections-handled-during-adu-building.json",
+        "bytes": 741,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-any-setback-requirements.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-adus-comply-with-energy-efficiency-standards.json",
+        "bytes": 737,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-general-contracting-with-caliview-builder-include.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-caliview-builder-manage-custom-home-projects.json",
+        "bytes": 821,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kitchen-remodeling-services-does-caliview-offer.json",
+        "bytes": 764,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-caliview-builder-handle-adu-projects.json",
+        "bytes": 735,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-outdoor-living-features-can-caliview-build.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-sustainable-building-practices-part-of-caliview-s-services.json",
+        "bytes": 794,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-remodeling-projects.json",
+        "bytes": 750,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-caliview-builder-provide-warranties.json",
+        "bytes": 712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-responsive-and-communicative-is-caliview-builder.json",
+        "bytes": 780,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-caliview-builder-handle-project-delays.json",
+        "bytes": 761,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-quality-of-workmanship-from-caliview-builder.json",
+        "bytes": 744,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-caliview-builder-s-prices-transparent-and-competitive.json",
+        "bytes": 775,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-caliview-builder-offer-warranties.json",
+        "bytes": 688,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-caliview-builder-handle-customer-concerns.json",
+        "bytes": 762,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-experienced-is-the-caliview-builder-team.json",
+        "bytes": 738,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-caliview-builder-maintain-site-cleanliness.json",
+        "bytes": 733,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-experience-does-caliview-builder-have.json",
+        "bytes": 780,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-areas-does-caliview-builder-serve.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-projects-does-caliview-builder-handle.json",
+        "bytes": 729,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-satisfied-are-customers-with-caliview-builder.json",
+        "bytes": 729,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-payment-methods-does-caliview-builder-accept.json",
+        "bytes": 713,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-caliview-builder-a-licensed-and-accredited-contractor.json",
+        "bytes": 718,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-caliview-builder-communicate-with-clients.json",
+        "bytes": 744,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-caliview-builder-provide-warranties-on-work.json",
+        "bytes": 712,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-you-a-licensed-and-insured-contractor.json",
+        "bytes": 806,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-provide-references-or-examples-of-past-projects.json",
+        "bytes": 769,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-provide-a-written-contract-and-clear-payment-schedule.json",
+        "bytes": 844,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-handle-pricing-and-cost-estimates.json",
+        "bytes": 736,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-will-manage-my-project-and-how-do-you-communicate.json",
+        "bytes": 811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-manage-project-timelines-and-delays.json",
+        "bytes": 776,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-warranties-do-you-provide-on-your-work.json",
+        "bytes": 699,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-handle-site-cleanliness-and-respect-for-my-home.json",
+        "bytes": 818,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-typical-home-remodeling-project-cost.json",
+        "bytes": 900,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-timeline-for-a-home-remodel.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-permits-for-my-remodeling-project.json",
+        "bytes": 819,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-tasks-can-i-do-myself-versus-hire-a-professional.json",
+        "bytes": 858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-budget-and-finance-my-home-remodel.json",
+        "bytes": 828,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-home-renovation-mistakes-to-avoid.json",
+        "bytes": 875,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-to-choose-materials-that-balance-quality-and-cost.json",
+        "bytes": 854,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/contractor-service.json",
+        "bytes": 3053,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/ori-peretz-profile.json",
+        "bytes": 3492,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/ori-peretz-los-angeles.json",
+        "bytes": 3490,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/north-hollywood-hq.json",
+        "bytes": 299,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/backyard-adu-construction-in-north-hollywood.json",
+        "bytes": 499,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/kitchen-and-living-area-remodel.json",
+        "bytes": 489,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/water-damage-restoration.json",
+        "bytes": 480,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/custom-home-remodel-in-burbank.json",
+        "bytes": 491,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/eco-friendly-home-addition.json",
+        "bytes": 476,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/historic-home-restoration-in-glendale.json",
+        "bytes": 498,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/multi-family-property-renovation.json",
+        "bytes": 490,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/bathroom-upgrade-with-universal-design.json",
+        "bytes": 499,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/cali-view-builders-organization.json",
+        "bytes": 3037,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 20958,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 36260,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 29718,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 15583,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 65782,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 23113,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 24435,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 323,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 2462,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 360,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 208,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1406,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 39626,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 11829,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 11829,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 2435,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 11708,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 10510,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 913,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/cali-view-builders-ai-schemas-3she",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/cali-view-builders-ai-schemas-3she"
+    }
+  }
+}
