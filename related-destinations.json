@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T22:19:24.849Z",
+  "generatedAt": "2026-08-27T22:19:31.869Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/cali-view-builders-ai-schemas-3she"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/cali-view-builders-ai-schemas-3she/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/cali-view-builders-ai-schemas-3she",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/cali-view-builders-ai-schemas-3she/",
       "repo": "AIOVisibilityHub/cali-view-builders-ai-schemas-3she"
     }
   }
