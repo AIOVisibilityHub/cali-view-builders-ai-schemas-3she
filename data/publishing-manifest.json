@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T23:02:12.768Z",
+  "generatedAt": "2026-08-27T23:02:19.436Z",
   "client": {
     "name": "Cali View Builders",
     "canonicalUrl": "https://caliviewbuilders.aiovisibility.net",
@@ -82,7 +82,7 @@
   },
   "package": {
     "totalFiles": 94,
-    "totalBytes": 373597,
+    "totalBytes": 337488,
     "stats": {
       "qna": 0,
       "faqs": 60,
@@ -492,37 +492,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20989,
+        "bytes": 15723,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 36277,
+        "bytes": 31131,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 29735,
+        "bytes": 24502,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15600,
+        "bytes": 10577,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 65799,
+        "bytes": 60755,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 23130,
+        "bytes": 17996,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24452,
+        "bytes": 19441,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -534,7 +534,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 2604,
+        "bytes": 2576,
         "purpose": "LLM hint"
       },
       {
@@ -554,32 +554,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1697,
+        "bytes": 1641,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 40005,
+        "bytes": 39949,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 12052,
+        "bytes": 12024,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 12052,
+        "bytes": 12024,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2572,
+        "bytes": 2544,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 11845,
+        "bytes": 11817,
         "purpose": "Repository README"
       },
       {
@@ -597,7 +597,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/cali-view-builders-ai-schemas-3she",
-      "pagesUrl": "https://aiovisibilityhub.github.io/cali-view-builders-ai-schemas-3she/",
+      "pagesUrl": "http://caliviewbuilders.aiovisibility.net/",
       "repo": "AIOVisibilityHub/cali-view-builders-ai-schemas-3she"
     }
   }

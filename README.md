@@ -21,7 +21,7 @@ Canonical AI Data Package for Cali View Builders.
 - [canonical] Cali View Builders — canonical website — https://caliviewbuilders.aiovisibility.net
 - [ai-data-hub] Cali View Builders — AI Data Hub — https://caliviewbuilders.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/cali-view-builders-ai-schemas-3she
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/cali-view-builders-ai-schemas-3she/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — http://caliviewbuilders.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
