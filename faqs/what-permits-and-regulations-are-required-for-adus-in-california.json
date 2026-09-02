@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-and-regulations-are-required-for-adus-in-california",
+  "name": "What permits and regulations are required for ADUs in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations are required for ADUs in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California state laws have streamlined ADU regulations, generally overriding more restrictive local rules. Most cities are required to allow ADUs in residential zones. Key regulations often include size limits (e.g., maximum 1,200 sq ft or a percentage of the main dwelling), setback requirements, and parking provisions. Fire sprinklers may or may not be required depending on certain factors. You'll need permits for planning, building, plumbing, electrical, and mechanical work. Navigating these requires a thorough understanding of current state and local ordinances.",
+        "@type": "Answer",
+        "description": "California state laws streamline ADU regulations, generally overriding local restrictions. Permits for planning, building, plumbing, electrical, and mechanical work are typically required."
+      }
+    }
+  ],
+  "description": "California state laws streamline ADU regulations, generally overriding local restrictions. Permits for planning, building, plumbing, electrical, and mechanical"
+}

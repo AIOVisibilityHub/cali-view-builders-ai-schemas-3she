@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-does-your-design-build-process-work-for-additions",
+  "name": "How does your design-build process work for additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does your design-build process work for additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design-build process for additions integrates design and construction services under one roof, streamlining the entire project. It begins with an initial consultation to understand your vision and needs. Our team then develops conceptual designs, followed by detailed architectural plans and engineering drawings. Once the design is finalized and permits are secured, our construction team takes over, maintaining close communication with you throughout. This integrated approach ensures continuity, reduces potential conflicts, and keeps the project on schedule and budget.",
+        "@type": "Answer",
+        "description": "Our design-build process combines design and construction, starting with consultation, then developing plans, securing permits, and finally building, ensuring seamless execution."
+      }
+    }
+  ],
+  "description": "Our design-build process combines design and construction, starting with consultation, then developing plans, securing permits, and finally building, ensuring s"
+}

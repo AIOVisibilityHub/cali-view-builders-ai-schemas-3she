@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-permits-for-my-kitchen-renovation",
+  "name": "Do I need permits for my kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need permits for your kitchen renovation depends on the scope of the work. Minor cosmetic changes like painting, cabinet refacing, or replacing existing fixtures generally do not require permits. However, if your renovation involves altering the structural integrity of your home, moving or adding new plumbing lines, changing electrical wiring, modifying gas lines, or expanding the kitchen's footprint, permits are almost certainly required by local building departments in areas like Los Angeles. A reputable contractor will help determine permit needs and handle the application process.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for kitchen renovations involving structural changes, new plumbing, electrical work, or gas line modifications, but not for minor cosmetic updates."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for kitchen renovations involving structural changes, new plumbing, electrical work, or gas line modifications, but not for minor cos"
+}

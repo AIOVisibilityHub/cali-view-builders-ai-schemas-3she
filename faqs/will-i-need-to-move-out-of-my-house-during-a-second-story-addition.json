@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/will-i-need-to-move-out-of-my-house-during-a-second-story-addition",
+  "name": "Will I need to move out of my house during a second story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need to move out of my house during a second story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a second story addition depends on the scope of the project and the level of disruption. For major additions involving extensive structural work, roofing removal, and significant utility rerouting, temporary relocation is often advisable for safety and comfort. However, if the project can be isolated or phased carefully, some homeowners choose to stay. Discuss specific logistical plans with your contractor to understand the potential impact on your daily living.",
+        "@type": "Answer",
+        "description": "Temporary relocation may be necessary during a second story addition, especially for extensive structural work, though it depends on project scope and can be discussed with your contractor."
+      }
+    }
+  ],
+  "description": "Temporary relocation may be necessary during a second story addition, especially for extensive structural work, though it depends on project scope and can be di"
+}

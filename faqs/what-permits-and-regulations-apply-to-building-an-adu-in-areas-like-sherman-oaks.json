@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-and-regulations-apply-to-building-an-adu-in-areas-like-sherman-oaks",
+  "name": "What permits and regulations apply to building an ADU in areas like Sherman Oaks or Burbank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations apply to building an ADU in areas like Sherman Oaks or Burbank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU construction in areas like Sherman Oaks (Los Angeles) and Burbank requires adherence to specific city and state regulations. This typically includes obtaining building permits, zoning clearance, and potentially planning review. State laws have streamlined some ADU regulations, but local ordinances still dictate specific requirements regarding setbacks, height, size, and parking. It's essential to ensure your design complies with all applicable codes before construction begins. Our team handles the permit application process and ensures all designs meet local standards.",
+        "@type": "Answer",
+        "description": "ADU construction in areas like Sherman Oaks and Burbank requires specific city and state permits and adherence to zoning, setback, and size regulations."
+      }
+    }
+  ],
+  "description": "ADU construction in areas like Sherman Oaks and Burbank requires specific city and state permits and adherence to zoning, setback, and size regulations."
+}

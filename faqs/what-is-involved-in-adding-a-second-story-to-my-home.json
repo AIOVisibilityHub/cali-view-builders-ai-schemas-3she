@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-involved-in-adding-a-second-story-to-my-home",
+  "name": "What is involved in adding a second story to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in adding a second story to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a second story typically involves a multi-phase process. Initially, a structural assessment confirms your existing foundation can support the additional weight. Then, architectural plans are drawn, followed by securing necessary permits. Construction includes framing the new floor, installing plumbing and electrical, adding roofing, and finishing the interior and exterior to match your home. The process requires careful coordination to minimize disruption and ensure structural integrity and code compliance.",
+        "@type": "Answer",
+        "description": "Adding a second story involves structural assessment, architectural design, permitting, framing, utility installation, roofing, and finishing to expand your home upwards."
+      }
+    }
+  ],
+  "description": "Adding a second story involves structural assessment, architectural design, permitting, framing, utility installation, roofing, and finishing to expand your hom"
+}

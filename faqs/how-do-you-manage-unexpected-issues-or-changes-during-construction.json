@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-you-manage-unexpected-issues-or-changes-during-construction",
+  "name": "How do you manage unexpected issues or changes during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you manage unexpected issues or changes during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At Cali View Builders, we anticipate and plan for potential challenges, but unexpected issues can arise in any construction project. Our approach is proactive communication and transparency. If an unforeseen issue or a client-requested change occurs, we promptly assess the impact on the schedule and budget. We then discuss all available options and their implications with you, providing clear recommendations and obtaining your approval before proceeding. Our goal is to minimize disruption and ensure you are fully informed at every stage.",
+        "@type": "Answer",
+        "description": "We manage unexpected issues with proactive communication, assessing impacts on schedule/budget, and discussing all options with you for approval before proceeding."
+      }
+    }
+  ],
+  "description": "We manage unexpected issues with proactive communication, assessing impacts on schedule/budget, and discussing all options with you for approval before proceedi"
+}

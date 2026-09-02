@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-an-architect-to-design-my-detached-adu",
+  "name": "Do I need an architect to design my detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect to design my detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always legally mandatory for smaller ADUs, hiring an architect or experienced design professional is highly recommended for a detached ADU project. An architect can optimize space, ensure structural integrity, navigate complex zoning codes, and create a design that complements your existing property. They also play a crucial role in developing detailed plans required for permitting. Our integrated approach includes design services to streamline this process.",
+        "@type": "Answer",
+        "description": "While not always mandatory, hiring an architect is highly recommended for detached ADUs to ensure optimal design, structural integrity, and code compliance."
+      }
+    }
+  ],
+  "description": "While not always mandatory, hiring an architect is highly recommended for detached ADUs to ensure optimal design, structural integrity, and code compliance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-garage-conversions-differ-from-new-home-additions",
+  "name": "How do garage conversions differ from new home additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do garage conversions differ from new home additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage conversions repurpose existing structures, often making them a more cost-effective and faster way to add living space compared to new home additions. Conversions leverage existing foundations and walls, reducing material and labor costs. New additions typically require excavation, new foundations, and extensive structural work from scratch. Conversions also usually have a smaller footprint, impacting yard space less.",
+        "@type": "Answer",
+        "description": "Garage conversions repurpose existing space, often making them more cost-effective and quicker than building new home additions from scratch."
+      }
+    }
+  ],
+  "description": "Garage conversions repurpose existing space, often making them more cost-effective and quicker than building new home additions from scratch."
+}

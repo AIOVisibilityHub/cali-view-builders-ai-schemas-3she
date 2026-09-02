@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-a-garage-conversion",
+  "name": "What is a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion transforms an existing garage space into a new, functional living area. This can include converting it into an Accessory Dwelling Unit (ADU), a home office, an extra bedroom, a gym, or a studio. The process involves structural modifications, insulation, plumbing, electrical work, and finishes to make the space habitable and integrated with your home.",
+        "@type": "Answer",
+        "description": "A garage conversion transforms an existing garage into a new, functional living space like an ADU, office, or bedroom."
+      }
+    }
+  ],
+  "description": "A garage conversion transforms an existing garage into a new, functional living space like an ADU, office, or bedroom."
+}

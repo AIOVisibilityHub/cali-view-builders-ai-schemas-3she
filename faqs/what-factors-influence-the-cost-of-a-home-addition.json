@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-factors-influence-the-cost-of-a-home-addition",
+  "name": "What factors influence the cost of a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors impact the cost of a home addition. These include the size of the addition, the complexity of the design, and the quality of materials selected. Site conditions, such as existing plumbing or electrical systems, can also affect expenses. Additionally, permits, architectural fees, and labor costs contribute to the overall budget. A detailed estimate from a contractor will itemize these elements, providing clarity on the investment required.",
+        "@type": "Answer",
+        "description": "Cost factors include addition size, design complexity, material quality, site conditions, permits, architectural fees, and labor."
+      }
+    }
+  ],
+  "description": "Cost factors include addition size, design complexity, material quality, site conditions, permits, architectural fees, and labor."
+}

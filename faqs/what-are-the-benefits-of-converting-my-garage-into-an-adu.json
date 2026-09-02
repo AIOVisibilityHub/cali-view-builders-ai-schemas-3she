@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-benefits-of-converting-my-garage-into-an-adu",
+  "name": "What are the benefits of converting my garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of converting my garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing garage into an ADU offers several benefits. It can be a more cost-effective option than building a new detached structure, as it utilizes an existing foundation and roof. The construction timeline is often shorter because the main shell is already in place. Garage conversions are also highly sustainable, repurposing an existing structure rather than building from scratch. This type of ADU provides a convenient way to add living space, generate rental income, or provide housing for family members, often with minimal impact on yard space.",
+        "@type": "Answer",
+        "description": "Converting a garage into an ADU is often more cost-effective and quicker than new construction. It reuses existing structures, adding living space or income with minimal yard impact."
+      }
+    }
+  ],
+  "description": "Converting a garage into an ADU is often more cost-effective and quicker than new construction. It reuses existing structures, adding living space or income wit"
+}

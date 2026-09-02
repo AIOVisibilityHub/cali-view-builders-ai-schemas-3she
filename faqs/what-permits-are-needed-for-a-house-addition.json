@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-needed-for-a-house-addition",
+  "name": "What permits are needed for a house addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a house addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House additions typically require a range of permits from your local jurisdiction, such as the City of Los Angeles Department of Building and Safety. These commonly include building permits, plumbing permits, electrical permits, and sometimes mechanical or zoning permits. The specific permits needed depend on the scope of your project. As your contractor, Cali View Builders manages the entire permitting process on your behalf, from preparing the necessary documentation to submitting applications and coordinating inspections, ensuring compliance with local codes.",
+        "@type": "Answer",
+        "description": "House additions generally require building, plumbing, electrical, and zoning permits from local authorities. We manage the entire permitting process, including applications and inspections."
+      }
+    }
+  ],
+  "description": "House additions generally require building, plumbing, electrical, and zoning permits from local authorities. We manage the entire permitting process, including"
+}

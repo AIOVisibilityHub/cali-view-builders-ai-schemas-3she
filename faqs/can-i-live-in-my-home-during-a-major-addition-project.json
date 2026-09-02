@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-live-in-my-home-during-a-major-addition-project",
+  "name": "Can I live in my home during a major addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a major addition project is often possible, but it depends on the scope of work and your comfort level. Contractors typically work to minimize disruption, isolating construction areas and ensuring safety. However, expect noise, dust, and temporary utility interruptions. For very extensive projects, or additions impacting essential living spaces like kitchens or bathrooms, temporarily relocating might be more practical for your family's comfort and safety.",
+        "@type": "Answer",
+        "description": "It's often possible to live in your home during an addition, but expect noise and dust. For extensive projects, temporary relocation might be necessary."
+      }
+    }
+  ],
+  "description": "It's often possible to live in your home during an addition, but expect noise and dust. For extensive projects, temporary relocation might be necessary."
+}

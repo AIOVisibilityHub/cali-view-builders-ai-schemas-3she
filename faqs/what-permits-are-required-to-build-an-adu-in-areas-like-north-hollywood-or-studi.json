@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-required-to-build-an-adu-in-areas-like-north-hollywood-or-studi",
+  "name": "What permits are required to build an ADU in areas like North Hollywood or Studio City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required to build an ADU in areas like North Hollywood or Studio City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU in North Hollywood or Studio City, which are part of Los Angeles, requires several permits from the Los Angeles Department of Building and Safety (LADBS). These typically include a building permit, grading permits if necessary, and potentially others related to plumbing, electrical, and mechanical systems. An ADU contractor will assist in preparing and submitting all required plans and documentation to ensure compliance with local zoning ordinances and building codes. Specific requirements can depend on the ADU type and location within the city.",
+        "@type": "Answer",
+        "description": "ADU construction in North Hollywood or Studio City requires building, plumbing, electrical, and grading permits from LADBS. A contractor handles permit applications and compliance."
+      }
+    }
+  ],
+  "description": "ADU construction in North Hollywood or Studio City requires building, plumbing, electrical, and grading permits from LADBS. A contractor handles permit applicat"
+}

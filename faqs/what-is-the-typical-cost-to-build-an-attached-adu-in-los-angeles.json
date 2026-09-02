@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-to-build-an-attached-adu-in-los-angeles",
+  "name": "What is the typical cost to build an attached ADU in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to build an attached ADU in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an attached ADU in Los Angeles varies significantly based on factors such as size, complexity, materials, and site conditions. Converting an existing garage or space can be less expensive than new construction. Expenses include design, permits, materials, and labor. We provide detailed estimates after an initial consultation to understand your specific project requirements and property characteristics.",
+        "@type": "Answer",
+        "description": "Costs for an attached ADU in Los Angeles vary based on size, complexity, and materials; we provide detailed estimates after an initial consultation."
+      }
+    }
+  ],
+  "description": "Costs for an attached ADU in Los Angeles vary based on size, complexity, and materials; we provide detailed estimates after an initial consultation."
+}

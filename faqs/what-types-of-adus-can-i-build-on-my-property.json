@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-types-of-adus-can-i-build-on-my-property",
+  "name": "What types of ADUs can I build on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of ADUs can I build on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can typically build several types of ADUs: detached (a standalone structure), attached (an addition to the main house), garage conversion (transforming an existing garage), and junior ADUs (JADUs, which are smaller units within the existing footprint of a single-family home). The feasibility of each type depends on your property's size, local zoning regulations, and existing structures. An ADU contractor can assess your site and recommend the best option.",
+        "@type": "Answer",
+        "description": "Common ADU types include detached, attached, garage conversion, and junior ADUs. Feasibility depends on property and local regulations."
+      }
+    }
+  ],
+  "description": "Common ADU types include detached, attached, garage conversion, and junior ADUs. Feasibility depends on property and local regulations."
+}

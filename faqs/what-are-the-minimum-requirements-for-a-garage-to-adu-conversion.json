@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-minimum-requirements-for-a-garage-to-adu-conversion",
+  "name": "What are the minimum requirements for a garage to ADU conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the minimum requirements for a garage to ADU conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimum requirements for a garage to ADU conversion typically include meeting local zoning ordinances and building codes. This often means ensuring adequate ceiling height (usually 7 feet), proper ventilation, and sufficient natural light. The unit must also have its own separate entrance, a functional kitchen, and a bathroom. Structural integrity of the existing garage is critical, and upgrades to electrical, plumbing, and insulation systems will be necessary to meet current residential standards. Each city may have slight variations, so consulting local regulations is important.",
+        "@type": "Answer",
+        "description": "Minimum requirements include adequate ceiling height, ventilation, natural light, a separate entrance, a kitchen, and a bathroom, all meeting current building codes and zoning."
+      }
+    }
+  ],
+  "description": "Minimum requirements include adequate ceiling height, ventilation, natural light, a separate entrance, a kitchen, and a bathroom, all meeting current building c"
+}

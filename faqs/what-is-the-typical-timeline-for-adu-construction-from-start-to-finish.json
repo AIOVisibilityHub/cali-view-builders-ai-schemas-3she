@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-timeline-for-adu-construction-from-start-to-finish",
+  "name": "What is the typical timeline for ADU construction from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for ADU construction from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for ADU construction, from design to completion, can range from 8 to 18 months. This includes several phases: initial design and architectural drawings (2-4 months), permit submission and approval (3-6 months, can vary greatly by jurisdiction), and actual construction (3-8 months). External factors like material availability, weather, and inspection schedules can also influence the overall duration. An experienced contractor can provide a more precise project schedule.",
+        "@type": "Answer",
+        "description": "ADU construction typically takes 8-18 months, covering design, permitting, and construction phases. Permitting times can vary significantly."
+      }
+    }
+  ],
+  "description": "ADU construction typically takes 8-18 months, covering design, permitting, and construction phases. Permitting times can vary significantly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-design-options-are-available-for-backyard-adus",
+  "name": "What design options are available for backyard ADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design options are available for backyard ADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Backyard ADUs offer diverse design options to match your property and needs. Popular choices include studio units, one-bedroom, or two-bedroom layouts. You can opt for a modern aesthetic, traditional style, or something in between. Customization extends to exterior finishes, interior materials, and energy-efficient features. We work with clients to design ADUs that complement their existing home and fulfill their functional requirements.",
+        "@type": "Answer",
+        "description": "ADU design options range from studio to two-bedroom layouts, with various aesthetic styles, exterior finishes, and interior materials to choose from."
+      }
+    }
+  ],
+  "description": "ADU design options range from studio to two-bedroom layouts, with various aesthetic styles, exterior finishes, and interior materials to choose from."
+}

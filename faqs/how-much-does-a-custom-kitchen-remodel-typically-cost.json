@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-much-does-a-custom-kitchen-remodel-typically-cost",
+  "name": "How much does a custom kitchen remodel typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom kitchen remodel typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom kitchen remodel varies significantly based on factors like the size of your kitchen, the quality of materials selected, the extent of structural changes, and the complexity of finishes. Costs can range widely, from mid-range updates to high-end luxury transformations. We provide detailed, transparent estimates after an initial consultation and design discussion, ensuring you understand all aspects of the investment. Our goal is to align your vision with a budget that works for you.",
+        "@type": "Answer",
+        "description": "Custom kitchen remodel costs vary greatly depending on size, material choices, and design complexity. We provide detailed estimates after an initial consultation."
+      }
+    }
+  ],
+  "description": "Custom kitchen remodel costs vary greatly depending on size, material choices, and design complexity. We provide detailed estimates after an initial consultatio"
+}

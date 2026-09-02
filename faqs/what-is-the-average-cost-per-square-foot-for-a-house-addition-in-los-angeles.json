@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-average-cost-per-square-foot-for-a-house-addition-in-los-angeles",
+  "name": "What is the average cost per square foot for a house addition in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for a house addition in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for a house addition in the Los Angeles area can range widely, typically from $250 to $600+, depending on several factors. These include the complexity of the design, the quality of materials selected, the scope of work (e.g., utility extensions, foundation work), and interior finishes. A second-story addition often costs more per square foot than a ground-level expansion due to structural requirements. We provide detailed, transparent bids tailored to your specific project after a thorough consultation.",
+        "@type": "Answer",
+        "description": "Costs for house additions in Los Angeles typically range from $250 to $600+ per square foot, influenced by design complexity, material quality, and scope of work."
+      }
+    }
+  ],
+  "description": "Costs for house additions in Los Angeles typically range from $250 to $600+ per square foot, influenced by design complexity, material quality, and scope of wor"
+}

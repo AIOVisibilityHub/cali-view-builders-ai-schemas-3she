@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-an-adu-and-why-should-i-consider-building-one",
+  "name": "What is an ADU and why should I consider building one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and why should I consider building one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is an independent living space located on the same property as a primary single-family home. ADUs can serve multiple purposes, such as generating rental income, housing family members, or providing a dedicated home office. They can increase property value and offer flexible living arrangements without requiring the purchase of additional land. Many homeowners choose to build ADUs to adapt their property to evolving needs, enhance privacy for guests or tenants, or create multi-generational living solutions. They are a practical way to maximize property utility.",
+        "@type": "Answer",
+        "description": "An ADU is an independent living space on your property, offering benefits like rental income, increased property value, or housing for family. They adapt your property for various needs."
+      }
+    }
+  ],
+  "description": "An ADU is an independent living space on your property, offering benefits like rental income, increased property value, or housing for family. They adapt your p"
+}

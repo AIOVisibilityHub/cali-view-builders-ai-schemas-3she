@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-in-a-contractor-s-portfolio",
+  "name": "What should I look for in a contractor's portfolio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a contractor's portfolio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reviewing a contractor's portfolio, look for projects that are similar in style, scope, and size to your proposed addition. Pay attention to the quality of craftsmanship, materials used, and attention to detail in the finished work. A diverse portfolio demonstrates versatility, but specific examples of successful home additions are most relevant. Before-and-after photos can be particularly insightful, showcasing their ability to transform spaces effectively and resolve design challenges.",
+        "@type": "Answer",
+        "description": "Look for projects similar to your proposed addition, paying attention to craftsmanship, material quality, and before-and-after transformations."
+      }
+    }
+  ],
+  "description": "Look for projects similar to your proposed addition, paying attention to craftsmanship, material quality, and before-and-after transformations."
+}

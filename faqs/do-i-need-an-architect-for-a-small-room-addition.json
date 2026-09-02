@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-an-architect-for-a-small-room-addition",
+  "name": "Do I need an architect for a small room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a small room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most room additions, even small ones, consulting with an architect or a qualified design-build professional is highly recommended. While some very simple additions might be handled with pre-drawn plans, an architect ensures the new space integrates seamlessly with your existing home's aesthetics and structure. They can optimize layout, natural light, and functionality, and ensure compliance with local zoning laws and building codes. Their expertise can prevent costly mistakes and enhance the long-term value and usability of your addition.",
+        "@type": "Answer",
+        "description": "An architect is highly recommended for most room additions, even small ones, to ensure structural integrity, aesthetic integration, and code compliance."
+      }
+    }
+  ],
+  "description": "An architect is highly recommended for most room additions, even small ones, to ensure structural integrity, aesthetic integration, and code compliance."
+}

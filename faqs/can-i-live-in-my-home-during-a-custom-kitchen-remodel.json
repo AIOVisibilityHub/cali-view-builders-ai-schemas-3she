@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-live-in-my-home-during-a-custom-kitchen-remodel",
+  "name": "Can I live in my home during a custom kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a custom kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to remain in your home during a custom kitchen remodel, it's important to be prepared for some disruption. The kitchen will be a construction zone, meaning no access to cooking facilities, and there will be dust, noise, and contractors working in your home daily. We take measures to minimize disruption, such as dust barriers and daily clean-up. Some homeowners opt for temporary kitchen setups in another room or plan to dine out frequently. We discuss these logistics with you to set realistic expectations and make the process as comfortable as possible.",
+        "@type": "Answer",
+        "description": "You can live in your home during a remodel, but expect disruption like no kitchen access, dust, and noise. We take steps to minimize inconvenience."
+      }
+    }
+  ],
+  "description": "You can live in your home during a remodel, but expect disruption like no kitchen access, dust, and noise. We take steps to minimize inconvenience."
+}

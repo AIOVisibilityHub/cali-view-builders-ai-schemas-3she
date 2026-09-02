@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-permits-to-convert-my-garage",
+  "name": "Do I need permits to convert my garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to convert my garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are almost always required for a garage conversion project, especially if you are modifying the structure, adding plumbing or electrical, or changing its use to a habitable space. The specific permits needed will depend on your local jurisdiction's building codes and zoning ordinances. Working with a builder experienced in local regulations in areas like Los Angeles is crucial to ensure compliance.",
+        "@type": "Answer",
+        "description": "Yes, permits are almost always required for garage conversions, especially when modifying structure, adding utilities, or changing its use."
+      }
+    }
+  ],
+  "description": "Yes, permits are almost always required for garage conversions, especially when modifying structure, adding utilities, or changing its use."
+}

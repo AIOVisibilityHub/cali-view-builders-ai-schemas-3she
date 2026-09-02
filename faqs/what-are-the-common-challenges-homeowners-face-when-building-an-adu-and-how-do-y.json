@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-common-challenges-homeowners-face-when-building-an-adu-and-how-do-y",
+  "name": "What are the common challenges homeowners face when building an ADU and how do you address them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges homeowners face when building an ADU and how do you address them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include navigating complex permitting processes, managing construction budgets, and minimizing disruption to the primary residence. We address these by providing comprehensive project management, from initial design and permit submission to construction and final inspection. Our team has extensive experience with local regulations in areas like Burbank and North Hollywood, ensuring a smoother process, clear communication, and efficient execution to mitigate potential issues.",
+        "@type": "Answer",
+        "description": "Common challenges include permitting, budgeting, and disruption. We offer comprehensive project management, leveraging local expertise to ensure a smooth process."
+      }
+    }
+  ],
+  "description": "Common challenges include permitting, budgeting, and disruption. We offer comprehensive project management, leveraging local expertise to ensure a smooth proces"
+}

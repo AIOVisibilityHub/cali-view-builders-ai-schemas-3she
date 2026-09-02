@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-a-bathroom-remodel-with-your-company",
+  "name": "What is the process for a bathroom remodel with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a bathroom remodel with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our bathroom remodel process begins with an initial consultation to discuss your vision, needs, and budget. Next, we move to design, where our team helps you select materials, finishes, and layout. Once the design is finalized and permits are secured, our skilled contractors begin the demolition and construction phase, which includes plumbing, electrical, tiling, and fixture installation. Throughout the project, we maintain open communication, providing regular updates. The final stage involves a thorough clean-up and a walk-through to ensure your complete satisfaction with your new bathroom.",
+        "@type": "Answer",
+        "description": "Our bathroom remodel process includes initial consultation, design and material selection, securing permits, demolition, construction (plumbing, electrical, tiling, installation), regular updates, and a final walk-through."
+      }
+    }
+  ],
+  "description": "Our bathroom remodel process includes initial consultation, design and material selection, securing permits, demolition, construction (plumbing, electrical, til"
+}

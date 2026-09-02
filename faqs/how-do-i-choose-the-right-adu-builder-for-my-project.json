@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-the-right-adu-builder-for-my-project",
+  "name": "How do I choose the right ADU builder for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right ADU builder for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right ADU builder involves researching their experience with local regulations and successful projects in your area. Look for a builder with a strong portfolio of completed ADUs, positive client testimonials, and transparent communication regarding costs and timelines. Verify their licensing and insurance. A good builder should be able to guide you through the entire process, from design to permits to construction, ensuring compliance and quality. Prioritize a builder who understands your specific needs and can deliver a project that aligns with your vision and budget.",
+        "@type": "Answer",
+        "description": "To choose an ADU builder, look for experience, local expertise, a strong portfolio, and transparent communication. Verify licensing and insurance, and ensure they understand your vision."
+      }
+    }
+  ],
+  "description": "To choose an ADU builder, look for experience, local expertise, a strong portfolio, and transparent communication. Verify licensing and insurance, and ensure th"
+}

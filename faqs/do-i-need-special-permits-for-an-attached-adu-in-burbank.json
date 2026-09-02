@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-special-permits-for-an-attached-adu-in-burbank",
+  "name": "Do I need special permits for an attached ADU in Burbank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special permits for an attached ADU in Burbank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an attached ADU in Burbank, like other cities in Los Angeles County, requires specific permits and adherence to local zoning ordinances. These typically include building permits, and possibly planning permits depending on the scope of work. We manage the entire permitting process on your behalf, ensuring all plans comply with Burbank's regulations, including setback requirements, size limitations, and utility connections. This ensures a smooth and compliant construction project.",
+        "@type": "Answer",
+        "description": "Yes, special building and planning permits are required for an attached ADU in Burbank, which we manage for you."
+      }
+    }
+  ],
+  "description": "Yes, special building and planning permits are required for an attached ADU in Burbank, which we manage for you."
+}

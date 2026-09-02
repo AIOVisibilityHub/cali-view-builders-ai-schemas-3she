@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-use-an-adu-as-a-short-term-rental-in-areas-like-santa-monica-or-beverly-hi",
+  "name": "Can I use an ADU as a short-term rental in areas like Santa Monica or Beverly Hills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use an ADU as a short-term rental in areas like Santa Monica or Beverly Hills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regulations for short-term rentals (like Airbnb) for ADUs vary significantly by city in Los Angeles County. While ADUs can be rented long-term in most areas, some cities, including Santa Monica and Beverly Hills, have very strict ordinances regarding short-term rentals. For example, Santa Monica generally prohibits non-primary residents from short-term renting. Beverly Hills also has stringent rules. It's crucial to check the specific short-term rental ordinances of your city before planning to use your ADU for this purpose, as non-compliance can lead to significant penalties.",
+        "@type": "Answer",
+        "description": "Short-term rental rules for ADUs vary by city. Cities like Santa Monica and Beverly Hills have strict prohibitions or limitations on non-primary residents using ADUs for short-term rentals."
+      }
+    }
+  ],
+  "description": "Short-term rental rules for ADUs vary by city. Cities like Santa Monica and Beverly Hills have strict prohibitions or limitations on non-primary residents using"
+}

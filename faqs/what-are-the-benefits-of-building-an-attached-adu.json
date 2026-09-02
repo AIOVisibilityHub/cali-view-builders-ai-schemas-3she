@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-benefits-of-building-an-attached-adu",
+  "name": "What are the benefits of building an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an attached ADU offers several benefits, including increased property value, potential rental income, and flexible space for family members, guests, or a home office. Since they are attached, they can sometimes be more cost-effective to build than detached units due to shared infrastructure and utilities. They can also offer easier access for caregivers or multi-generational living, maintaining a close connection to the primary residence.",
+        "@type": "Answer",
+        "description": "Attached ADUs increase property value, provide rental income potential, and offer flexible living space for families or guests."
+      }
+    }
+  ],
+  "description": "Attached ADUs increase property value, provide rental income potential, and offer flexible living space for families or guests."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-and-regulations-apply-to-building-an-adu-in-california",
+  "name": "What permits and regulations apply to building an ADU in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations apply to building an ADU in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, state laws facilitate ADU development, but local ordinances also apply. Key regulations include setbacks from property lines, height limits, lot coverage, and parking requirements. You will need building permits, and potentially zoning permits, from your local city planning and building departments. Compliance with fire safety, energy efficiency, and accessibility codes is also mandatory. We handle the permit application process for our clients.",
+        "@type": "Answer",
+        "description": "California ADU laws require state and local permits, including building and zoning permits. Regulations cover setbacks, height, lot coverage, and safety codes."
+      }
+    }
+  ],
+  "description": "California ADU laws require state and local permits, including building and zoning permits. Regulations cover setbacks, height, lot coverage, and safety codes."
+}

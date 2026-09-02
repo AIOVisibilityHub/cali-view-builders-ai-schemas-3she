@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-services-does-a-kitchen-remodeling-contractor-provide",
+  "name": "What services does a kitchen remodeling contractor provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services does a kitchen remodeling contractor provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodeling contractor manages all aspects of your kitchen renovation project. This includes initial design consultation, demolition, installation of new cabinetry, countertops, flooring, lighting, plumbing fixtures, and appliances. They coordinate all subcontractors, ensure the project adheres to local building codes, and oversee the timeline and budget. Cali View Builders ensures a seamless process from concept to completion, handling permits and inspections as needed for projects in Los Angeles and surrounding areas.",
+        "@type": "Answer",
+        "description": "A kitchen remodeling contractor manages the entire renovation, from design and demolition to installation of new fixtures, plumbing, and appliances. They also coordinate subcontractors and handle permits."
+      }
+    }
+  ],
+  "description": "A kitchen remodeling contractor manages the entire renovation, from design and demolition to installation of new fixtures, plumbing, and appliances. They also c"
+}

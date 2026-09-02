@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-a-detached-adu",
+  "name": "What is a Detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Detached ADU (Accessory Dwelling Unit) is a secondary housing unit on a residential property that is separate from the primary home. It typically includes its own kitchen, bathroom, and living area, providing independent living space. Detached ADUs can serve various purposes, such as housing for family members, rental income, or a dedicated home office. They are designed to blend seamlessly with the existing property while offering distinct privacy and functionality.",
+        "@type": "Answer",
+        "description": "A Detached ADU is a separate housing unit on a property with its own living facilities, distinct from the main house."
+      }
+    }
+  ],
+  "description": "A Detached ADU is a separate housing unit on a property with its own living facilities, distinct from the main house."
+}

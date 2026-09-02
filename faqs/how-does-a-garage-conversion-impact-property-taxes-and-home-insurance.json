@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-does-a-garage-conversion-impact-property-taxes-and-home-insurance",
+  "name": "How does a garage conversion impact property taxes and home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a garage conversion impact property taxes and home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting your garage into a habitable space, especially an ADU, will typically increase your property's assessed value, which can lead to higher property taxes. It's advisable to consult with your local tax assessor's office for specific impacts. For home insurance, you will need to inform your provider about the conversion. The additional living space will likely require an adjustment to your policy to ensure adequate coverage for the new structure and its contents, as well as liability.",
+        "@type": "Answer",
+        "description": "A garage conversion typically increases property value and taxes. Inform your home insurance provider to adjust coverage for the new living space."
+      }
+    }
+  ],
+  "description": "A garage conversion typically increases property value and taxes. Inform your home insurance provider to adjust coverage for the new living space."
+}

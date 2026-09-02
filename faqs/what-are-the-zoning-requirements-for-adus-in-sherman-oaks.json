@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-zoning-requirements-for-adus-in-sherman-oaks",
+  "name": "What are the zoning requirements for ADUs in Sherman Oaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning requirements for ADUs in Sherman Oaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Sherman Oaks, as part of the City of Los Angeles, ADU zoning requirements largely align with state laws, but local overlay zones or specific plan areas might have additional considerations. Generally, you can build one ADU (and one JADU) per single-family lot. Setbacks, height limits (often 16 feet for a single-story detached), and maximum unit size (up to 1200 square feet) are key factors. We verify all local zoning specific to your property address.",
+        "@type": "Answer",
+        "description": "Sherman Oaks ADU zoning, aligning with LA city, allows one ADU per lot with specific setbacks, height limits (e.g., 16ft for detached), and a maximum size of 1200 sq ft."
+      }
+    }
+  ],
+  "description": "Sherman Oaks ADU zoning, aligning with LA city, allows one ADU per lot with specific setbacks, height limits (e.g., 16ft for detached), and a maximum size of 12"
+}

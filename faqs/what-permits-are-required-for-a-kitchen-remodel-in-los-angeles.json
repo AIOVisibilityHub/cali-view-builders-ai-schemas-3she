@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-required-for-a-kitchen-remodel-in-los-angeles",
+  "name": "What permits are required for a kitchen remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a kitchen remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, most kitchen remodels that involve altering plumbing, electrical, or structural elements require permits from the Department of Building and Safety (LADBS). Even significant layout changes or adding new appliances may necessitate permits to ensure safety and compliance with local building codes. Projects limited to cosmetic changes like painting or replacing cabinet doors often do not require permits. We manage the entire permitting process on your behalf, ensuring all necessary approvals are secured before construction begins, allowing for a smooth and compliant remodel.",
+        "@type": "Answer",
+        "description": "Most kitchen remodels in Los Angeles involving plumbing, electrical, or structural changes require permits from LADBS. We handle the entire permitting process for you."
+      }
+    }
+  ],
+  "description": "Most kitchen remodels in Los Angeles involving plumbing, electrical, or structural changes require permits from LADBS. We handle the entire permitting process f"
+}

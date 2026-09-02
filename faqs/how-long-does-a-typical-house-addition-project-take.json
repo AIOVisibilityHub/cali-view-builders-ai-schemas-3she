@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-typical-house-addition-project-take",
+  "name": "How long does a typical house addition project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical house addition project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a house addition project varies significantly based on its size, complexity, and specific requirements, as well as permitting timelines. Generally, a small-to-medium addition might take 3-6 months from design approval to completion, while larger or more complex projects could extend to 8-12 months or more. We provide a detailed timeline estimate after the initial consultation and design phase, factoring in all project stages from planning and permits to construction and finishing touches.",
+        "@type": "Answer",
+        "description": "Project duration varies by size and complexity, typically 3-6 months for small additions and 8-12 months for larger ones, including design, permits, and construction."
+      }
+    }
+  ],
+  "description": "Project duration varies by size and complexity, typically 3-6 months for small additions and 8-12 months for larger ones, including design, permits, and constru"
+}

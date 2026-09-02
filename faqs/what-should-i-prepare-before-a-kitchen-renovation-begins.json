@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-prepare-before-a-kitchen-renovation-begins",
+  "name": "What should I prepare before a kitchen renovation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a kitchen renovation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your kitchen renovation starts, it's crucial to declutter and empty your existing kitchen completely. Arrange for temporary cooking facilities, such as a microwave or toaster oven, in another part of your home. Secure a safe storage location for kitchen items you wish to keep. Discuss with your contractor about access to utilities, water, and electricity during construction. It's also helpful to communicate with your neighbors about potential noise or disruption. Consider protecting adjacent areas of your home from dust and debris.",
+        "@type": "Answer",
+        "description": "Before renovation, empty your kitchen, set up temporary cooking, store items, discuss utility access with your contractor, and inform neighbors about potential disruptions."
+      }
+    }
+  ],
+  "description": "Before renovation, empty your kitchen, set up temporary cooking, store items, discuss utility access with your contractor, and inform neighbors about potential"
+}

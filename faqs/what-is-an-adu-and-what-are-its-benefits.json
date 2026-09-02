@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-an-adu-and-what-are-its-benefits",
+  "name": "What is an ADU and what are its benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and what are its benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. It can be attached or detached from the main house. Benefits include increased property value, potential rental income, flexible space for family members or a home office, and efficient use of existing land. ADUs can provide additional housing options in densely populated areas like Los Angeles.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on your property, offering benefits like increased value, rental income, and flexible space."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on your property, offering benefits like increased value, rental income, and flexible space."
+}

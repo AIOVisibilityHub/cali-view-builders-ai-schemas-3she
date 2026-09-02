@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/when-should-i-consider-a-home-addition-instead-of-buying-a-new-house",
+  "name": "When should I consider a home addition instead of buying a new house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a home addition instead of buying a new house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a home addition if you love your current neighborhood, your children are settled in local schools, or you want to maintain your existing property value and location. An addition allows you to customize your living space to meet evolving needs, such as a growing family or the need for a home office, without the disruption and expense of moving. It's often a cost-effective way to gain space while staying put.",
+        "@type": "Answer",
+        "description": "Consider an addition if you want to stay in your current location, avoid moving expenses, and customize your living space to meet new needs."
+      }
+    }
+  ],
+  "description": "Consider an addition if you want to stay in your current location, avoid moving expenses, and customize your living space to meet new needs."
+}

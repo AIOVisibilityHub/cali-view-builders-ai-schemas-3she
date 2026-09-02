@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-can-an-adu-increase-my-property-value-and-potential-rental-income",
+  "name": "How can an ADU increase my property value and potential rental income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can an ADU increase my property value and potential rental income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU significantly enhances property value by adding livable square footage and an additional income-generating unit. For potential renters, an ADU offers an independent living space, which can command competitive rental rates, providing a steady stream of income. The added housing option makes your property more attractive to a wider range of buyers in the future, especially in competitive markets like Studio City or Encino.",
+        "@type": "Answer",
+        "description": "ADUs increase property value by adding livable space and can generate rental income, making your property more attractive to buyers and renters."
+      }
+    }
+  ],
+  "description": "ADUs increase property value by adding livable space and can generate rental income, making your property more attractive to buyers and renters."
+}

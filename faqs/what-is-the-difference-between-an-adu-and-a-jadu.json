@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-difference-between-an-adu-and-a-jadu",
+  "name": "What is the difference between an ADU and a JADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an ADU and a JADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Junior Accessory Dwelling Unit (JADU) is a specific type of ADU with particular distinctions. JADUs are smaller, typically up to 500 square feet, and must be created within the existing footprint of a single-family home, often within an attached garage or an existing bedroom. They are required to have an exterior entrance, but may share sanitation facilities with the primary dwelling, unlike a full ADU which needs its own. JADUs are generally subject to less stringent parking requirements and are often simpler to permit and construct.",
+        "@type": "Answer",
+        "description": "A JADU is a smaller ADU (up to 500 sq ft) created within an existing home, often sharing facilities with the main house. It has simpler rules than a full ADU."
+      }
+    }
+  ],
+  "description": "A JADU is a smaller ADU (up to 500 sq ft) created within an existing home, often sharing facilities with the main house. It has simpler rules than a full ADU."
+}

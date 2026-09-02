@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-does-a-kitchen-renovation-affect-my-home-s-value",
+  "name": "How does a kitchen renovation affect my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a kitchen renovation affect my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-executed kitchen renovation can significantly enhance your home's value, especially in competitive real estate markets like Los Angeles. Kitchens are often considered the heart of the home, and modern, functional, and aesthetically pleasing kitchens are a major selling point. The return on investment (ROI) varies based on the scale and quality of the renovation, but it can be substantial, often recouping 70-85% or more of the project cost upon resale. Updating an outdated kitchen can make your home more attractive to potential buyers and increase its market appeal.",
+        "@type": "Answer",
+        "description": "A quality kitchen renovation significantly boosts home value, especially in competitive markets, offering a substantial return on investment and increasing buyer appeal."
+      }
+    }
+  ],
+  "description": "A quality kitchen renovation significantly boosts home value, especially in competitive markets, offering a substantial return on investment and increasing buye"
+}

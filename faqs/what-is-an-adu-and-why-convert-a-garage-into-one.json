@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-an-adu-and-why-convert-a-garage-into-one",
+  "name": "What is an ADU and why convert a garage into one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and why convert a garage into one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. Converting an existing garage into an ADU can provide numerous benefits, including generating rental income, housing family members, or creating a dedicated workspace. It often presents a more cost-effective and faster construction option compared to building a new detached ADU from the ground up, as much of the existing structure and foundation are already in place. This type of conversion utilizes underused space efficiently and can significantly increase a property's value and utility.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a property. Converting a garage into an ADU provides rental income, family housing, or a workspace, while often being more cost-effective and faster than new construction."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a property. Converting a garage into an ADU provides rental income, family housing, or a workspace, while often being more"
+}

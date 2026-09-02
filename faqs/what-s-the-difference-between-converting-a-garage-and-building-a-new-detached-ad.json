@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-s-the-difference-between-converting-a-garage-and-building-a-new-detached-ad",
+  "name": "What's the difference between converting a garage and building a new detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between converting a garage and building a new detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing garage generally leverages the existing structure, foundation, and sometimes even the roof, which can significantly reduce both construction costs and project timelines. It's often limited by the existing footprint and ceiling height. Building a new detached ADU, however, offers greater flexibility in design, layout, and size (within zoning limits) but typically involves higher costs due to new foundation work, framing, and roofing. The choice depends on your budget, timeline, specific space needs, and the condition and location of your existing garage.",
+        "@type": "Answer",
+        "description": "Garage conversions use existing structures, are often cheaper and faster, but limited by the existing footprint. New detached ADUs offer more design flexibility but cost more."
+      }
+    }
+  ],
+  "description": "Garage conversions use existing structures, are often cheaper and faster, but limited by the existing footprint. New detached ADUs offer more design flexibility"
+}

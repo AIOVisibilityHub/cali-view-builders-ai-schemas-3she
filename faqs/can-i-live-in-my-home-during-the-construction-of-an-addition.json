@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-live-in-my-home-during-the-construction-of-an-addition",
+  "name": "Can I live in my home during the construction of an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during the construction of an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during an addition project depends on the scale and nature of the work. For smaller, less disruptive additions, staying in your home might be feasible, though you should expect noise, dust, and limited access to certain areas. For larger additions, especially those involving major structural changes, plumbing, or electrical work, temporarily relocating may be advisable for safety and comfort. We will discuss the potential impact on your living situation during the planning phase.",
+        "@type": "Answer",
+        "description": "Living in your home during an addition depends on project scale; smaller additions might allow it, but major structural work often requires temporary relocation for safety and comfort."
+      }
+    }
+  ],
+  "description": "Living in your home during an addition depends on project scale; smaller additions might allow it, but major structural work often requires temporary relocation"
+}

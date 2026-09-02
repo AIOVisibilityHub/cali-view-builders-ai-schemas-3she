@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-services-does-a-bathroom-remodeling-contractor-provide",
+  "name": "What services does a bathroom remodeling contractor provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services does a bathroom remodeling contractor provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom remodeling contractor manages all aspects of transforming your bathroom. This typically includes initial design consultation, material selection guidance (fixtures, tiles, countertops, cabinetry), demolition, plumbing updates, electrical work, tiling, fixture installation (toilets, sinks, showers, tubs), painting, and final clean-up. They coordinate all necessary tradespeople, ensure the project adheres to local building codes, and oversee the timeline and budget from start to finish. Our goal is to provide a seamless remodeling experience, delivering a high-quality finished product that meets your aesthetic and functional needs.",
+        "@type": "Answer",
+        "description": "A bathroom remodeling contractor handles all aspects of your renovation, from design and material selection to demolition, plumbing, electrical, installation, and final clean-up, ensuring code compliance and project management."
+      }
+    }
+  ],
+  "description": "A bathroom remodeling contractor handles all aspects of your renovation, from design and material selection to demolition, plumbing, electrical, installation, a"
+}

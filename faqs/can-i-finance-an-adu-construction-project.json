@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-finance-an-adu-construction-project",
+  "name": "Can I finance an ADU construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance an ADU construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several financing options available for ADU construction. These often include construction loans, home equity lines of credit (HELOCs), cash-out refinances, or personal loans. Some government-backed programs may also be available. The best option for you depends on your financial situation, existing equity, and the project's scope. We recommend consulting with a financial advisor and your bank to explore the most suitable financing solution for your ADU.",
+        "@type": "Answer",
+        "description": "ADU construction can be financed through options like construction loans, HELOCs, or cash-out refinances. Consult a financial advisor for the best fit."
+      }
+    }
+  ],
+  "description": "ADU construction can be financed through options like construction loans, HELOCs, or cash-out refinances. Consult a financial advisor for the best fit."
+}

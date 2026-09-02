@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-difference-between-a-home-addition-and-a-remodel",
+  "name": "What is the difference between a home addition and a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a home addition and a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home addition involves expanding the existing footprint of your home by building new structures, such as adding a new room, a second story, or extending a living area. A remodel, on the other hand, typically involves changing the aesthetics, function, or layout of existing spaces within the current footprint, such as updating a kitchen or bathroom without increasing the home's size. Both can increase value, but additions create new square footage.",
+        "@type": "Answer",
+        "description": "An addition expands your home's footprint with new structures, while a remodel updates existing spaces within the current footprint."
+      }
+    }
+  ],
+  "description": "An addition expands your home's footprint with new structures, while a remodel updates existing spaces within the current footprint."
+}

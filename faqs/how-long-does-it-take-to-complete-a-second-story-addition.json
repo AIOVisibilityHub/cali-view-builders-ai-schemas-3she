@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-it-take-to-complete-a-second-story-addition",
+  "name": "How long does it take to complete a second story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a second story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a second story addition can vary, but generally, projects take between 6 to 12 months from initial design to final completion. This includes time for architectural planning, permit acquisition (which alone can take several weeks or months), and the construction phase itself. Factors such as the size and complexity of the addition, weather conditions, material availability, and the efficiency of the permitting department can all influence the overall project duration.",
+        "@type": "Answer",
+        "description": "A second story addition typically takes 6 to 12 months to complete, including design, permitting, and construction phases."
+      }
+    }
+  ],
+  "description": "A second story addition typically takes 6 to 12 months to complete, including design, permitting, and construction phases."
+}

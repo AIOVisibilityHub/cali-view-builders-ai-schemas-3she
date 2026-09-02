@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-required-for-a-garage-conversion-in-los-angeles",
+  "name": "What permits are required for a garage conversion in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a garage conversion in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into a living space in Los Angeles requires obtaining several permits from the Los Angeles Department of Building and Safety (LADBS). These typically include building permits, electrical permits, plumbing permits, and mechanical permits. If the conversion involves creating an Accessory Dwelling Unit (ADU), specific ADU permits and compliance with local ADU ordinances are also necessary. A reputable contractor will manage the entire permitting process on your behalf.",
+        "@type": "Answer",
+        "description": "In Los Angeles, garage conversions require building, electrical, plumbing, and mechanical permits, along with specific ADU permits if applicable."
+      }
+    }
+  ],
+  "description": "In Los Angeles, garage conversions require building, electrical, plumbing, and mechanical permits, along with specific ADU permits if applicable."
+}

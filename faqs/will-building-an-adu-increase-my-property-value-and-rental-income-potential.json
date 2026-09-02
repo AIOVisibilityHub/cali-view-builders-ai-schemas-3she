@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/will-building-an-adu-increase-my-property-value-and-rental-income-potential",
+  "name": "Will building an ADU increase my property value and rental income potential?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will building an ADU increase my property value and rental income potential?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an ADU can significantly increase both your property value and potential rental income. In high-demand housing markets like Los Angeles, an ADU provides additional living space that is highly attractive to potential buyers, often resulting in a substantial return on investment. For rental income, an ADU offers a consistent stream of revenue, helping to offset mortgage costs or provide supplemental income. The exact increase in value and income will depend on factors like ADU size, quality of construction, and local market conditions.",
+        "@type": "Answer",
+        "description": "Building an ADU can significantly increase property value and rental income potential, offering a strong return on investment in markets like Los Angeles."
+      }
+    }
+  ],
+  "description": "Building an ADU can significantly increase property value and rental income potential, offering a strong return on investment in markets like Los Angeles."
+}

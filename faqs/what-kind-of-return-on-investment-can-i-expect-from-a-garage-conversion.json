@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-kind-of-return-on-investment-can-i-expect-from-a-garage-conversion",
+  "name": "What kind of return on investment can I expect from a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of return on investment can I expect from a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion, particularly into an ADU, can offer a strong return on investment through increased property value and potential rental income. The exact ROI depends on various factors such as the quality of the conversion, the local real estate market, and the demand for rental units in your area. Many homeowners find that the added living space or income stream quickly offsets the initial investment.",
+        "@type": "Answer",
+        "description": "A garage conversion, especially an ADU, can yield high ROI through increased property value and potential rental income."
+      }
+    }
+  ],
+  "description": "A garage conversion, especially an ADU, can yield high ROI through increased property value and potential rental income."
+}

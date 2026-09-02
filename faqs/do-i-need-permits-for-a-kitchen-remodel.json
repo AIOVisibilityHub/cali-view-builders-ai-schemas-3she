@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-permits-for-a-kitchen-remodel",
+  "name": "Do I need permits for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most kitchen remodels, especially those involving changes to plumbing, electrical, or structural elements, require permits from your local municipality. Minor cosmetic updates like painting or replacing cabinet doors typically do not. Failing to obtain necessary permits can lead to fines, project delays, or even the requirement to redo work. Cali View Builders handles all necessary permit applications for our projects in Los Angeles, ensuring compliance and a smooth process.",
+        "@type": "Answer",
+        "description": "Permits are usually required for kitchen remodels involving changes to plumbing, electrical, or structural components. Failing to get them can cause fines or project delays."
+      }
+    }
+  ],
+  "description": "Permits are usually required for kitchen remodels involving changes to plumbing, electrical, or structural components. Failing to get them can cause fines or pr"
+}

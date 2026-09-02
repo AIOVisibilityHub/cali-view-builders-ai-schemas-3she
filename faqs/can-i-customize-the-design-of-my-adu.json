@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-customize-the-design-of-my-adu",
+  "name": "Can I customize the design of my ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the design of my ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization is a key aspect of ADU construction. While ADUs must adhere to local zoning and building codes, there is significant flexibility in design to match your aesthetic preferences and functional needs. You can choose layouts, finishes, materials, and features that complement your existing home or create a unique space. Our design team works closely with clients to bring their vision to life within regulatory frameworks.",
+        "@type": "Answer",
+        "description": "Yes, ADU designs are highly customizable within local zoning and building codes. You can select layouts, finishes, and features to match your vision."
+      }
+    }
+  ],
+  "description": "Yes, ADU designs are highly customizable within local zoning and building codes. You can select layouts, finishes, and features to match your vision."
+}

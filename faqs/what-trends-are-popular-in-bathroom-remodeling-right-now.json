@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-trends-are-popular-in-bathroom-remodeling-right-now",
+  "name": "What trends are popular in bathroom remodeling right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What trends are popular in bathroom remodeling right now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current bathroom remodeling trends often emphasize functionality, comfort, and sustainable design. Popular choices include larger, curbless showers with spa-like features such as rainfall showerheads and body jets. Freestanding tubs remain a luxurious option. In terms of aesthetics, homeowners are gravitating towards natural materials like wood and stone, along with neutral color palettes for a calming ambiance. Smart technology, such as heated floors, smart mirrors, and touchless faucets, is also gaining popularity, enhancing both convenience and energy efficiency in modern bathrooms.",
+        "@type": "Answer",
+        "description": "Popular bathroom remodeling trends include large curbless showers, freestanding tubs, natural materials, neutral color palettes, and smart technology like heated floors and touchless faucets."
+      }
+    }
+  ],
+  "description": "Popular bathroom remodeling trends include large curbless showers, freestanding tubs, natural materials, neutral color palettes, and smart technology like heate"
+}

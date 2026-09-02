@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-key-steps-in-your-bathroom-renovation-process",
+  "name": "What are the key steps in your bathroom renovation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps in your bathroom renovation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our renovation process begins with an initial consultation to discuss your vision, needs, and budget. This is followed by design and material selection, where we help you choose fixtures, tiles, and finishes. Once approved, we move to demolition, then structural and utility work (plumbing, electrical), followed by installation of flooring, cabinetry, and fixtures. The project concludes with finishing touches and a final walkthrough to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our process includes consultation, design and material selection, demolition, structural/utility work, installation, finishing, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "Our process includes consultation, design and material selection, demolition, structural/utility work, installation, finishing, and a final walkthrough."
+}

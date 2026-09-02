@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-required-to-build-a-detached-adu-in-burbank",
+  "name": "What permits are required to build a detached ADU in Burbank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required to build a detached ADU in Burbank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Burbank, building a detached ADU requires several permits, including but not limited to, building permits, plumbing permits, electrical permits, and mechanical permits. Additionally, you will need to ensure your project complies with Burbank's zoning ordinances, setback requirements, and specific ADU development standards. Our team handles the entire permit application and approval process, ensuring all local regulations are met for a smooth construction. This expertise helps avoid delays.",
+        "@type": "Answer",
+        "description": "In Burbank, detached ADUs require building, plumbing, electrical, and mechanical permits, along with compliance to zoning and development standards."
+      }
+    }
+  ],
+  "description": "In Burbank, detached ADUs require building, plumbing, electrical, and mechanical permits, along with compliance to zoning and development standards."
+}

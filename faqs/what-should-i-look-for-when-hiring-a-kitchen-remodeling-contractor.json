@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-when-hiring-a-kitchen-remodeling-contractor",
+  "name": "What should I look for when hiring a kitchen remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring a kitchen remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a kitchen remodeling contractor, prioritize experience, proper licensing and insurance, and a strong portfolio of completed projects. Verify their references and read reviews. Look for clear communication, transparent pricing, and a detailed contract outlining the scope of work, timeline, and payment schedule. A good contractor should also understand local building codes and help you navigate the permit process, which Cali View Builders excels at in areas like North Hollywood and Burbank.",
+        "@type": "Answer",
+        "description": "Look for experience, licensing, insurance, a strong portfolio, and positive references. Prioritize clear communication, transparent pricing, and contractors who understand local building codes."
+      }
+    }
+  ],
+  "description": "Look for experience, licensing, insurance, a strong portfolio, and positive references. Prioritize clear communication, transparent pricing, and contractors who"
+}

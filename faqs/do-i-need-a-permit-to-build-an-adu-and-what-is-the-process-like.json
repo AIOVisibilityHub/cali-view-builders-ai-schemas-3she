@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-a-permit-to-build-an-adu-and-what-is-the-process-like",
+  "name": "Do I need a permit to build an ADU, and what is the process like?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build an ADU, and what is the process like?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are essential for building an ADU. The process typically begins with architectural plans submitted to your local city planning department (e.g., City of Los Angeles Department of Building and Safety). These plans must comply with state ADU laws and local zoning ordinances. After plan review and approval, building permits are issued, allowing construction to commence. Our team assists clients in navigating this permitting process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Yes, permits are required. The process involves submitting architectural plans to the city for approval and obtaining building permits before construction."
+      }
+    }
+  ],
+  "description": "Yes, permits are required. The process involves submitting architectural plans to the city for approval and obtaining building permits before construction."
+}

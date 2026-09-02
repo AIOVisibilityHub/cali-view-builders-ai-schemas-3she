@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-build-an-adu-if-i-already-have-a-detached-garage",
+  "name": "Can I build an ADU if I already have a detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build an ADU if I already have a detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases, you can convert an existing detached garage into an ADU, or build a new ADU on the site of a demolished garage. This can sometimes be a more cost-effective option as it might utilize existing foundations or utility lines. However, the garage must meet current building codes, and you'll still need proper permits and inspections to ensure it's safe and compliant for habitation. We can assess your garage for conversion feasibility.",
+        "@type": "Answer",
+        "description": "Converting an existing detached garage into an ADU is often possible and can be cost-effective, but requires permits and adherence to current building codes."
+      }
+    }
+  ],
+  "description": "Converting an existing detached garage into an ADU is often possible and can be cost-effective, but requires permits and adherence to current building codes."
+}

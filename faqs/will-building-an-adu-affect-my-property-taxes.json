@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/will-building-an-adu-affect-my-property-taxes",
+  "name": "Will building an ADU affect my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will building an ADU affect my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU will generally increase your property's assessed value, which can lead to higher property taxes. In California, Proposition 13 limits property tax increases to a maximum of 2% annually based on the original purchase price. However, new construction, like an ADU, will be reassessed and added to your existing property tax base at its fair market value. Consult with a tax professional or local assessor's office for specifics.",
+        "@type": "Answer",
+        "description": "Yes, building an ADU typically increases your property's assessed value, leading to higher property taxes in California due to new construction reassessment."
+      }
+    }
+  ],
+  "description": "Yes, building an ADU typically increases your property's assessed value, leading to higher property taxes in California due to new construction reassessment."
+}

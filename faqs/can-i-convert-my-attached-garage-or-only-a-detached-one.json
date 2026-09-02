@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-convert-my-attached-garage-or-only-a-detached-one",
+  "name": "Can I convert my attached garage or only a detached one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my attached garage or only a detached one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both attached and detached garages can typically be converted, though the process and requirements may differ. Attached garages might involve integrating the new living space more directly with the main home's systems and aesthetics. Detached garages offer more flexibility in creating a separate dwelling unit. In both cases, local zoning laws and building codes will dictate what is permissible.",
+        "@type": "Answer",
+        "description": "Both attached and detached garages can be converted, but specific requirements and processes may vary based on type and local codes."
+      }
+    }
+  ],
+  "description": "Both attached and detached garages can be converted, but specific requirements and processes may vary based on type and local codes."
+}

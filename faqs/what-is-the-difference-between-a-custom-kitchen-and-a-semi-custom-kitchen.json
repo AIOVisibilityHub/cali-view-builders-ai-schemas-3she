@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-difference-between-a-custom-kitchen-and-a-semi-custom-kitchen",
+  "name": "What is the difference between a custom kitchen and a semi-custom kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom kitchen and a semi-custom kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom kitchen is designed and built entirely from scratch to your exact specifications, offering unlimited options for size, shape, materials, finishes, and features. This approach provides the highest level of personalization and precise fit for unique spaces. Semi-custom kitchens, on the other hand, utilize pre-manufactured cabinet boxes with a limited range of modifications available, such as specific sizes, door styles, and finishes, within a set catalog. While semi-custom offers more flexibility than stock options, a custom kitchen provides unparalleled design freedom and craftsmanship tailored specifically to your home and lifestyle.",
+        "@type": "Answer",
+        "description": "Custom kitchens are built entirely from scratch with unlimited personalization options, while semi-custom kitchens use pre-manufactured cabinets with limited modifications."
+      }
+    }
+  ],
+  "description": "Custom kitchens are built entirely from scratch with unlimited personalization options, while semi-custom kitchens use pre-manufactured cabinets with limited mo"
+}

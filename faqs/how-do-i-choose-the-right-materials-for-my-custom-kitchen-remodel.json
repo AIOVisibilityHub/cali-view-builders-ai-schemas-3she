@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-the-right-materials-for-my-custom-kitchen-remodel",
+  "name": "How do I choose the right materials for my custom kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right materials for my custom kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right materials involves balancing aesthetics, durability, functionality, and budget. Consider your lifestyle and how you use your kitchen; for example, high-traffic areas might benefit from more resilient materials. Research different options for countertops (e.g., quartz, granite, marble), cabinetry (e.g., custom wood, thermofoil), flooring (e.g., tile, hardwood), and backsplashes. Our design team will present a curated selection of materials, explain their pros and cons, and help you select those that align with your vision and practical needs, ensuring a cohesive and lasting design.",
+        "@type": "Answer",
+        "description": "Choose materials by balancing aesthetics, durability, functionality, and budget, considering your lifestyle. Our design team will guide you through options like countertops, cabinetry, and flooring."
+      }
+    }
+  ],
+  "description": "Choose materials by balancing aesthetics, durability, functionality, and budget, considering your lifestyle. Our design team will guide you through options like"
+}

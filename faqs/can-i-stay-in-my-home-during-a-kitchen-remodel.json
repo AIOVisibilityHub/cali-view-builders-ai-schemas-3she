@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-stay-in-my-home-during-a-kitchen-remodel",
+  "name": "Can I stay in my home during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, you can remain in your home during a kitchen remodel. However, expect significant disruption, noise, and dust. Your kitchen will be a construction zone, and you may be without running water, cooking facilities, or access to certain areas for periods. Many homeowners opt to set up a temporary kitchen elsewhere in the house. Your contractor can provide a realistic overview of the daily impact.",
+        "@type": "Answer",
+        "description": "Yes, you can typically stay home during a kitchen remodel, but expect noise, dust, and limited access to kitchen facilities. A temporary kitchen setup may be helpful."
+      }
+    }
+  ],
+  "description": "Yes, you can typically stay home during a kitchen remodel, but expect noise, dust, and limited access to kitchen facilities. A temporary kitchen setup may be he"
+}

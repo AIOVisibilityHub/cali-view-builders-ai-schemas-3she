@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-a-room-addition-contractor",
+  "name": "What is a room addition contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a room addition contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition contractor specializes in expanding existing homes by building new spaces such as extra bedrooms, bathrooms, living areas, or home offices. They manage the entire project from design and permitting to construction, ensuring structural integrity, adherence to local building codes, and coordination of various trades like electricians, plumbers, and roofers. Their expertise helps integrate new construction seamlessly with the original structure, enhancing both functionality and property value.",
+        "@type": "Answer",
+        "description": "A room addition contractor specializes in designing and building new spaces that expand an existing home, managing the entire project from concept to completion."
+      }
+    }
+  ],
+  "description": "A room addition contractor specializes in designing and building new spaces that expand an existing home, managing the entire project from concept to completion"
+}

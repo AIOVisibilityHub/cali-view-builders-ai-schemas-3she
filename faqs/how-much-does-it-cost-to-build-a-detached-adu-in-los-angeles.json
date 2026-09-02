@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-much-does-it-cost-to-build-a-detached-adu-in-los-angeles",
+  "name": "How much does it cost to build a detached ADU in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a detached ADU in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a detached ADU in Los Angeles can vary significantly based on factors like size, finishes, site conditions, and specific design choices. Typical costs can range from $150,000 to over $300,000. This includes design, permits, materials, and construction labor. A detailed quote requires an assessment of your property and specific project requirements. We provide transparent estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs for a detached ADU in Los Angeles vary widely, typically from $150,000 to $300,000+, depending on size, finishes, and site conditions."
+      }
+    }
+  ],
+  "description": "Costs for a detached ADU in Los Angeles vary widely, typically from $150,000 to $300,000+, depending on size, finishes, and site conditions."
+}

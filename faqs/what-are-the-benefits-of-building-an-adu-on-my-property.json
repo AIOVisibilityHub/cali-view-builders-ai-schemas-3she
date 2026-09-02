@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-benefits-of-building-an-adu-on-my-property",
+  "name": "What are the benefits of building an ADU on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building an ADU on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU offers multiple benefits, including increased property value and potential rental income, which can help offset mortgage costs or provide an additional revenue stream. It also creates flexible living space for family members, caregivers, or as a dedicated home office. An ADU can provide a cost-effective alternative to purchasing a larger home or moving, maximizing your existing property's utility and value.",
+        "@type": "Answer",
+        "description": "ADUs increase property value, generate rental income, and provide flexible living space for family or home offices. They maximize property utility."
+      }
+    }
+  ],
+  "description": "ADUs increase property value, generate rental income, and provide flexible living space for family or home offices. They maximize property utility."
+}

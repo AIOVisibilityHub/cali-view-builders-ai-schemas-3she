@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-financing-options-are-available-for-building-an-adu",
+  "name": "What financing options are available for building an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are available for building an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options for ADUs include home equity loans, cash-out refinances, construction loans, and specialized ADU loans. Homeowners can leverage their existing property equity to fund the project. Some lenders also offer specific programs designed to assist with ADU construction, understanding the investment's potential returns. It's advisable to consult with a financial advisor to determine the best option for your individual circumstances.",
+        "@type": "Answer",
+        "description": "Financing options for ADUs include home equity loans, cash-out refinances, construction loans, and specialized ADU loans. Consult a financial advisor."
+      }
+    }
+  ],
+  "description": "Financing options for ADUs include home equity loans, cash-out refinances, construction loans, and specialized ADU loans. Consult a financial advisor."
+}

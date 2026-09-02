@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-in-a-house-addition-contractor-s-insurance-and-licensing",
+  "name": "What should I look for in a house addition contractor's insurance and licensing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a house addition contractor's insurance and licensing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a house addition contractor, ensure they possess a valid California contractor's license, specifically a Class B (General Building Contractor) license, which permits them to oversee projects involving multiple trades. You should also verify they carry comprehensive general liability insurance to protect against property damage or injury, and worker's compensation insurance for their employees. Requesting proof of both licensing and insurance is a critical step to safeguard your project and personal liability.",
+        "@type": "Answer",
+        "description": "Look for a California Class B contractor's license and comprehensive general liability and worker's compensation insurance. Request proof of both to protect your project and liability."
+      }
+    }
+  ],
+  "description": "Look for a California Class B contractor's license and comprehensive general liability and worker's compensation insurance. Request proof of both to protect you"
+}

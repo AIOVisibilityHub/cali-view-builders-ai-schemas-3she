@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-to-build-an-adu-in-los-angeles",
+  "name": "What is the typical cost to build an ADU in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to build an ADU in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an ADU in Los Angeles can vary significantly based on size, type, materials, and site conditions. Generally, a garage conversion might range from $80,000 to $150,000, while a new detached ADU can cost anywhere from $150,000 to over $300,000. These figures include design, permits, and construction. Factors like extensive utility trenching, hillside construction, or luxury finishes will increase the overall investment. It's essential to get a detailed quote tailored to your specific project and property.",
+        "@type": "Answer",
+        "description": "ADU costs in Los Angeles vary widely. Garage conversions typically range from $80,000-$150,000, while new detached units can be $150,000-$300,000+, depending on project specifics."
+      }
+    }
+  ],
+  "description": "ADU costs in Los Angeles vary widely. Garage conversions typically range from $80,000-$150,000, while new detached units can be $150,000-$300,000+, depending on"
+}

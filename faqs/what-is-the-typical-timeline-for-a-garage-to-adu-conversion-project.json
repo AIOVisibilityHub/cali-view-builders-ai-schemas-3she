@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-timeline-for-a-garage-to-adu-conversion-project",
+  "name": "What is the typical timeline for a garage to ADU conversion project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a garage to ADU conversion project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage to ADU conversion project typically spans several months from initial planning to final inspection. The design and permitting phase can take 2-4 months, depending on the complexity of the plans and the responsiveness of local building departments. The construction phase itself usually lasts 3-6 months, influenced by factors like the size of the garage, unexpected structural issues, material availability, and weather conditions. Overall, homeowners should generally expect the entire process to take anywhere from 6 to 10 months. Efficient planning and communication with your contractor can help keep the project on schedule.",
+        "@type": "Answer",
+        "description": "The timeline for a garage to ADU conversion is typically 6 to 10 months, with 2-4 months for design/permitting and 3-6 months for construction."
+      }
+    }
+  ],
+  "description": "The timeline for a garage to ADU conversion is typically 6 to 10 months, with 2-4 months for design/permitting and 3-6 months for construction."
+}

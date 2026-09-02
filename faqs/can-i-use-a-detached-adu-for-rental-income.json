@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-use-a-detached-adu-for-rental-income",
+  "name": "Can I use a detached ADU for rental income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a detached ADU for rental income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most areas, including Los Angeles and surrounding cities, detached ADUs can be used for long-term rental income. This is a primary benefit for many homeowners, as it can provide a significant return on investment. However, short-term rentals (like Airbnb) may have specific local restrictions or outright prohibitions. It's important to understand the local regulations regarding rental use in your specific municipality. We can discuss these nuances during your consultation.",
+        "@type": "Answer",
+        "description": "Yes, detached ADUs can generally be used for long-term rental income, though short-term rental rules vary by location."
+      }
+    }
+  ],
+  "description": "Yes, detached ADUs can generally be used for long-term rental income, though short-term rental rules vary by location."
+}

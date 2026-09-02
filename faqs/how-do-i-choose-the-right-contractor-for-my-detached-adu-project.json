@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-the-right-contractor-for-my-detached-adu-project",
+  "name": "How do I choose the right contractor for my detached ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my detached ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves evaluating their experience with ADU projects, checking their licensing and insurance, and reviewing their portfolio and client testimonials. Look for a contractor who communicates clearly, understands local regulations, and provides detailed, transparent proposals. A good contractor will also help navigate the design and permitting stages effectively. We encourage potential clients to compare our comprehensive approach and proven track record.",
+        "@type": "Answer",
+        "description": "Choose a contractor by checking their ADU experience, licensing, portfolio, communication, and local regulatory knowledge. Ensure they offer transparent proposals."
+      }
+    }
+  ],
+  "description": "Choose a contractor by checking their ADU experience, licensing, portfolio, communication, and local regulatory knowledge. Ensure they offer transparent proposa"
+}

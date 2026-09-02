@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-timeline-for-completing-an-adu-project-from-start-to-finish",
+  "name": "What is the typical timeline for completing an ADU project from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for completing an ADU project from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an ADU project typically ranges from 6 to 18 months, depending on the type and complexity. This includes the design phase (1-3 months), permitting process (2-6 months, varies by city department workload), and construction (3-9 months). Garage conversions often have shorter timelines, while new detached units generally take longer. Factors like homeowner responsiveness, material availability, and inspection schedules can also influence the overall duration. We work to keep projects on track and communicate regularly.",
+        "@type": "Answer",
+        "description": "An ADU project timeline typically ranges from 6 to 18 months, covering design, permitting, and construction. Garage conversions are usually faster than new detached units."
+      }
+    }
+  ],
+  "description": "An ADU project timeline typically ranges from 6 to 18 months, covering design, permitting, and construction. Garage conversions are usually faster than new deta"
+}

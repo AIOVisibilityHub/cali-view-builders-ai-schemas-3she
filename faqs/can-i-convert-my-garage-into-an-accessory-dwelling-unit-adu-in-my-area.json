@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-convert-my-garage-into-an-accessory-dwelling-unit-adu-in-my-area",
+  "name": "Can I convert my garage into an Accessory Dwelling Unit (ADU) in my area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage into an Accessory Dwelling Unit (ADU) in my area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many areas in Los Angeles, including North Hollywood, Studio City, and Sherman Oaks, allow for garage conversions into ADUs due to recent state and local legislation promoting affordable housing. Eligibility depends on factors such as lot size, existing structures, and specific zoning requirements for your property. We can assess your property's feasibility and guide you through the specific regulations applicable to your address to determine if an ADU conversion is possible.",
+        "@type": "Answer",
+        "description": "Garage-to-ADU conversions are often permitted in Los Angeles. Eligibility depends on your property's zoning and specific local regulations; we can assess your site."
+      }
+    }
+  ],
+  "description": "Garage-to-ADU conversions are often permitted in Los Angeles. Eligibility depends on your property's zoning and specific local regulations; we can assess your s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-finance-an-adu-construction-project",
+  "name": "How do I finance an ADU construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I finance an ADU construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing an ADU construction project can be approached in several ways. Common options include home equity loans or lines of credit (HELOCs), which leverage the equity in your existing property. Construction loans are another option, specifically designed for new builds or major renovations. Some homeowners also use cash-out refinances or personal loans. It's advisable to speak with a financial advisor or lender to explore the best financing solution for your individual circumstances and financial goals.",
+        "@type": "Answer",
+        "description": "ADU projects can be financed through home equity loans (HELOCs), construction loans, cash-out refinances, or personal loans."
+      }
+    }
+  ],
+  "description": "ADU projects can be financed through home equity loans (HELOCs), construction loans, cash-out refinances, or personal loans."
+}

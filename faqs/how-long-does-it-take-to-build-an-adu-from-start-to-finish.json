@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-it-take-to-build-an-adu-from-start-to-finish",
+  "name": "How long does it take to build an ADU from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build an ADU from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building an ADU typically ranges from 6 to 18 months, depending on various factors. This includes several phases: initial design and planning (1-3 months), permitting and approvals from the city (2-6 months), and the actual construction phase (3-9 months). The overall duration can be influenced by the complexity of the design, the responsiveness of city planning departments, and any unforeseen site challenges. Our team works to streamline each stage to ensure efficient project completion.",
+        "@type": "Answer",
+        "description": "An ADU build typically takes 6 to 18 months, covering design, permitting, and construction. Complexity and city approvals influence the timeline."
+      }
+    }
+  ],
+  "description": "An ADU build typically takes 6 to 18 months, covering design, permitting, and construction. Complexity and city approvals influence the timeline."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-s-the-difference-between-a-general-contractor-and-a-room-addition-specialis",
+  "name": "What's the difference between a general contractor and a room addition specialist?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a general contractor and a room addition specialist?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a general contractor can oversee many types of construction projects, a room addition specialist focuses specifically on expanding existing homes. A specialist often possesses deeper expertise in seamlessly integrating new structures with old ones, navigating unique design challenges, and understanding the specific permitting requirements for additions. They may have refined processes and subcontractor networks tailored to addition projects, which can lead to greater efficiency and specialized problem-solving compared to a general contractor with broader but less focused experience.",
+        "@type": "Answer",
+        "description": "A room addition specialist has focused expertise in home expansions, while a general contractor handles a wider range of construction projects."
+      }
+    }
+  ],
+  "description": "A room addition specialist has focused expertise in home expansions, while a general contractor handles a wider range of construction projects."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-an-accessory-dwelling-unit-adu-and-what-are-the-benefits-of-building-one",
+  "name": "What is an Accessory Dwelling Unit (ADU) and what are the benefits of building one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an Accessory Dwelling Unit (ADU) and what are the benefits of building one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU), also known as a granny flat or backyard home, is a secondary housing unit on a single-family residential lot. Building an ADU can provide numerous benefits, including increasing property value, generating rental income, offering flexible living space for family members or guests, and addressing housing shortages. They can be detached, attached, or converted spaces like garages, offering diverse design possibilities to suit your property and needs.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a residential lot, offering benefits like increased property value, rental income, and flexible living space."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a residential lot, offering benefits like increased property value, rental income, and flexible living space."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-common-types-of-adus-and-which-one-is-right-for-my-property",
+  "name": "What are the common types of ADUs and which one is right for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of ADUs and which one is right for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common ADU types include detached (freestanding structures), attached (connected to the main house), garage conversions, and junior ADUs (JADUs), which are created within existing single-family homes. The best type for your property depends on your lot size, existing structures, budget, and intended use. Detached ADUs offer maximum privacy, while garage conversions are often the most cost-effective. We can assess your property and discuss local zoning regulations to help determine the most suitable and compliant ADU option for your needs.",
+        "@type": "Answer",
+        "description": "ADU types include detached, attached, garage conversions, and junior ADUs. The right choice depends on your property, budget, and local regulations."
+      }
+    }
+  ],
+  "description": "ADU types include detached, attached, garage conversions, and junior ADUs. The right choice depends on your property, budget, and local regulations."
+}

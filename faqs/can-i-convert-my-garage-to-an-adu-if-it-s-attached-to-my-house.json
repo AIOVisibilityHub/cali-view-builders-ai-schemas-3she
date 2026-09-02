@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-convert-my-garage-to-an-adu-if-it-s-attached-to-my-house",
+  "name": "Can I convert my garage to an ADU if it's attached to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage to an ADU if it's attached to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can convert an attached garage into an ADU, and this is a common type of conversion. The process is similar to converting a detached garage, but there may be specific considerations due to its direct connection to the main house. These could include ensuring adequate soundproofing between the units, maintaining fire separation requirements, and navigating shared utility lines or entryways. Proper design ensures privacy and functionality for both the main residence and the new ADU. Local building codes will dictate specific requirements for attached ADU conversions.",
+        "@type": "Answer",
+        "description": "Yes, an attached garage can be converted to an ADU. Considerations include soundproofing, fire separation, and shared utilities, with specific requirements dictated by local building codes."
+      }
+    }
+  ],
+  "description": "Yes, an attached garage can be converted to an ADU. Considerations include soundproofing, fire separation, and shared utilities, with specific requirements dict"
+}

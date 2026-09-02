@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/when-should-i-consider-a-room-addition-versus-moving-to-a-new-house",
+  "name": "When should I consider a room addition versus moving to a new house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a room addition versus moving to a new house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a room addition when you love your current neighborhood, your property has sufficient space, and the cost of adding on is less than the transaction costs and price difference of a new home. Additions can also allow you to customize your living space precisely to your needs without the disruption of a full move. If your current home's layout is fundamentally unsuitable, or if local zoning prevents necessary expansion, moving might be a more practical solution. Evaluate your long-term needs and finances carefully.",
+        "@type": "Answer",
+        "description": "Consider a room addition when you like your location, have sufficient property space, and adding on is more cost-effective than moving to a new home."
+      }
+    }
+  ],
+  "description": "Consider a room addition when you like your location, have sufficient property space, and adding on is more cost-effective than moving to a new home."
+}

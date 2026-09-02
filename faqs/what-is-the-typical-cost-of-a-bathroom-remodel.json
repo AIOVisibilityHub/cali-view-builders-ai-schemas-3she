@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-of-a-bathroom-remodel",
+  "name": "What is the typical cost of a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom remodel varies significantly based on its size, the extent of the changes, and the quality of materials chosen. A minor cosmetic update might involve new paint, fixtures, and a vanity, while a major renovation could include reconfiguring the layout, moving plumbing, custom cabinetry, and high-end finishes. Costs are also influenced by labor rates in your specific area, such as Los Angeles. We provide detailed estimates after an initial consultation, breaking down expenses for design, materials, and labor to help you understand where your investment goes.",
+        "@type": "Answer",
+        "description": "The typical cost of a bathroom remodel varies greatly depending on its size, scope, material quality, and local labor rates. We provide detailed estimates after assessing your project specifics."
+      }
+    }
+  ],
+  "description": "The typical cost of a bathroom remodel varies greatly depending on its size, scope, material quality, and local labor rates. We provide detailed estimates after"
+}

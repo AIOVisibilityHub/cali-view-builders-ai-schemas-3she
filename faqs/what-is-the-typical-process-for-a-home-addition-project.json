@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-process-for-a-home-addition-project",
+  "name": "What is the typical process for a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a home addition typically starts with an initial consultation to discuss your vision and needs. This is followed by design and architectural planning, where detailed blueprints are created. Once designs are approved, permits are secured from local authorities. Construction then commences, involving foundation work, framing, roofing, and interior finishes. Throughout the project, there's regular communication and quality checks to ensure the addition meets your expectations and local building codes.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction, and finishing, with regular communication and quality checks."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction, and finishing, with regular communication and quality checks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-much-does-a-garage-to-adu-conversion-typically-cost",
+  "name": "How much does a garage to ADU conversion typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a garage to ADU conversion typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a garage to ADU conversion varies widely depending on factors such as the size of the garage, the extent of structural modifications needed, the quality of finishes, and the complexity of utility hookups (plumbing, electrical, sewer). On average, costs can range from $80,000 to $150,000 or more. This estimate typically includes architectural plans, permits, construction labor, and materials. It's essential to get detailed bids from licensed contractors to understand the specific costs associated with your project, as well as considering potential unforeseen expenses during the renovation.",
+        "@type": "Answer",
+        "description": "Typical costs range from $80,000 to $150,000 or more, influenced by garage size, structural changes, finishes, and utility work. Detailed bids are essential."
+      }
+    }
+  ],
+  "description": "Typical costs range from $80,000 to $150,000 or more, influenced by garage size, structural changes, finishes, and utility work. Detailed bids are essential."
+}

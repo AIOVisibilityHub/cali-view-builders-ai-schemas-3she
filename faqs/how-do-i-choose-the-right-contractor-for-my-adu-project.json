@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-the-right-contractor-for-my-adu-project",
+  "name": "How do I choose the right contractor for my ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for your ADU project is crucial for a successful outcome. Look for a licensed and insured contractor with proven experience in ADU construction specifically, not just general remodeling. Review their portfolio, check references, and read client testimonials. Ensure they have a clear communication process, provide detailed proposals, and are knowledgeable about local ADU regulations in your area, such as North Hollywood or Studio City. A reputable contractor will also offer transparent pricing and a realistic timeline.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with ADU-specific experience, a strong portfolio, good references, clear communication, and knowledge of local regulations."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with ADU-specific experience, a strong portfolio, good references, clear communication, and knowledge of local regulations"
+}

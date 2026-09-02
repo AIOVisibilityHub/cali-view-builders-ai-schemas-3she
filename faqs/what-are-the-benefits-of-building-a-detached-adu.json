@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-benefits-of-building-a-detached-adu",
+  "name": "What are the benefits of building a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a detached ADU offers numerous benefits, including increasing property value, providing flexible living space for family or guests, and generating passive rental income. It also allows for greater privacy compared to an attached ADU, offering a distinct home environment. Many homeowners use ADUs as home offices, art studios, or separate living quarters for aging parents or adult children. They offer adaptable solutions to evolving needs.",
+        "@type": "Answer",
+        "description": "Detached ADUs increase property value, provide flexible living space, generate rental income, and offer greater privacy."
+      }
+    }
+  ],
+  "description": "Detached ADUs increase property value, provide flexible living space, generate rental income, and offer greater privacy."
+}

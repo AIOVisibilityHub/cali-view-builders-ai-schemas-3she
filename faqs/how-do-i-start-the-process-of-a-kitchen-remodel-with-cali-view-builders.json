@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-start-the-process-of-a-kitchen-remodel-with-cali-view-builders",
+  "name": "How do I start the process of a kitchen remodel with Cali View Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start the process of a kitchen remodel with Cali View Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting your kitchen remodel with Cali View Builders begins with an initial consultation. You can contact us via our website or phone to schedule a meeting at your home. During this consultation, we'll discuss your vision, budget, functional needs, and design preferences. We'll assess your current kitchen space, provide insights, and outline the next steps, which typically include design development, material selection, and a detailed proposal. This ensures a clear path forward for your project.",
+        "@type": "Answer",
+        "description": "Start by scheduling an initial consultation with Cali View Builders to discuss your vision, budget, and design. We will then assess your space and outline next steps, including design development and a detailed proposal."
+      }
+    }
+  ],
+  "description": "Start by scheduling an initial consultation with Cali View Builders to discuss your vision, budget, and design. We will then assess your space and outline next"
+}

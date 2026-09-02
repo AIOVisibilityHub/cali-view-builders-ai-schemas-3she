@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-garage-conversion-project-usually-take",
+  "name": "How long does a garage conversion project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage conversion project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage conversion varies depending on the project's complexity and the local permitting process. Generally, design and permitting can take several weeks to a few months. Construction itself for a standard conversion might range from 8 to 16 weeks, though larger or more complex projects could take longer. Delays can occur due to inspections or material availability.",
+        "@type": "Answer",
+        "description": "A garage conversion project typically takes 8 to 16 weeks for construction, after an initial period for design and permitting."
+      }
+    }
+  ],
+  "description": "A garage conversion project typically takes 8 to 16 weeks for construction, after an initial period for design and permitting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-zoning-regulations-might-impact-a-second-story-addition-in-sherman-oaks",
+  "name": "What zoning regulations might impact a second story addition in Sherman Oaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What zoning regulations might impact a second story addition in Sherman Oaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning regulations in areas like Sherman Oaks, part of Los Angeles, can significantly impact a second story addition. These regulations often dictate maximum height limits, setback requirements (distance from property lines), and lot coverage percentages. They may also include specific design guidelines or neighborhood overlays. It's crucial to consult the Los Angeles Department of City Planning's zoning ordinances and potentially the Sherman Oaks Neighborhood Council to understand the specific rules applicable to your property before starting any design work.",
+        "@type": "Answer",
+        "description": "Zoning regulations in Sherman Oaks, such as height limits, setbacks, and lot coverage, can impact a second story addition, requiring adherence to specific city planning ordinances."
+      }
+    }
+  ],
+  "description": "Zoning regulations in Sherman Oaks, such as height limits, setbacks, and lot coverage, can impact a second story addition, requiring adherence to specific city"
+}

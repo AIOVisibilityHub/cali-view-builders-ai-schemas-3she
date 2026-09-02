@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-an-attached-adu",
+  "name": "What is an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached Accessory Dwelling Unit (ADU) is a secondary housing unit that is physically connected to the primary residence. This can include converting an existing garage, adding a new extension to the home, or building a unit directly connected through a shared wall. Attached ADUs typically share utilities and sometimes entryways with the main house, but they function as independent living spaces with their own kitchen, bathroom, and sleeping area.",
+        "@type": "Answer",
+        "description": "An attached ADU is a secondary living unit built as an addition to or conversion of a space connected to the main house."
+      }
+    }
+  ],
+  "description": "An attached ADU is a secondary living unit built as an addition to or conversion of a space connected to the main house."
+}

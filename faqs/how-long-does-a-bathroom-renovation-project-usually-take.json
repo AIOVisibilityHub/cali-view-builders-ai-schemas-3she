@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-bathroom-renovation-project-usually-take",
+  "name": "How long does a bathroom renovation project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom renovation project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom renovation depends on its complexity. A small cosmetic update, like painting and fixture replacement, might take 1-2 weeks. A mid-range renovation involving tile work, new cabinetry, and plumbing adjustments typically takes 3-5 weeks. Larger projects, such as reconfiguring the layout or moving plumbing lines, can extend to 6-8 weeks or more. We establish a clear timeline upfront and keep you informed of progress throughout the project.",
+        "@type": "Answer",
+        "description": "Project duration varies: 1-2 weeks for minor updates, 3-5 weeks for mid-range, and 6-8+ weeks for major renovations. We provide clear timelines."
+      }
+    }
+  ],
+  "description": "Project duration varies: 1-2 weeks for minor updates, 3-5 weeks for mid-range, and 6-8+ weeks for major renovations. We provide clear timelines."
+}

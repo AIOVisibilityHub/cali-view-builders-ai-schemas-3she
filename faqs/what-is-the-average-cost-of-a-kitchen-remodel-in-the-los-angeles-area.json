@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-average-cost-of-a-kitchen-remodel-in-the-los-angeles-area",
+  "name": "What is the average cost of a kitchen remodel in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a kitchen remodel in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen remodel in Los Angeles varies widely based on the size of your kitchen, the quality of materials chosen, and the extent of the renovation. A minor remodel might range from $25,000 to $45,000, while a mid-range remodel could be $45,000 to $80,000. High-end or custom renovations can exceed $100,000. We provide transparent, detailed estimates after an initial consultation to align with your budget and vision.",
+        "@type": "Answer",
+        "description": "Kitchen remodel costs in Los Angeles vary based on size, materials, and scope. Minor remodels might cost $25,000-$45,000, while mid-range projects can be $45,000-$80,000."
+      }
+    }
+  ],
+  "description": "Kitchen remodel costs in Los Angeles vary based on size, materials, and scope. Minor remodels might cost $25,000-$45,000, while mid-range projects can be $45,00"
+}

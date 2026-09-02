@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-converting-a-garage-into-an-adu",
+  "name": "What is the process for converting a garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for converting a garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for converting a garage into an ADU generally starts with a consultation and site assessment. This is followed by design and architectural planning, then securing necessary permits from the local city planning department. Once permits are approved, construction begins, including demolition (if needed), framing, plumbing, electrical, insulation, drywall, and finishes. The final step is inspection and obtaining a certificate of occupancy.",
+        "@type": "Answer",
+        "description": "The garage conversion process involves consultation, design, permitting, construction, and final inspections to obtain a certificate of occupancy."
+      }
+    }
+  ],
+  "description": "The garage conversion process involves consultation, design, permitting, construction, and final inspections to obtain a certificate of occupancy."
+}

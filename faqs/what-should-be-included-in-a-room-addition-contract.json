@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-be-included-in-a-room-addition-contract",
+  "name": "What should be included in a room addition contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a room addition contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive room addition contract should detail the full scope of work, including architectural plans, specifications for materials, and a clear payment schedule with milestones. It must outline project timelines, responsibilities of both parties, and provisions for change orders. Essential elements also include proof of the contractor's licensing and insurance, a dispute resolution process, and a warranty for workmanship. Always review the contract thoroughly and ensure all aspects of the project are clearly documented before signing.",
+        "@type": "Answer",
+        "description": "A room addition contract should cover the scope of work, materials, payment schedule, timelines, responsibilities, change order process, licensing, and warranty."
+      }
+    }
+  ],
+  "description": "A room addition contract should cover the scope of work, materials, payment schedule, timelines, responsibilities, change order process, licensing, and warranty"
+}

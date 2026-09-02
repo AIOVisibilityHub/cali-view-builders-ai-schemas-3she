@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-convert-my-existing-garage-into-an-attached-adu",
+  "name": "Can I convert my existing garage into an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing garage into an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting an existing garage into an attached ADU is a common and often cost-effective option. This typically involves insulating walls, adding plumbing and electrical systems, installing new windows and doors, and upgrading the interior to a habitable living space. We assess your current garage structure to determine feasibility and recommend the best approach to transform it into a functional and compliant ADU, saving time and potentially costs compared to new construction.",
+        "@type": "Answer",
+        "description": "Yes, many existing garages can be converted into attached ADUs by upgrading utilities, insulation, and interior finishes."
+      }
+    }
+  ],
+  "description": "Yes, many existing garages can be converted into attached ADUs by upgrading utilities, insulation, and interior finishes."
+}

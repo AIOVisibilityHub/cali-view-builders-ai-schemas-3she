@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-architectural-plans-for-a-custom-kitchen-remodel",
+  "name": "Do I need architectural plans for a custom kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need architectural plans for a custom kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether architectural plans are needed depends on the scope of your custom kitchen remodel. If your project involves significant structural changes, such as removing load-bearing walls, altering the roofline, or expanding the footprint of your home, then professional architectural plans will be required. For less extensive remodels that focus on aesthetic updates and reconfiguring existing non-load-bearing elements, detailed design plans from a kitchen designer are often sufficient. We can guide you on the specific requirements for your project during the initial consultation.",
+        "@type": "Answer",
+        "description": "Architectural plans are typically needed for custom kitchen remodels involving significant structural changes like removing load-bearing walls. For aesthetic updates, detailed design plans suffice."
+      }
+    }
+  ],
+  "description": "Architectural plans are typically needed for custom kitchen remodels involving significant structural changes like removing load-bearing walls. For aesthetic up"
+}

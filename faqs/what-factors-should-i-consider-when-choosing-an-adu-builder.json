@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-factors-should-i-consider-when-choosing-an-adu-builder",
+  "name": "What factors should I consider when choosing an ADU builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing an ADU builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an ADU builder, consider their experience with local regulations in areas like Sherman Oaks or Glendale, their portfolio of completed ADU projects, and their communication style. Look for a builder who provides transparent pricing, offers clear timelines, and has positive client references. Verify their licensing and insurance to ensure they are reputable and comply with industry standards. A good builder will guide you through the entire process effectively.",
+        "@type": "Answer",
+        "description": "Choose an ADU builder based on their experience with local regulations, portfolio, transparent pricing, communication, licensing, and client references."
+      }
+    }
+  ],
+  "description": "Choose an ADU builder based on their experience with local regulations, portfolio, transparent pricing, communication, licensing, and client references."
+}

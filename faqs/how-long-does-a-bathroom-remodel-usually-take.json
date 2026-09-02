@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-bathroom-remodel-usually-take",
+  "name": "How long does a bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom remodel depends on the project's complexity and scope. A small cosmetic update might be completed in 1-2 weeks, while a more extensive renovation involving layout changes, plumbing relocation, or custom installations can take 3-6 weeks or even longer. Factors like material availability, unforeseen structural issues, and inspection schedules can also influence the timeline. We work to establish a realistic schedule upfront and keep you informed of progress and any potential adjustments, aiming to minimize disruption to your home in areas like Sherman Oaks and Studio City.",
+        "@type": "Answer",
+        "description": "Bathroom remodels typically take 1-6 weeks, depending on complexity. Small updates are quicker, while extensive renovations with layout or plumbing changes take longer. We provide a realistic schedule and updates."
+      }
+    }
+  ],
+  "description": "Bathroom remodels typically take 1-6 weeks, depending on complexity. Small updates are quicker, while extensive renovations with layout or plumbing changes take"
+}

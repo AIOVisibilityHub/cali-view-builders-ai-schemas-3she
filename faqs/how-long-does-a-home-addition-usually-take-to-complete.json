@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-home-addition-usually-take-to-complete",
+  "name": "How long does a home addition usually take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a home addition usually take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home addition project varies significantly depending on its size, complexity, and the specific requirements. A small room addition might take 3-6 months from design to completion, while a multi-story addition could extend to 8-12 months or more. Factors like permit approval times, material availability, and weather can also influence the timeline. An experienced contractor can provide a more accurate estimate after understanding your project's scope.",
+        "@type": "Answer",
+        "description": "Project duration varies based on size and complexity, typically ranging from 3-6 months for small additions to 8-12+ months for larger ones."
+      }
+    }
+  ],
+  "description": "Project duration varies based on size and complexity, typically ranging from 3-6 months for small additions to 8-12+ months for larger ones."
+}

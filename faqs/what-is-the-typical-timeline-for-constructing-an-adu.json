@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-timeline-for-constructing-an-adu",
+  "name": "What is the typical timeline for constructing an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for ADU construction generally spans several months, from initial design to final occupancy. Permitting processes, especially in areas like Los Angeles, can take 2-4 months depending on city department workloads and project complexity. Construction itself typically ranges from 4-8 months, influenced by factors such as weather, material availability, and the chosen builder's efficiency. Overall, expect 8-12 months from start to finish.",
+        "@type": "Answer",
+        "description": "ADU construction typically takes 8-12 months, including 2-4 months for permitting and 4-8 months for actual building. This varies by project and location."
+      }
+    }
+  ],
+  "description": "ADU construction typically takes 8-12 months, including 2-4 months for permitting and 4-8 months for actual building. This varies by project and location."
+}

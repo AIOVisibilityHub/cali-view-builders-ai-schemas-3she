@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-differences-between-an-attached-detached-and-garage-conversion-adu",
+  "name": "What are the differences between an attached, detached, and garage conversion ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between an attached, detached, and garage conversion ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached ADU shares a wall with the primary residence, often expanding the existing footprint. A detached ADU is a standalone structure on the property, completely separate from the main house. A garage conversion ADU transforms an existing garage into a habitable living space, often being the most cost-effective option. Each type has distinct structural, design, and permitting considerations, affecting feasibility and overall project scope.",
+        "@type": "Answer",
+        "description": "Attached ADUs share a wall, detached ADUs are standalone, and garage conversions repurpose existing garages. Each has different design and cost implications."
+      }
+    }
+  ],
+  "description": "Attached ADUs share a wall, detached ADUs are standalone, and garage conversions repurpose existing garages. Each has different design and cost implications."
+}

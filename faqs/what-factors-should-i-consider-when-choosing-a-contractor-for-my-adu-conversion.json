@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-my-adu-conversion",
+  "name": "What factors should I consider when choosing a contractor for my ADU conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for my ADU conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your ADU conversion, prioritize those with specific experience in ADU projects, especially garage conversions. Look for contractors who are licensed, bonded, and insured, and verify their credentials. Request references from previous clients and review their portfolios. Pay attention to their communication style, as clear and consistent communication is vital for a smooth project. Obtain detailed written bids from at least three different contractors to compare costs, scope of work, and timelines, ensuring all elements of the project are clearly outlined.",
+        "@type": "Answer",
+        "description": "Choose a licensed, bonded, and insured contractor with ADU conversion experience. Verify references, assess communication, and compare detailed bids from multiple contractors."
+      }
+    }
+  ],
+  "description": "Choose a licensed, bonded, and insured contractor with ADU conversion experience. Verify references, assess communication, and compare detailed bids from multip"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-architectural-plans-and-permits-for-a-second-story-addition",
+  "name": "Do I need architectural plans and permits for a second story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need architectural plans and permits for a second story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, architectural plans and permits are absolutely essential for any second story addition. Detailed architectural plans are required to accurately design the new space, ensure structural integrity, and comply with local zoning laws and building codes. These plans form the basis for your permit application, which is reviewed by the city's building department. Obtaining proper permits ensures your project is legal, safe, and meets all regulatory standards, protecting your investment.",
+        "@type": "Answer",
+        "description": "Yes, architectural plans and permits are essential for a second story addition to ensure structural integrity, code compliance, and legal construction."
+      }
+    }
+  ],
+  "description": "Yes, architectural plans and permits are essential for a second story addition to ensure structural integrity, code compliance, and legal construction."
+}

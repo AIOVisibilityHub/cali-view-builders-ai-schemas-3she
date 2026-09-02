@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-types-of-house-additions-do-you-build",
+  "name": "What types of house additions do you build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of house additions do you build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cali View Builders specializes in a wide range of house additions designed to enhance your living space. This includes second-story additions, expanding existing rooms, adding new bedrooms, bathrooms, or home offices, and creating custom spaces like sunrooms or larger kitchens. We work closely with you to understand your needs and design an addition that seamlessly integrates with your current home's architecture and your lifestyle.",
+        "@type": "Answer",
+        "description": "We build various additions, including second-story expansions, new bedrooms, bathrooms, offices, and custom spaces like sunrooms, designed to integrate with your home."
+      }
+    }
+  ],
+  "description": "We build various additions, including second-story expansions, new bedrooms, bathrooms, offices, and custom spaces like sunrooms, designed to integrate with you"
+}

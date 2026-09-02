@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-a-custom-kitchen-remodel-with-cali-view-builders",
+  "name": "What is the process for a custom kitchen remodel with Cali View Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a custom kitchen remodel with Cali View Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our custom kitchen remodel process begins with an initial consultation to understand your vision, needs, and budget. Next, our design team develops detailed plans, including layouts, material selections, and 3D renderings. Once the design is approved, we finalize permits and create a precise project schedule. Construction then proceeds through demolition, structural modifications if needed, rough-ins for utilities, cabinet and countertop installation, and final fixture placement. Throughout, we maintain open communication and rigorous quality control to ensure your dream kitchen becomes a reality.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation, followed by design, permitting, and a structured construction phase. We ensure open communication and quality control."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation, followed by design, permitting, and a structured construction phase. We ensure open communication and quality control."
+}

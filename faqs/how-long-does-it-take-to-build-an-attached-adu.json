@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-it-take-to-build-an-attached-adu",
+  "name": "How long does it take to build an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building an attached ADU generally ranges from 6 to 12 months, encompassing design, permitting, and construction phases. Design and permitting can take several months due to local regulations and review processes in areas like Los Angeles. The construction itself typically spans 3 to 6 months, depending on the project's scope, weather, and material availability. We strive to complete projects efficiently while maintaining quality.",
+        "@type": "Answer",
+        "description": "Building an attached ADU typically takes 6 to 12 months, including design, permitting, and construction."
+      }
+    }
+  ],
+  "description": "Building an attached ADU typically takes 6 to 12 months, including design, permitting, and construction."
+}

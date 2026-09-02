@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/will-an-attached-adu-increase-my-property-taxes-in-los-angeles",
+  "name": "Will an attached ADU increase my property taxes in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an attached ADU increase my property taxes in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an attached ADU, as a permanent improvement that increases your property's value, will likely result in a reassessment of your property and consequently an increase in property taxes in Los Angeles. However, the reassessment typically applies only to the value added by the ADU, not the entire property. We recommend consulting with a tax professional or the local assessor's office for specific details regarding your property and potential tax implications.",
+        "@type": "Answer",
+        "description": "Yes, adding an attached ADU can increase property taxes in Los Angeles due to increased property value; consult a tax professional for specifics."
+      }
+    }
+  ],
+  "description": "Yes, adding an attached ADU can increase property taxes in Los Angeles due to increased property value; consult a tax professional for specifics."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-when-choosing-a-kitchen-renovation-contractor",
+  "name": "What should I look for when choosing a kitchen renovation contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a kitchen renovation contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a kitchen renovation contractor, prioritize experience, licensing, and a strong portfolio of completed kitchen projects. Look for contractors with positive client testimonials and clear communication practices. Verify their CSLB license (check for active status and any disciplinary actions) and ensure they carry adequate insurance. Request detailed proposals that outline the scope of work, materials, timeline, and payment schedule. A good contractor will also provide references and be transparent about their process from design to completion.",
+        "@type": "Answer",
+        "description": "Choose a kitchen renovation contractor with proven experience, a valid license, insurance, positive references, and clear communication."
+      }
+    }
+  ],
+  "description": "Choose a kitchen renovation contractor with proven experience, a valid license, insurance, positive references, and clear communication."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-timeline-for-a-kitchen-renovation-project",
+  "name": "What is the typical timeline for a kitchen renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a kitchen renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen renovation varies depending on the project's scope and complexity. A cosmetic update, such as painting and cabinet refacing, might take 2-4 weeks. A full gut renovation involving layout changes, new plumbing, or electrical work can extend to 6-12 weeks, or even longer for custom designs or structural modifications. This timeline includes design, material selection, demolition, and construction phases. Delays can occur due to unforeseen structural issues, material backorders, or permit approvals, so it's always wise to build in some buffer time.",
+        "@type": "Answer",
+        "description": "Kitchen renovation timelines range from 2-4 weeks for cosmetic updates to 6-12+ weeks for full renovations, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Kitchen renovation timelines range from 2-4 weeks for cosmetic updates to 6-12+ weeks for full renovations, depending on scope and complexity."
+}

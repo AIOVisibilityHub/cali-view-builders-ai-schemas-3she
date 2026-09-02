@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-the-right-contractor-for-my-attached-adu-project",
+  "name": "How do I choose the right contractor for my attached ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my attached ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves evaluating their experience with ADU projects, reviewing their portfolio, checking references, and ensuring they are licensed and insured in California. Look for a contractor who understands local zoning laws in your specific area (e.g., Los Angeles, Studio City) and can provide transparent, detailed proposals. A good contractor will communicate clearly and offer solutions tailored to your property and budget. We invite you to review our credentials and past projects.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with ADU experience, a strong portfolio, good references, and a clear understanding of local regulations."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with ADU experience, a strong portfolio, good references, and a clear understanding of local regulations."
+}

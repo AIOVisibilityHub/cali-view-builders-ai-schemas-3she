@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-required-for-a-home-addition-in-los-angeles",
+  "name": "What permits are required for a home addition in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a home addition in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, most home additions require permits from the Los Angeles Department of Building and Safety (LADBS). This typically includes building permits, but depending on the scope, you might also need electrical, plumbing, and mechanical permits. Zoning regulations and specific district overlays can also influence permit requirements. A reputable contractor will guide you through the permit application process and ensure all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Most home additions in Los Angeles require building permits from LADBS, and potentially electrical, plumbing, and mechanical permits based on scope."
+      }
+    }
+  ],
+  "description": "Most home additions in Los Angeles require building permits from LADBS, and potentially electrical, plumbing, and mechanical permits based on scope."
+}

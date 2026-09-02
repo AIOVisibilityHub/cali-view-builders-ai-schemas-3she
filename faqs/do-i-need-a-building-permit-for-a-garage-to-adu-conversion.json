@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-a-building-permit-for-a-garage-to-adu-conversion",
+  "name": "Do I need a building permit for a garage to ADU conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for a garage to ADU conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a building permit is always required for a garage to ADU conversion. This is a significant construction project that involves altering the structure, electrical, and plumbing systems of your property for residential occupancy. Permits ensure that the conversion meets all local building codes, zoning ordinances, and safety standards. Attempting to convert a garage without the necessary permits can lead to fines, stop-work orders, and potentially costly remediation if the work does not comply with regulations. It's crucial to work with a contractor who will secure all required permits.",
+        "@type": "Answer",
+        "description": "Yes, a building permit is always required for a garage to ADU conversion to ensure compliance with local building codes and safety standards."
+      }
+    }
+  ],
+  "description": "Yes, a building permit is always required for a garage to ADU conversion to ensure compliance with local building codes and safety standards."
+}

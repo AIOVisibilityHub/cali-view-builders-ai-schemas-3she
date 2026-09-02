@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-required-for-a-home-addition-in-california",
+  "name": "What permits are required for a home addition in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a home addition in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a home addition in California, you typically need a building permit, which covers structural changes, electrical work, plumbing, and mechanical systems. Depending on the project's scope and location, you might also require zoning permits, planning review, or permits for grading, demolitions, or environmental impact. A reputable room addition contractor will guide you through the specific requirements of your local jurisdiction, such as those in Los Angeles or Burbank, and handle the application process to ensure compliance with all codes.",
+        "@type": "Answer",
+        "description": "Home additions in California generally require building permits covering structural, electrical, plumbing, and mechanical work, along with potential zoning or planning permits."
+      }
+    }
+  ],
+  "description": "Home additions in California generally require building permits covering structural, electrical, plumbing, and mechanical work, along with potential zoning or p"
+}

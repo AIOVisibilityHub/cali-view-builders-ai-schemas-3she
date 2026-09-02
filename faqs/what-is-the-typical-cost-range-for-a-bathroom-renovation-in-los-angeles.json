@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-range-for-a-bathroom-renovation-in-los-angeles",
+  "name": "What is the typical cost range for a bathroom renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a bathroom renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom renovation in Los Angeles can vary significantly based on factors such as the size of the bathroom, the scope of work, and the quality of materials selected. Minor cosmetic updates might range from $5,000 to $15,000, while a mid-range renovation could be $15,000 to $30,000. High-end or luxury remodels, involving structural changes or premium fixtures, often exceed $30,000. We provide detailed estimates after an initial consultation to align with your specific vision and budget.",
+        "@type": "Answer",
+        "description": "Bathroom renovation costs in Los Angeles typically range from $5,000 for minor updates to over $30,000 for luxury remodels, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Bathroom renovation costs in Los Angeles typically range from $5,000 for minor updates to over $30,000 for luxury remodels, depending on scope and materials."
+}

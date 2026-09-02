@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-common-challenges-when-converting-a-garage-to-an-adu-in-los-angeles",
+  "name": "What are the common challenges when converting a garage to an ADU in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges when converting a garage to an ADU in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage to an ADU in Los Angeles involves navigating specific local regulations. Common challenges include ensuring the existing garage structure meets current building codes for residential use, addressing parking requirements that may change upon conversion, and managing setback requirements. Electrical and plumbing upgrades are almost always necessary. Additionally, homeowners must account for potential asbestos or lead paint in older garages. Working with experienced local contractors who understand Los Angeles Department of Building and Safety (LADBS) requirements is crucial to overcome these hurdles smoothly.",
+        "@type": "Answer",
+        "description": "Challenges in Los Angeles include meeting current building codes, addressing parking and setback requirements, and upgrading utilities. Older garages may also have hazardous materials."
+      }
+    }
+  ],
+  "description": "Challenges in Los Angeles include meeting current building codes, addressing parking and setback requirements, and upgrading utilities. Older garages may also h"
+}

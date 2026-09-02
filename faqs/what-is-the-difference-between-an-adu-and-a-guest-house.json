@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-difference-between-an-adu-and-a-guest-house",
+  "name": "What is the difference between an ADU and a guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an ADU and a guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both an ADU and a guest house provide additional living space, the primary difference often lies in regulatory definitions and utility requirements. ADUs are specifically defined by state and local laws, often requiring full kitchens and bathrooms, making them suitable for independent living or rental. Guest houses typically have fewer requirements, such as lacking a full kitchen, and are primarily for temporary stays. An ADU contractor ensures your project meets the specific legal definition and requirements for an ADU.",
+        "@type": "Answer",
+        "description": "ADUs are legally defined secondary units with full kitchens and bathrooms for independent living. Guest houses often have fewer requirements, like no full kitchen."
+      }
+    }
+  ],
+  "description": "ADUs are legally defined secondary units with full kitchens and bathrooms for independent living. Guest houses often have fewer requirements, like no full kitch"
+}

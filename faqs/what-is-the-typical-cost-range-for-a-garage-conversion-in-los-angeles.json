@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-range-for-a-garage-conversion-in-los-angeles",
+  "name": "What is the typical cost range for a garage conversion in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a garage conversion in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a garage conversion in Los Angeles can vary widely, typically ranging from $50,000 to $150,000 or more, depending on the scope of work and finishes. Factors influencing the price include the size of the garage, the intended use (e.g., basic studio vs. full ADU with kitchen and bathroom), structural modifications, utility connections, and the quality of materials. A detailed estimate requires an on-site assessment to understand specific project requirements and local regulations.",
+        "@type": "Answer",
+        "description": "Garage conversion costs in Los Angeles typically range from $50,000 to $150,000+, depending on project scope, size, and finishes."
+      }
+    }
+  ],
+  "description": "Garage conversion costs in Los Angeles typically range from $50,000 to $150,000+, depending on project scope, size, and finishes."
+}

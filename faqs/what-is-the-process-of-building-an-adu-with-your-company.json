@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-of-building-an-adu-with-your-company",
+  "name": "What is the process of building an ADU with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of building an ADU with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our ADU construction process typically begins with an initial consultation to discuss your vision, budget, and property specifics. We then proceed with site assessment and architectural design, followed by detailed plan submission for city permits. Once permits are approved, we manage all phases of construction, including foundation, framing, utilities, finishes, and final inspections. Throughout the project, we maintain open communication and provide regular updates until your ADU is move-in ready.",
+        "@type": "Answer",
+        "description": "Our ADU process includes consultation, design, permitting, and full construction management. We ensure open communication and regular updates."
+      }
+    }
+  ],
+  "description": "Our ADU process includes consultation, design, permitting, and full construction management. We ensure open communication and regular updates."
+}

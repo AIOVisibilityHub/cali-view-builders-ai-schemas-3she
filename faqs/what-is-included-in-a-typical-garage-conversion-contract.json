@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-included-in-a-typical-garage-conversion-contract",
+  "name": "What is included in a typical garage conversion contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical garage conversion contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive garage conversion contract should clearly outline all aspects of the project. This includes the detailed scope of work, material specifications, payment schedule, project timeline, and warranty information. It should also specify responsibilities for obtaining permits, managing inspections, and site cleanup. Any allowances for fixtures or finishes should be clearly stated. Reviewing the contract thoroughly ensures both parties understand expectations and obligations.",
+        "@type": "Answer",
+        "description": "A garage conversion contract details the scope of work, materials, payment schedule, timeline, warranties, and responsibilities for permits and inspections."
+      }
+    }
+  ],
+  "description": "A garage conversion contract details the scope of work, materials, payment schedule, timeline, warranties, and responsibilities for permits and inspections."
+}

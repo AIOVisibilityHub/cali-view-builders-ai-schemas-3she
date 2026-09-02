@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-an-adu-and-why-would-i-need-an-adu-contractor",
+  "name": "What is an ADU and why would I need an ADU contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and why would I need an ADU contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. You need an ADU contractor to manage the entire construction process, from initial design and permitting to final build-out. They ensure compliance with local zoning laws and building codes, handle subcontractors, and maintain quality control, providing expertise specific to ADU projects. An experienced contractor streamlines the complex steps involved in adding a new structure to your property.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit. An ADU contractor manages design, permitting, and construction, ensuring compliance and quality."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit. An ADU contractor manages design, permitting, and construction, ensuring compliance and quality."
+}

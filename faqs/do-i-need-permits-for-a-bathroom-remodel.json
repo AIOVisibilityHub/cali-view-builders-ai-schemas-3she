@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-permits-for-a-bathroom-remodel",
+  "name": "Do I need permits for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need permits for a bathroom remodel depends on the scope of work and local building codes in your area, such as Los Angeles, North Hollywood, or Burbank. Generally, cosmetic updates like painting or replacing fixtures with similar ones may not require permits. However, projects involving changes to the layout, moving walls, altering plumbing or electrical systems, or enlarging windows typically do require permits. A reputable contractor will identify necessary permits and handle the application process on your behalf to ensure all work complies with local regulations and passes inspections.",
+        "@type": "Answer",
+        "description": "Permits are usually required for bathroom remodels involving changes to layout, plumbing, or electrical systems, but often not for cosmetic updates. Your contractor will manage the permit process for your location."
+      }
+    }
+  ],
+  "description": "Permits are usually required for bathroom remodels involving changes to layout, plumbing, or electrical systems, but often not for cosmetic updates. Your contra"
+}

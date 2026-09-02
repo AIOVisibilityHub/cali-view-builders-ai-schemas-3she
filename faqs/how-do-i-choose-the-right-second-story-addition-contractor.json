@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-the-right-second-story-addition-contractor",
+  "name": "How do I choose the right second story addition contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right second story addition contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the right contractor is crucial. Look for a licensed and insured contractor with specific experience in second story additions, as this is a complex structural project. Check their portfolio for similar projects and ask for references from past clients. Verify their contractor's license with the Contractors State License Board (CSLB) and ensure they have a strong track record of completing projects on time and within budget. Clear communication and a detailed contract are also key.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with specific experience in second story additions, check their portfolio, references, and CSLB license, ensuring clear communication."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with specific experience in second story additions, check their portfolio, references, and CSLB license, ensuring clear co"
+}

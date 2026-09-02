@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-kind-of-structural-considerations-are-there-for-adding-a-second-story",
+  "name": "What kind of structural considerations are there for adding a second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of structural considerations are there for adding a second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a second story places significant additional load on your existing foundation and walls, requiring a thorough structural assessment by a qualified engineer. They will determine if your current foundation can support the added weight or if reinforcements, such as new footings or strengthened walls, are necessary. This assessment is critical to ensure the safety and long-term stability of your entire home, preventing potential structural issues down the line.",
+        "@type": "Answer",
+        "description": "Structural considerations for a second story addition include a thorough assessment of your existing foundation and walls to ensure they can support the new load, potentially requiring reinforcements."
+      }
+    }
+  ],
+  "description": "Structural considerations for a second story addition include a thorough assessment of your existing foundation and walls to ensure they can support the new loa"
+}
