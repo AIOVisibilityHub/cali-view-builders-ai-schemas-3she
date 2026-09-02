@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is an attached or detached ADU right for my home?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding between an attached or detached Accessory Dwelling Unit (ADU) is a common question for homeowners in Los Angeles. Both options can add incredible value and functionality to your property, but they each come with their own set of benefits and considerations. Cali View Builders has experience with both, from expanding homes in Sherman Oaks to adding new structures in Encino, so we can help you figure out what makes the most sense for your situation.\n\nAn **attached ADU** is exactly what it sounds like: it shares a wall with your existing home. This could be converting part of your house into a separate living space, or adding a new section that's directly connected. The main advantage here is that it often feels more integrated with the main residence, and sometimes, utility connections can be simpler since you're already tapping into existing systems. It can also be a more cost-effective option because you’re leveraging existing infrastructure. However, privacy can sometimes be a trade-off, as sound transfer might be more noticeable, and it might impact the architectural flow of your current home more directly. It’s a great choice if you want to keep family close or expand your primary living area in a connected way.\n\nA **detached ADU**, on the other hand, is a completely separate structure on your property, usually in the backyard or as a garage conversion. This offers maximum privacy for both the occupants of the ADU and the main house. It's like having a second, smaller home on your lot! This option can be ideal for rental income, a private guest house, or a dedicated home office that truly separates work from home life. While it generally requires new utility connections and potentially more extensive foundation work, the independence it provides is a huge draw for many homeowners. Garage conversions are a popular form of detached ADU because they repurpose an existing structure, which can be efficient.\n\nWhen making your decision, consider your property's layout, local zoning regulations in your specific Los Angeles neighborhood, your budget, and most importantly, your primary goal for the ADU. Do you prioritize maximum privacy or seamless integration? A professional general contractor like Cali View Builders can help you weigh these factors and design a solution that perfectly fits your needs. Reach out to us at (323) 484-8458 to discuss which type of ADU is best for your Los Angeles home!",
+  "datePublished": "2026-09-02"
+}

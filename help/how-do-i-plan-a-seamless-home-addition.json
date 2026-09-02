@@ -1,0 +1,133 @@
+{
+  "name": "How Do I Plan a Seamless Home Addition?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Vision Development — This is where you chat with a design-build team, like Cali View Builders, to share your ideas, needs, and goals for the new space. They’ll assess your property’s potential and discuss preliminary design concepts. This phase typically takes a few weeks, helping to shape your dreams into a practical vision.",
+      "text": "Step 1: Initial Consultation and Vision Development — This is where you chat with a design-build team, like Cali View Builders, to share your ideas, needs, and goals for the new space. They’ll assess your property’s potential and discuss preliminary design concepts. This phase typically takes a few weeks, helping to shape your dreams into a practical vision.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Architectural Planning — Once your vision is clear, the designers and architects will create detailed plans, including blueprints, elevations, and material selections. This step involves refining layouts and ensuring the addition integrates seamlessly with your existing home's style and structure. Expect this to take several weeks to a few months, depending on complexity and revisions.",
+      "text": "Step 2: Design and Architectural Planning — Once your vision is clear, the designers and architects will create detailed plans, including blueprints, elevations, and material selections. This step involves refining layouts and ensuring the addition integrates seamlessly with your existing home's style and structure. Expect this to take several weeks to a few months, depending on complexity and revisions.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Engineering and Permit Coordination — With designs finalized, structural engineers will get involved to ensure the plans meet all safety codes and building regulations. Your contractor will then coordinate with local authorities in Los Angeles County, including places like North Hollywood or Encino, to secure all necessary permits. This phase can take anywhere from one to three months, as it depends heavily on municipal review processes.",
+      "text": "Step 3: Engineering and Permit Coordination — With designs finalized, structural engineers will get involved to ensure the plans meet all safety codes and building regulations. Your contractor will then coordinate with local authorities in Los Angeles County, including places like North Hollywood or Encino, to secure all necessary permits. This phase can take anywhere from one to three months, as it depends heavily on municipal review processes.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Construction and Trade Management — This is the active building phase. Your general contractor manages all the trades—framers, electricians, plumbers, roofers, etc.—ensuring work is done to specification and on schedule. Regular communication keeps you informed of progress and any adjustments. Depending on the size and scope, construction can range from three to six months or even longer for larger additions.",
+      "text": "Step 4: Construction and Trade Management — This is the active building phase. Your general contractor manages all the trades—framers, electricians, plumbers, roofers, etc.—ensuring work is done to specification and on schedule. Regular communication keeps you informed of progress and any adjustments. Depending on the size and scope, construction can range from three to six months or even longer for larger additions.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walkthrough and Project Closeout — As construction wraps up, you’ll do a final walkthrough with your contractor to ensure everything is perfect and meets your expectations. Any last-minute adjustments are handled, and final inspections are passed. Then, you can officially move into and enjoy your brand-new space! This concluding step typically takes a couple of weeks.",
+      "text": "Step 5: Final Walkthrough and Project Closeout — As construction wraps up, you’ll do a final walkthrough with your contractor to ensure everything is perfect and meets your expectations. Any last-minute adjustments are handled, and final inspections are passed. Then, you can officially move into and enjoy your brand-new space! This concluding step typically takes a couple of weeks.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Vision Development — This is where you chat with a design-build team, like Cali View Builders, to share your ideas, needs, and goals for the new space. They’ll assess "
+}

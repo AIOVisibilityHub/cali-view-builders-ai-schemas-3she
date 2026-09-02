@@ -1,0 +1,133 @@
+{
+  "name": "Why isn't my ADU project moving forward?",
+  "step": [
+    {
+      "name": "Step 1: Permit Predicaments – Have you nailed down all the necessary permits? Los Angeles County has specific requirements for ADU construction, and if your plans aren't perfectly aligned with local zoning laws in areas like Burbank, Glendale, or Santa Monica, you could face delays. Sometimes it's a minor detail on the drawings, other times it's a structural requirement you weren't aware of. A good contractor acts as your guide through this maze.",
+      "text": "Step 1: Permit Predicaments – Have you nailed down all the necessary permits? Los Angeles County has specific requirements for ADU construction, and if your plans aren't perfectly aligned with local zoning laws in areas like Burbank, Glendale, or Santa Monica, you could face delays. Sometimes it's a minor detail on the drawings, other times it's a structural requirement you weren't aware of. A good contractor acts as your guide through this maze.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design Dilemmas – Is your design practical and compliant? An amazing idea on paper might not translate well to reality or meet building codes. Maybe the proposed footprint is too large for your lot's setbacks, or the utility hookups are more complex than anticipated. Getting expert design-build input early can prevent costly redesigns and delays later on.",
+      "text": "Step 2: Design Dilemmas – Is your design practical and compliant? An amazing idea on paper might not translate well to reality or meet building codes. Maybe the proposed footprint is too large for your lot's setbacks, or the utility hookups are more complex than anticipated. Getting expert design-build input early can prevent costly redesigns and delays later on.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Budget Bumps – Have you encountered unexpected costs? Sometimes, homeowners underestimate the full scope of an ADU project, from foundation work to interior finishes. A clear, detailed scope of work and transparent pricing from your contractor are essential to avoid mid-project financial stalls. Unforeseen site conditions can also pop up, requiring budget adjustments.",
+      "text": "Step 3: Budget Bumps – Have you encountered unexpected costs? Sometimes, homeowners underestimate the full scope of an ADU project, from foundation work to interior finishes. A clear, detailed scope of work and transparent pricing from your contractor are essential to avoid mid-project financial stalls. Unforeseen site conditions can also pop up, requiring budget adjustments.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Contractor Communication Gaps – Is your builder keeping you in the loop? Poor communication from your construction team can make you feel lost and frustrated. A reliable contractor like Cali View Builders should provide regular updates, manage trades, and coordinate inspections, ensuring a smooth flow of information and work progression.",
+      "text": "Step 4: Contractor Communication Gaps – Is your builder keeping you in the loop? Poor communication from your construction team can make you feel lost and frustrated. A reliable contractor like Cali View Builders should provide regular updates, manage trades, and coordinate inspections, ensuring a smooth flow of information and work progression.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Material Mix-ups – Are you waiting on materials? Supply chain issues can affect any construction project. If specific windows, doors, or finishes aren't available, it can push back your timeline. Planning ahead and having contingency options can help mitigate these delays. Sometimes, a builder with established supplier relationships can navigate these better.",
+      "text": "If your ADU project feels stalled, it’s a good time to reassess these areas. Bringing in a licensed, experienced ADU builder who understands the unique challenges of construction in Los Angeles can often provide the clarity and coordination needed to get things moving again.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Permit Predicaments – Have you nailed down all the necessary permits? Los Angeles County has specific requirements for ADU construction, and if your plans aren't perfectly aligned with local z"
+}

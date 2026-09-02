@@ -1,0 +1,145 @@
+{
+  "name": "How to turn your garage into livable space",
+  "step": [
+    {
+      "name": "Step 1: Assess Your Garage’s Potential",
+      "text": "Before anything else, take a good look at your existing garage. Is it structurally sound? What are its dimensions? You'll need to determine if it's a good candidate for conversion or if it needs significant foundational or structural repairs. Also, consider the existing utilities—water, electricity, and sewer lines—as these will greatly impact the complexity and cost of the project. A professional ADU builder can help you evaluate this early on.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Understand Local ADU Regulations and Zoning",
+      "text": "Los Angeles has specific rules for garage conversions into ADUs. These include requirements for setbacks, maximum size, parking replacement (if applicable), and entrance requirements. Before you get too far into design, make sure your plans will comply with all local ordinances. This often involves researching the City of Los Angeles Department of Building and Safety guidelines or working with a contractor who is well-versed in these regulations, like Cali View Builders.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Design Your New Living Space",
+      "text": "Work with an architect or designer to create detailed plans for your garage conversion. This includes floor plans, elevations, and structural drawings. Think about the layout—how many rooms do you want? Where will the kitchen and bathroom go? What kind of windows and doors will you add? Good design will maximize the space and ensure it’s functional and comfortable. Don’t forget to consider natural light and ventilation.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Obtain Necessary Permits",
+      "text": "Once your designs are finalized, you’ll need to submit them to the city for permitting. This step is crucial for ensuring your ADU is built legally and safely. It can involve several rounds of review and revisions. A reputable contractor will manage this process for you, handling submissions, responding to plan check comments, and securing all the necessary approvals before construction begins.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Prepare the Site and Begin Construction",
+      "text": "This is where the physical transformation begins. The garage will be prepped, which might include demolishing existing non-load-bearing walls or features. The slab will be checked for levelness and insulation needs. Then, new framing, electrical, plumbing, and HVAC systems will be installed. Insulation will be added to walls and ceilings, and new windows and doors will be framed in. This stage involves coordination of many different trades, so having a single team to manage it is very helpful.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Interior and Exterior Finishing",
+      "text": "After the rough construction, the interior finishes go in: drywall, flooring, cabinetry, countertops, plumbing fixtures, and lighting. On the exterior, you’ll want to ensure the ADU’s appearance blends with your main home, perhaps adding stucco, siding, or paint. The goal is to create a cohesive look that enhances your property's curb appeal. The final inspections will also occur during and after this phase, ensuring everything meets code.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Final Walkthrough and Handover",
+      "text": "Before the project is officially complete, you’ll do a final walkthrough with your builder. This is your chance to inspect the finished space, confirm everything is as per the plans, and address any last-minute adjustments. Once you’re satisfied, your builder will hand over the keys, and you’ll have a brand-new, functional living space. Cali View Builders ensures a thorough closeout process, providing you with a complete and ready-to-use ADU.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Before anything else, take a good look at your existing garage. Is it structurally sound? What are its dimensions? You'll need to determine if it's a good candidate for conversion or if it needs signi"
+}

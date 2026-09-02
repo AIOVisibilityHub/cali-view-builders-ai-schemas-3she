@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why an Attached ADU Might Be Your Best Expansion Option",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about expanding your home in Los Angeles but want something more integrated than a standalone structure? An attached ADU could be the perfect solution! These units are built directly onto your existing home, sharing at least one wall. They offer a unique blend of convenience, functionality, and value, often making them a top choice for homeowners looking to grow their living space without losing precious backyard square footage.\n\nHere’s why an attached ADU might just be your best bet:\n*   **Seamless Integration:** An attached ADU can be designed to blend beautifully with your current home's architecture. We focus on thoughtful design at Cali View Builders, making sure your new space feels like it's always been a part of your house, not an afterthought. This helps maintain curb appeal and property aesthetics.\n*   **Efficient Use of Space:** If your backyard isn't huge, an attached ADU lets you expand without sacrificing your outdoor living areas. It’s a great way to maximize your property's footprint without eating into your garden or patio space. This is a big plus in space-conscious areas like Beverly Hills or Santa Monica.\n*   **Easier Utility Connections:** Since an attached ADU shares a wall with your main house, connecting to existing plumbing, electrical, and HVAC systems can often be simpler and potentially more cost-effective than running new lines to a detached unit. This can streamline the construction process and reduce some expenses.\n*   **Increased Home Value & Flexibility:** An attached ADU adds significant square footage and functionality, directly increasing your home’s market value. It offers incredible flexibility – perfect for multi-generational living, a private guest suite, a dedicated home office, or even a rental unit. It’s an investment that adapts to your changing needs.\n*   **Potential for Quicker Permitting:** While all ADUs require permits in Los Angeles County, sometimes the process for attached units can be slightly more straightforward as they’re seen as an extension rather than a completely new, separate structure. We handle all the permit coordination at Cali View Builders, so you don’t have to worry about the complexities.\n\nAt Cali View Builders, we've been helping Los Angeles homeowners like you since 2013, specializing in quality residential remodeling and custom construction, including attached ADUs. We’re a family-owned, licensed, insured, and bonded general contractor, providing a single team for planning, construction, and the final walkthrough. If you're ready to explore how an attached ADU can transform your home, let’s connect. We’re here to deliver tailored solutions designed around your goals.",
+  "datePublished": "2026-09-02"
+}

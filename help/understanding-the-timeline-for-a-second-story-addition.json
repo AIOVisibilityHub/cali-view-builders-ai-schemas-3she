@@ -1,0 +1,139 @@
+{
+  "name": "Understanding the Timeline for a Second Story Addition",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design (4-8 Weeks) — This phase kicks off with meeting your general contractor, like Cali View Builders, to discuss your vision, needs, and budget. Architectural plans are then developed, encompassing floor plans, elevations, and structural details. This takes time to ensure everything is perfect and meets your expectations and local Los Angeles building codes.",
+      "text": "Step 1: Initial Consultation & Design (4-8 Weeks) — This phase kicks off with meeting your general contractor, like Cali View Builders, to discuss your vision, needs, and budget. Architectural plans are then developed, encompassing floor plans, elevations, and structural details. This takes time to ensure everything is perfect and meets your expectations and local Los Angeles building codes.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Engineering & Permitting (8-16 Weeks) — Once the architectural designs are solid, structural engineers will create detailed plans to ensure your existing foundation and structure can support the new second story. These engineered plans, along with the architectural drawings, are then submitted to the city (e.g., North Hollywood, Beverly Hills) for building permits. This stage often involves back-and-forth with planning departments, so patience is key.",
+      "text": "Step 2: Engineering & Permitting (8-16 Weeks) — Once the architectural designs are solid, structural engineers will create detailed plans to ensure your existing foundation and structure can support the new second story. These engineered plans, along with the architectural drawings, are then submitted to the city (e.g., North Hollywood, Beverly Hills) for building permits. This stage often involves back-and-forth with planning departments, so patience is key.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition & Foundation Work (2-4 Weeks) — With permits in hand, the real work begins! This involves careful demolition of the existing roof and any necessary structural modifications to prepare for the new level. While rare, sometimes foundation reinforcement is needed, which adds a bit of time here, but it’s crucial for structural integrity.",
+      "text": "Step 3: Demolition & Foundation Work (2-4 Weeks) — With permits in hand, the real work begins! This involves careful demolition of the existing roof and any necessary structural modifications to prepare for the new level. While rare, sometimes foundation reinforcement is needed, which adds a bit of time here, but it’s crucial for structural integrity.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Framing & Rough-Ins (6-12 Weeks) — This is where you really start to see your new second story take shape. The framing establishes the walls, roofline, and new floor system. Once the shell is up, the 'rough-ins' for electrical, plumbing, and HVAC systems are installed, running wires, pipes, and ductwork through the new walls and ceilings.",
+      "text": "Step 4: Framing & Rough-Ins (6-12 Weeks) — This is where you really start to see your new second story take shape. The framing establishes the walls, roofline, and new floor system. Once the shell is up, the 'rough-ins' for electrical, plumbing, and HVAC systems are installed, running wires, pipes, and ductwork through the new walls and ceilings.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Exterior & Interior Finishes (8-16 Weeks) — After rough-ins pass inspection, the home gets sealed up with windows, doors, and exterior finishes like siding or stucco. Inside, insulation is added, followed by drywall, flooring, painting, and the installation of cabinets, fixtures, and trim. This stage brings the aesthetics to life, making it feel like a new home.",
+      "text": "Step 5: Exterior & Interior Finishes (8-16 Weeks) — After rough-ins pass inspection, the home gets sealed up with windows, doors, and exterior finishes like siding or stucco. Inside, insulation is added, followed by drywall, flooring, painting, and the installation of cabinets, fixtures, and trim. This stage brings the aesthetics to life, making it feel like a new home.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough & Punch List (1-2 Weeks) — Your contractor will guide you through a comprehensive final walkthrough of your new second story addition. Any small items needing adjustment or completion will be noted on a 'punch list,' which the team will then address to ensure everything meets your satisfaction before final payment and project closeout. This is your chance to really examine the finished product.",
+      "text": "Step 6: Final Walkthrough & Punch List (1-2 Weeks) — Your contractor will guide you through a comprehensive final walkthrough of your new second story addition. Any small items needing adjustment or completion will be noted on a 'punch list,' which the team will then address to ensure everything meets your satisfaction before final payment and project closeout. This is your chance to really examine the finished product.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Design (4-8 Weeks) — This phase kicks off with meeting your general contractor, like Cali View Builders, to discuss your vision, needs, and budget. Architectural plans a"
+}

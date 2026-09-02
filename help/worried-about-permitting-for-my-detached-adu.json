@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Worried about permitting for my detached ADU?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a detached ADU on your property in Los Angeles County can feel a little daunting when you think about all the permits. But honestly, it doesn't have to be a headache! The key is working with a team that really knows the local ins and outs, like Cali View Builders. We've been helping homeowners navigate these waters since 2013, making sure all the i's are dotted and t's are crossed.\n\nFirst off, don't try to go it alone with the permit applications. It's a complex process with specific requirements for things like setbacks, utility connections, and sizing. A skilled contractor will handle all the heavy lifting, from preparing architectural plans to submitting them to the city.\n\nNext, understand that even with an expert, permits take time. It's part of the journey, so factor that into your overall project timeline. Good planning upfront means fewer surprises down the road.\n\nAlso, make sure your contractor is licensed, insured, and bonded, just like Cali View Builders (CSLB #1081371). This gives you peace of mind that they're legitimate and accountable throughout the permitting and construction phases.\n\nFinally, remember that the goal of permitting is safety and compliance. It's about making sure your new detached ADU is built right and adds value without creating future problems. If you're feeling overwhelmed, let a professional guide you. Want to talk through your ADU plans? Give Cali View Builders a call at (323) 484-8458.",
+  "datePublished": "2026-09-02"
+}

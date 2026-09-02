@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common mistakes to avoid when converting your garage.",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Converting your garage into a functional ADU is an exciting venture, but there are definitely some pitfalls to sidestep to ensure a smooth process and a fantastic outcome. Here are a few common mistakes homeowners make:\n\n1.  **Forgetting about local permits and regulations:** Just diving into construction without proper permits is a huge no-no in Los Angeles. You need to meet specific zoning requirements and building codes, which can be complex. How to avoid it: Always work with a licensed contractor who understands local ADU regulations and can handle the permit coordination for you.\n2.  **Underestimating the budget:** Garage conversions aren't just cosmetic changes; they involve structural, electrical, and plumbing work. Many people only budget for aesthetics. How to avoid it: Get a detailed, transparent quote from your builder that covers all aspects of the project, including potential contingencies.\n3.  **Ignoring insulation and climate control:** A garage typically isn't built for year-round living comfort. Without proper insulation, heating, and cooling, your new ADU will be uncomfortable and inefficient. How to avoid it: Ensure your design includes adequate insulation, modern windows, and an efficient HVAC system suitable for a living space.\n4.  **Poor design and layout:** Trying to cram too much into a small space or neglecting natural light can make the ADU feel cramped and unwelcoming. How to avoid it: Work with a design-build team that can optimize your space for functionality and aesthetics, considering flow and light.\n5.  **Choosing an unlicensed or inexperienced builder:** This is perhaps the biggest mistake. An unqualified builder can lead to shoddy work, code violations, and costly delays. How to avoid it: Always verify your builder's license (like Cali View Builders' CSLB #1081371), insurance, bonding, and their experience specifically with ADU conversions.\n6.  **Not planning for utilities:** Your garage likely only has basic electrical. An ADU needs proper plumbing for a bathroom and kitchen, and sufficient electrical capacity. How to avoid it: Ensure your contractor plans for all necessary utility connections and upgrades from the very beginning of the project.",
+  "datePublished": "2026-09-02"
+}

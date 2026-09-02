@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is my garage conversion project taking so long?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s totally normal to feel a bit antsy when your garage conversion project seems to be dragging on. Trust me, you're not alone! These types of projects, especially in bustling areas like Los Angeles, have a lot of moving parts, and delays can pop up for several reasons. Often, the biggest hold-up is permitting. The review process with local city departments, like those in Van Nuys or Woodland Hills, can take weeks or even months to get through. If plans need revisions, you're back in the queue. Another common reason is unforeseen structural issues in the existing garage. Builders might uncover issues with the foundation, framing, or existing utility lines once they start demolition. Addressing these properly takes time, and sometimes requires additional permits. Third, material availability can cause delays. Supply chain issues or backorders on specific windows, doors, or finishes can push timelines back. Choosing standard materials upfront can sometimes help mitigate this. Fourth, inspections. The city requires various inspections throughout the build, and sometimes scheduling them can be tricky or an inspection might fail, requiring corrections before work can proceed. Finally, changes to the scope of work mid-project. Deciding to add a bathroom feature or change a layout after construction has started will definitely add time. Good communication with your builder, especially one like Cali View Builders who handles design-build coordination, can help set realistic expectations and manage these potential delays.",
+  "datePublished": "2026-09-02"
+}

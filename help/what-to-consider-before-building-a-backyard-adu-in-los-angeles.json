@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider Before Building a Backyard ADU in Los Angeles",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about adding a backyard ADU to your Los Angeles property? It's a fantastic way to boost value and create extra space, but there are a few things you'll want to sort out first. Getting these clear early on helps everything run smoother.\n\nFirst, think about your main goal. Is it for family, a rental income, or something else? This will shape the design, size, and features you prioritize. Next, take a good look at your property. Do you have enough available space, considering setbacks and other local zoning rules? It’s also wise to consider access for construction; tight lots can sometimes present unique challenges. Don't forget about utilities – hooking up water, sewer, and electricity to a new detached unit needs planning. Finally, consider your budget and timeline. While an ADU is a great investment, understanding the financial commitment upfront is key. Sometimes, consulting with a general contractor like Cali View Builders who specializes in ADUs in Los Angeles can help you understand the full picture, from initial concept to final walkthrough, ensuring your vision aligns with practical possibilities and local regulations. They can really help navigate the design-build process with clarity.\n\nReady to explore your options for a backyard ADU? Reach out to a local expert for a detailed consultation.",
+  "datePublished": "2026-09-02"
+}

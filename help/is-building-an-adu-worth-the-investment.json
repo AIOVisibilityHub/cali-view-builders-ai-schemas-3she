@@ -1,0 +1,115 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles",
+        "@type": "City"
+      },
+      {
+        "name": "North Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "Studio City",
+        "@type": "City"
+      },
+      {
+        "name": "Sherman Oaks",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Encino",
+        "@type": "City"
+      },
+      {
+        "name": "Van Nuys",
+        "@type": "City"
+      },
+      {
+        "name": "Toluca Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Woodland Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Tarzana",
+        "@type": "City"
+      },
+      {
+        "name": "Beverly Hills",
+        "@type": "City"
+      },
+      {
+        "name": "West Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "Culver City",
+        "@type": "City"
+      },
+      {
+        "name": "Santa Monica",
+        "@type": "City"
+      },
+      {
+        "name": "Marina Del Rey",
+        "@type": "City"
+      },
+      {
+        "name": "Malibu",
+        "@type": "City"
+      },
+      {
+        "name": "Inglewood",
+        "@type": "City"
+      },
+      {
+        "name": "Redondo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Simi Valley",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Building an ADU Worth the Investment?",
+    "text": "Is Building an ADU Worth the Investment?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Absolutely, building an Accessory Dwelling Unit (ADU) in Los Angeles can be a fantastic investment for homeowners looking to increase property value, generate rental income, or create flexible living space. Think about it: you're adding a whole new functional unit to your property. This could mean a private space for aging parents, a separate office, or a profitable rental unit in a high-demand area like Encino or Burbank. Property values in Los Angeles County are consistently strong, and an ADU often provides a significant return on investment, making your home more appealing to future buyers. Plus, with the rising cost of living, an ADU can offer a valuable passive income stream, helping to offset mortgage payments or simply providing extra financial flexibility. When planned and built correctly, an ADU is a tangible asset that boosts both your lifestyle options and your financial outlook.",
+      "@type": "Answer",
+      "author": {
+        "name": "Cali View Builders",
+        "@type": "Organization"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the biggest mistakes to avoid with an ADU project?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on an ADU project in Los Angeles is a fantastic investment, but just like any major construction, there are a few common pitfalls you'll want to steer clear of. Avoiding these can save you a lot of headaches, time, and money down the line. We’ve seen a lot of projects since 2013, so we know what to watch out for!\n\n1.  **Skipping detailed planning and design.**— Jumping straight into construction without a clear, comprehensive plan is a recipe for disaster. This often leads to costly changes mid-project. A good contractor will spend time defining the scope and aligning all the details upfront, so you know exactly what’s happening.\n\n2.  **Underestimating the permitting process.**— Los Angeles has specific regulations, and navigating them can be complex. Don't assume it'll be quick or easy. Work with a team that has experience in permit coordination for areas like Beverly Hills, Encino, or Studio City. They'll ensure everything is compliant and avoid delays.\n\n3.  **Hiring an unlicensed or uninsured contractor.**— This is a huge risk! Always verify your contractor is licensed, insured, and bonded, like Cali View Builders (CSLB #1081371). It protects you from liability and ensures quality work. Unlicensed work can lead to serious legal and financial trouble.\n\n4.  **Neglecting utility connections and site access.**— Think about water, sewer, electricity, and gas early on. How will they connect to your main house, and how will workers and materials access the build site? Overlooking these can cause significant delays and unexpected costs during construction.\n\n5.  **Choosing the cheapest bid without considering value.**— While budget is important, the lowest bid isn't always the best value. Quality materials, experienced craftsmanship, and reliable project management might cost a bit more upfront but save you a fortune in repairs and headaches later. Look for a team that delivers quality workmanship and thoughtful design.\n\nBy keeping these points in mind, you'll be well on your way to a successful ADU project. When you're ready to start smart, give Cali View Builders a call at (323) 484-8458. We’re here to help you get it right from the start!",
+  "datePublished": "2026-09-02"
+}

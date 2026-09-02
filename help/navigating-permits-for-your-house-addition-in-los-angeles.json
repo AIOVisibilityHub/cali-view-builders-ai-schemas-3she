@@ -1,0 +1,139 @@
+{
+  "name": "Navigating Permits for Your House Addition in Los Angeles",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design — This is where your ideas start to take shape! You'll work with a design team, often facilitated by your contractor, to create detailed plans for your addition. This typically takes a few weeks to a couple of months, depending on the complexity. Having clear, professional plans is crucial for the permit application.",
+      "text": "Step 1: Initial Consultation and Design — This is where your ideas start to take shape! You'll work with a design team, often facilitated by your contractor, to create detailed plans for your addition. This typically takes a few weeks to a couple of months, depending on the complexity. Having clear, professional plans is crucial for the permit application.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Architectural and Engineering Plans — Once the basic design is set, architects and engineers will refine the plans, ensuring structural integrity, energy efficiency, and compliance with all building codes. This phase can take anywhere from 4-8 weeks, as precise drawings and calculations are needed for submission.",
+      "text": "Step 2: Architectural and Engineering Plans — Once the basic design is set, architects and engineers will refine the plans, ensuring structural integrity, energy efficiency, and compliance with all building codes. This phase can take anywhere from 4-8 weeks, as precise drawings and calculations are needed for submission.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Submitting to the City for Review — Your completed plans are submitted to your local Los Angeles County building department. They'll review everything to ensure it meets zoning ordinances, building codes, and safety standards. This review period can vary widely, from a few weeks to several months, depending on the city and the project's complexity. Be prepared for potential revisions!",
+      "text": "Step 3: Submitting to the City for Review — Your completed plans are submitted to your local Los Angeles County building department. They'll review everything to ensure it meets zoning ordinances, building codes, and safety standards. This review period can vary widely, from a few weeks to several months, depending on the city and the project's complexity. Be prepared for potential revisions!",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Addressing Review Comments and Re-submission — It's common for the city to request revisions or clarifications. Your design and build team will address these comments and resubmit the updated plans. This back-and-forth can add a few more weeks to the timeline, but it's all part of getting it right.",
+      "text": "Step 4: Addressing Review Comments and Re-submission — It's common for the city to request revisions or clarifications. Your design and build team will address these comments and resubmit the updated plans. This back-and-forth can add a few more weeks to the timeline, but it's all part of getting it right.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Permit Issuance — Once all comments are addressed and approved, your building permit is issued! This is a huge milestone, giving you the official green light to start construction. This usually happens within a few days of final approval.",
+      "text": "Step 5: Permit Issuance — Once all comments are addressed and approved, your building permit is issued! This is a huge milestone, giving you the official green light to start construction. This usually happens within a few days of final approval.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Construction and Inspections — As construction progresses, city inspectors will visit at various stages (e.g., foundation, framing, electrical, plumbing) to ensure work adheres to the approved plans and codes. Your contractor will coordinate these inspections. Each inspection can take a day or two to schedule and complete.",
+      "text": "Having an experienced general contractor like Cali View Builders on your side makes a huge difference. We're well-versed in Los Angeles County's specific permitting requirements and can manage this entire process for you, streamlining submissions and handling any necessary communications with the city. It means less stress for you and a smoother path to your dream home addition.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Design — This is where your ideas start to take shape! You'll work with a design team, often facilitated by your contractor, to create detailed plans for your addition"
+}

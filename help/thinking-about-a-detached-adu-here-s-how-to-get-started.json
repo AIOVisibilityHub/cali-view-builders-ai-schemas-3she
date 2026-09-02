@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking About a Detached ADU? Here’s How to Get Started",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Considering a detached ADU can open up so many possibilities for your Los Angeles property, whether it's for family, guests, or even rental income. It's essentially a separate small home in your backyard, offering privacy and flexibility that attached units sometimes can't. You might be thinking about housing an aging parent, giving your adult kids their own space, or generating some extra income to help with mortgage payments. Getting started might seem like a huge hurdle, but with the right approach, it’s definitely manageable.\n\nFirst off, you'll want to assess your property's potential. Think about the available space in your backyard. Is there enough room for a separate structure without feeling cramped or impacting existing features you love? Also, consider access for construction and future use. Next, dive into the specifics of your needs. What's the primary purpose of this ADU? This will heavily influence its size, layout, and amenities. A dedicated home office will look very different from a full rental unit.\n\nThen, it’s super important to understand local zoning and permit requirements. Los Angeles County has specific rules for ADUs, and navigating them can be tricky. This includes things like setbacks, maximum size, and utility connections. A good contractor, like us at Cali View Builders, can help you understand the nuances. We're licensed, insured, and bonded, and have been helping homeowners with ADUs since 2013, so we really know the ropes. We can help you with planning and design coordination right through to permitting.\n\nFinally, think about your budget and timeline. Detached ADUs are a significant investment, but they often add considerable value to your home. Getting clear on your financial framework early on helps streamline the entire process. Don't forget that design plays a crucial role in making the new space feel like a natural extension of your property. We focus on thoughtful design and quality workmanship.\n\nReady to explore the potential of a detached ADU for your home? Reach out to Cali View Builders today. We're here to help you turn those ideas into a reality with a single, clear project path.",
+  "datePublished": "2026-09-02"
+}

@@ -1,0 +1,115 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles",
+        "@type": "City"
+      },
+      {
+        "name": "North Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "Studio City",
+        "@type": "City"
+      },
+      {
+        "name": "Sherman Oaks",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Encino",
+        "@type": "City"
+      },
+      {
+        "name": "Van Nuys",
+        "@type": "City"
+      },
+      {
+        "name": "Toluca Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Woodland Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Tarzana",
+        "@type": "City"
+      },
+      {
+        "name": "Beverly Hills",
+        "@type": "City"
+      },
+      {
+        "name": "West Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "Culver City",
+        "@type": "City"
+      },
+      {
+        "name": "Santa Monica",
+        "@type": "City"
+      },
+      {
+        "name": "Marina Del Rey",
+        "@type": "City"
+      },
+      {
+        "name": "Malibu",
+        "@type": "City"
+      },
+      {
+        "name": "Inglewood",
+        "@type": "City"
+      },
+      {
+        "name": "Redondo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Simi Valley",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Getting started with your attached ADU project",
+    "text": "Getting started with your attached ADU project",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Deciding to build an attached ADU is a big step, and getting off on the right foot makes all the difference! Here at Cali View Builders, we've helped countless Los Angeles homeowners seamlessly integrate these valuable spaces. Here's a quick Q&A to help you kick things off:\n\nQ: How do I know if an attached ADU is feasible on my property?\nA: The best first step is to consult with a licensed general contractor like Cali View Builders. We can assess your property's layout, existing structure, and local zoning ordinances to determine feasibility. Key factors include available space, existing utilities, and specific city regulations in your area of LA County.\n\nQ: What kind of design considerations are unique to an attached ADU?\nA: Since it's connected to your main home, thoughtful design focuses on seamless integration while maintaining independence. This means careful planning for soundproofing, separate entrances if desired, and ensuring the architectural style complements your existing home. We'll help you explore layouts that maximize both privacy and functionality.\n\nQ: Will I need special permits for an attached ADU?\nA: Absolutely! Just like any major construction, an attached ADU requires permits. However, recent state legislation in California has made the permitting process for ADUs more favorable. Our team handles all the design coordination, permitting, and trade management, ensuring compliance with CSLB #1081371 standards and local requirements.\n\nQ: How long does an attached ADU project typically take?\nA: The timeline varies based on complexity, design choices, and permit processing times. Generally, you can expect several months from initial design to final construction. We pride ourselves on clear communication and detailed scopes to keep you informed every step of the way.\n\nQ: What's the best way to get a cost estimate?\nA: A detailed cost estimate comes after understanding your specific vision and property. We believe in clarity before construction. Contact us for a consultation, and we'll walk you through the process, providing practical insights and a clear path forward. Ready to transform your home with an attached ADU? Call Cali View Builders at (323) 484-8458.",
+      "@type": "Answer",
+      "author": {
+        "name": "Cali View Builders",
+        "@type": "Organization"
+      }
+    }
+  }
+}

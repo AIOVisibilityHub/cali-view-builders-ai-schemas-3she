@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Adding a Second Story: What About Structural Integrity?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're dreaming of adding a second story to your home, one of the biggest questions that naturally comes up is, \"What about structural integrity?\" And you're right to ask! It's absolutely crucial, and something a professional contractor takes very seriously. Essentially, your existing home's foundation and walls weren't originally designed to carry the weight of an entire additional floor. So, the first and most critical step is a thorough assessment by structural engineers. They'll evaluate your current foundation, framing, and load-bearing walls to determine if they can handle the new load, or what upgrades are necessary. This might involve strengthening the existing foundation, adding new footings, reinforcing walls, or upgrading certain beams and columns. It's not uncommon to need some seismic retrofitting too, especially here in Los Angeles, to ensure your expanded home is safe and compliant with current building codes. Your contractor will then translate these engineering specifications into the construction plan. They'll ensure the right materials are used and that the new framing properly distributes the weight down to the strengthened foundation. It's a complex process that requires precision and expertise, but with the right team, it's completely achievable. Cali View Builders, being a licensed and experienced general contractor in Los Angeles, prioritizes this structural assessment and engineering coordination to guarantee your second story addition is not just beautiful, but also robust and safe for decades to come. We make sure clarity comes before construction, so you understand every step.",
+  "datePublished": "2026-09-02"
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Worried about permits for your ADU project?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Navigating the permit process for an Accessory Dwelling Unit (ADU) in Los Angeles can feel like a maze, but it doesn't have to be a nightmare. Many homeowners get overwhelmed by the paperwork and regulations, often delaying their dream ADU. The good news is that with the right approach and a knowledgeable partner, it's totally manageable. The process typically involves submitting detailed plans, ensuring compliance with local zoning ordinances, and getting various inspections. Trying to handle this alone can lead to costly delays or even rejection of your plans if you miss crucial details.\n\nHere’s how to make it smoother:\n\n*   **Understand Local Regulations:** Los Angeles has specific rules for ADUs, including size limits, setback requirements, and parking provisions. These can change, so staying updated is key. A good builder will already know these ins and outs.\n*   **Detailed Plans are Non-Negotiable:** You'll need professionally drawn architectural and engineering plans. These aren't just pretty pictures; they're blueprints for safety and compliance. Mistakes here are often the biggest cause of permit delays.\n*   **Work with Experienced Professionals:** A contractor who regularly builds ADUs in LA will have established relationships with city planners and inspectors. They know what's expected and can help expedite the process. Cali View Builders, for example, handles permit coordination as part of our design-build service, simplifying things for homeowners.\n*   **Prepare for Revisions:** It’s rare for plans to be approved on the first go. Be ready for feedback and revisions from the planning department. Your contractor should manage this back-and-forth efficiently.\n*   **Don't Rush the Process:** Patience is a virtue here. Rushing can lead to errors that ultimately take more time to fix. Let your team guide you through each stage deliberately.\n\nWhile tackling permits might seem daunting, it's a critical step to ensure your ADU is built legally and safely. If you're feeling lost, don't hesitate to reach out to a local ADU builder like Cali View Builders. We can help you navigate the process from start to finish, ensuring your project stays on track and compliant with all Los Angeles regulations.",
+  "datePublished": "2026-09-02"
+}

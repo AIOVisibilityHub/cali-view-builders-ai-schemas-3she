@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My House Feels Too Small: What Are My Options for More Space?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling cramped in your current home is a common issue, especially here in Los Angeles. Before you think about moving, let's explore how adding space can completely transform your living situation. You've got a few fantastic options, and it's all about finding what fits your lifestyle, your property, and your budget.\n\nFirst up, there's the classic room addition. This is perfect if you need a dedicated space like an extra bedroom, a home office, or a larger living area. We can build out from your existing footprint or even add a second story, depending on what makes sense for your home's structure and lot. It's designed to seamlessly blend with your current architecture, making it feel like it was always there.\n\nThen we have accessory dwelling units (ADUs), which are incredibly popular in Los Angeles. If you need a completely separate living space for family, guests, or even a rental income, an ADU — whether detached, attached, or a garage conversion — is a game-changer. It offers privacy and versatility that a traditional room addition might not.\n\nMajor renovations are another avenue. Sometimes, you don't necessarily need more square footage, but a better use of the space you already have. This could involve reconfiguring walls, updating layouts, or transforming underutilized areas. While not strictly an ",
+  "datePublished": "2026-09-02"
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider Before Starting Your Kitchen Renovation",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "- [ ] Define your primary goals — why are you renovating? What problems are you trying to solve (e.g., more storage, better flow, modern aesthetic)? Your answers will shape every decision.\n- [ ] Establish a realistic budget — know your comfortable spending range, including a contingency fund (10-20%) for unforeseen issues or upgrades. This helps keep expectations aligned.\n- [ ] Research design styles and materials — collect images of kitchens you love. Consider durability and maintenance for materials like countertops (quartz, granite), flooring (LVP, tile), and cabinetry. This ensures your final choices reflect your taste and lifestyle.\n- [ ] Assess your existing kitchen's structure — consider if you want to move walls, relocate plumbing, or update electrical. These changes significantly impact cost and timeline, so it's good to know early on.\n- [ ] Plan for temporary kitchen arrangements — renovating means your kitchen will be out of commission for a while. Think about how you’ll cook and eat during construction to minimize disruption.\n- [ ] Consider the impact on adjacent spaces — a kitchen renovation can affect nearby rooms in terms of dust, noise, and design continuity. Plan for how these areas will be protected or integrated.\n- [ ] Understand the permitting process — major renovations in Los Angeles County often require permits. An experienced contractor like Cali View Builders can handle this, ensuring compliance and avoiding future issues.\n- [ ] Interview multiple licensed and insured contractors — look for a family-owned team with a CSLB license (ours is #1081371) and good references. This ensures you're working with qualified and reliable professionals.\n- [ ] Clarify the communication plan — ask your contractor how updates will be shared and how quickly questions will be answered. Clear communication prevents misunderstandings and stress.\n- [ ] Review the contract thoroughly — ensure the scope of work, timeline, payment schedule, and warranty information are all clearly detailed before signing. This protects both parties.\n\nHow to use this checklist: Go through each item and check it off as you consider or complete it. This structured approach helps ensure you don't overlook crucial steps and prepares you for a smoother, less stressful kitchen renovation journey. It's a great tool to organize your thoughts before reaching out to us.",
+  "datePublished": "2026-09-02"
+}

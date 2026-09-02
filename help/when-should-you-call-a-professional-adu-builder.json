@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When should you call a professional ADU builder?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super exciting to think about adding an Accessory Dwelling Unit (ADU) to your Los Angeles property, whether it's for extra income, family, or just more space. But knowing when to bring in a professional ADU builder can make all the difference between a smooth project and a stressful one. While some DIY enthusiasts might consider tackling parts of a build, ADUs involve complex planning, specific regulations, and multiple construction trades. Here are the clear signs it’s time to call in the experts:\n\n*   **You're unsure about LA's ADU regulations:** The rules for ADUs in Los Angeles can be intricate, covering everything from setbacks and square footage to utility connections and parking. A professional builder knows these codes inside and out and can ensure your project is compliant from day one.\n*   **You need help with design and planning:** Designing a functional and aesthetically pleasing ADU that also meets all structural and safety requirements isn't simple. A builder who offers design-build coordination, like Cali View Builders, can help turn your vision into a practical, permittable plan.\n*   **Permit acquisition seems daunting:** Getting permits for an ADU involves a lot of paperwork, submissions, and back-and-forth with the city. If the thought of navigating the Los Angeles Department of Building and Safety makes your head spin, a professional will handle this crucial step for you.\n*   **You want to ensure quality and durability:** An ADU is a significant investment. A licensed, insured, and bonded general contractor provides peace of mind that the work will be done to high standards, using quality materials, and built to last. This protects your investment and ensures safety.\n*   **You value a clear timeline and budget:** Professional builders are experienced in project management. They can provide a detailed scope of work, a realistic budget, and a clear timeline, minimizing surprises and keeping your project on track and within financial expectations.\n*   **You're converting a garage or adding complex utilities:** These projects often require specialized knowledge in structural modifications, plumbing, and electrical work. Attempting these without expertise can lead to costly errors, safety hazards, or code violations. A professional will manage all these intricate details seamlessly.\n\nDon't wait until you're deep into the planning or construction process and run into unexpected hurdles. Bringing in a professional ADU builder like Cali View Builders early on can save you time, money, and a lot of stress, ensuring your ADU project in Los Angeles is a success.",
+  "datePublished": "2026-09-02"
+}

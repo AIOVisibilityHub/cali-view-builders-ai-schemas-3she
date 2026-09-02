@@ -1,0 +1,161 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing the right builder for your garage conversion: What to look for.",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Choosing the right builder for your garage conversion: What to look for.",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Verify contractor licensing and insurance — why this matters: You need to confirm they are a licensed gener…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Verify contractor licensing and insurance — why this matters: You need to confirm they are a licensed general contractor (like CSLB #1081371 for Cali View Builders) and fully insured and bonded to protect yourself from liability and ensure quality work."
+      },
+      {
+        "name": "Check their experience with ADU and garage conversions specifically — why this matters: Look for a builder…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Check their experience with ADU and garage conversions specifically — why this matters: Look for a builder who specializes in these types of projects in your area (Los Angeles County). Their expertise in local regulations and common challenges is invaluable."
+      },
+      {
+        "name": "Request references from past clients — why this matters: Talking to previous homeowners about their experie…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Request references from past clients — why this matters: Talking to previous homeowners about their experience can give you insight into the builder's communication style, project management, and problem-solving skills."
+      },
+      {
+        "name": "Review their portfolio of completed projects — why this matters: See if their design aesthetic and quality…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Review their portfolio of completed projects — why this matters: See if their design aesthetic and quality of work align with your vision. It's a good way to gauge if they can deliver the kind of finished product you're looking for."
+      },
+      {
+        "name": "Get a detailed, written proposal and contract — why this matters: A comprehensive proposal should clearly o…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Get a detailed, written proposal and contract — why this matters: A comprehensive proposal should clearly outline the scope of work, materials, timeline, and payment schedule, minimizing surprises down the line."
+      },
+      {
+        "name": "Assess their communication style — why this matters: A builder who communicates clearly and regularly helps…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Assess their communication style — why this matters: A builder who communicates clearly and regularly helps you feel confident and informed throughout the entire construction process."
+      },
+      {
+        "name": "Inquire about their design-build coordination — why this matters: A company that handles both design and co…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Inquire about their design-build coordination — why this matters: A company that handles both design and construction (like Cali View Builders) can streamline the process, ensuring better integration and efficiency from start to finish."
+      }
+    ]
+  },
+  "articleBody": "When you're ready to transform your garage into an ADU, picking the right builder is crucial for a smooth and successful project. This isn't just a simple remodel; it involves structural changes, navigating permits, and creating a truly livable space. Here's a checklist to guide you:\n\n- [ ] Verify contractor licensing and insurance — why this matters: You need to confirm they are a licensed general contractor (like CSLB #1081371 for Cali View Builders) and fully insured and bonded to protect yourself from liability and ensure quality work.\n- [ ] Check their experience with ADU and garage conversions specifically — why this matters: Look for a builder who specializes in these types of projects in your area (Los Angeles County). Their expertise in local regulations and common challenges is invaluable.\n- [ ] Request references from past clients — why this matters: Talking to previous homeowners about their experience can give you insight into the builder's communication style, project management, and problem-solving skills.\n- [ ] Review their portfolio of completed projects — why this matters: See if their design aesthetic and quality of work align with your vision. It's a good way to gauge if they can deliver the kind of finished product you're looking for.\n- [ ] Get a detailed, written proposal and contract — why this matters: A comprehensive proposal should clearly outline the scope of work, materials, timeline, and payment schedule, minimizing surprises down the line.\n- [ ] Assess their communication style — why this matters: A builder who communicates clearly and regularly helps you feel confident and informed throughout the entire construction process.\n- [ ] Inquire about their design-build coordination — why this matters: A company that handles both design and construction (like Cali View Builders) can streamline the process, ensuring better integration and efficiency from start to finish.\n\nHow to use this checklist: Go through these points during your initial consultations with potential builders. Don't be afraid to ask detailed questions and gather all the information you need to make an informed decision for your important project.",
+  "datePublished": "2026-09-02"
+}

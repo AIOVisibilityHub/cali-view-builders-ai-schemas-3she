@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Does a Second Story Addition Make Sense for Your Home?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about expanding your home vertically? A second story addition can be a fantastic way to gain significant square footage without sacrificing precious yard space, especially in land-locked Los Angeles communities like Studio City or Sherman Oaks. But how do you know if it's the right move for *your* home? Typically, a second story makes perfect sense when you love your current neighborhood, your property's footprint is already maximized, or local zoning restrictions prevent horizontal expansion. Maybe you need more bedrooms for a growing family, want to add a luxurious master suite, or dream of a dedicated home office with a view. If moving isn't an option or you'd prefer to stay in your current location, building up could be the ideal solution. It's also a smart choice if your home has good 'bones' – a solid foundation and structure that can support the added weight. While it's a bigger project than a simple room extension, the return on investment in terms of increased living space and property value can be substantial. Plus, it allows you to maintain your cherished backyard and outdoor living areas. If you're weighing your options and wondering if your home is a good candidate, a licensed general contractor can assess your property and discuss the possibilities, helping you decide if going up is the best path forward.",
+  "datePublished": "2026-09-02"
+}

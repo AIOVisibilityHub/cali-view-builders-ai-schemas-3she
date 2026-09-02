@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Pitfalls in Home Addition Projects",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a home addition project in Los Angeles is an exciting venture, but there are definitely some common snags you'll want to avoid to keep things running smoothly. Thinking ahead and preparing can save you a lot of headaches and unexpected costs down the line. It's all about being proactive and working with a team that knows the ropes.\n\n- [ ] Get a detailed, written scope of work — why it matters: A vague agreement can lead to misunderstandings about what’s included, resulting in change orders and budget overruns. Make sure every detail is spelled out, from materials to specific tasks, just as Cali View Builders emphasizes.\n- [ ] Confirm all permits are secured before starting construction — why it matters: Beginning work without proper permits from your local Los Angeles County jurisdiction (like Glendale or Burbank) can lead to fines, stop-work orders, and costly delays. Your contractor should handle this coordination.\n- [ ] Set a realistic budget with contingency funds — why it matters: Unexpected issues often arise during construction, especially with older homes. A 10-20% contingency fund helps you cover unforeseen costs without derailing the project.\n- [ ] Maintain open communication with your contractor — why it matters: Regular updates and clear channels for questions prevent small issues from becoming big problems. A good contractor provides consistent communication, as Cali View Builders states.\n- [ ] Understand the project timeline and key milestones — why it matters: Knowing the schedule helps you plan for disruptions, understand progress, and anticipate when different trades will be on site. This helps manage expectations.\n- [ ] Carefully review all material selections — why it matters: Changing your mind on materials mid-project can cause delays and incur restocking fees or additional labor costs. Finalize choices early.\n- [ ] Verify your contractor is licensed, insured, and bonded — why it matters: This protects you from liability and ensures you're working with a reputable professional in California, like Cali View Builders (CSLB #1081371). \n\nHow to use this checklist: Go through these points with your chosen contractor at the project's outset and regularly throughout. It’s a great way to ensure you're both on the same page and minimizing potential roadblocks for your beautiful new home addition.",
+  "datePublished": "2026-09-02"
+}

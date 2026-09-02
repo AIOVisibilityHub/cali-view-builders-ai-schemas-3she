@@ -1,0 +1,133 @@
+{
+  "name": "How to navigate ADU construction timelines in LA?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design – This usually takes a few weeks to a couple of months. It's when you meet with a contractor like us to discuss your vision, assess your property (whether it's in Glendale or Van Nuys), and start sketching out preliminary designs. We listen first to understand your needs before anything else.",
+      "text": "Step 1: Initial Consultation and Design – This usually takes a few weeks to a couple of months. It's when you meet with a contractor like us to discuss your vision, assess your property (whether it's in Glendale or Van Nuys), and start sketching out preliminary designs. We listen first to understand your needs before anything else.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permit Application and Approval – This phase can often be the longest, ranging from a few months up to several. It involves finalizing architectural plans and submitting them to the city for approval. The exact duration really depends on the specific jurisdiction within Los Angeles County and the complexity of your project. We handle the permit coordination, which really helps streamline the process.",
+      "text": "Step 2: Permit Application and Approval – This phase can often be the longest, ranging from a few months up to several. It involves finalizing architectural plans and submitting them to the city for approval. The exact duration really depends on the specific jurisdiction within Los Angeles County and the complexity of your project. We handle the permit coordination, which really helps streamline the process.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Pre-Construction Preparations – Once permits are in hand, this takes a couple of weeks. It involves things like ordering materials, scheduling subcontractors, and getting the site ready. Good coordination here sets the stage for efficient building.",
+      "text": "Step 3: Pre-Construction Preparations – Once permits are in hand, this takes a couple of weeks. It involves things like ordering materials, scheduling subcontractors, and getting the site ready. Good coordination here sets the stage for efficient building.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Construction Phase – This is where you see the magic happen! Depending on the size and complexity of your ADU (a garage conversion versus a new detached unit), this phase typically lasts between 4 to 8 months. Our team focuses on quality workmanship and reliable project execution, from framing to finishes.",
+      "text": "Step 4: Construction Phase – This is where you see the magic happen! Depending on the size and complexity of your ADU (a garage conversion versus a new detached unit), this phase typically lasts between 4 to 8 months. Our team focuses on quality workmanship and reliable project execution, from framing to finishes.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Inspections and Walkthrough – The last leg usually takes a few weeks. It includes final city inspections to ensure everything is up to code, followed by a walkthrough with you to address any last-minute details. We make sure everything's just right before we hand over the keys.",
+      "text": "Remember, these are general estimates, and every project is unique. Working with an experienced Los Angeles general contractor like Cali View Builders helps keep everything on track. Give us a ring at (323) 484-8458 to discuss your specific ADU project timeline!",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Design – This usually takes a few weeks to a couple of months. It's when you meet with a contractor like us to discuss your vision, assess your property (whether it's "
+}

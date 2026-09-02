@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is an Attached ADU Right for My Home?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Considering an attached Accessory Dwelling Unit (ADU) for your property? That's a fantastic thought! Attached ADUs are a clever way to expand your living space without taking up precious backyard real estate, and they're becoming super popular in places like Los Angeles, Burbank, and Glendale. But is it the perfect fit for *your* home and lifestyle? Let's figure that out.\n\nAttached ADUs are essentially an extension of your existing home, often built onto an unused side, a second story, or even by converting an existing space like a garage that shares a wall. They're great if your lot size limits a detached unit or if you prefer a closer connection between the main house and the ADU. Think of it as adding a flexible suite – maybe for a live-in family member, a dedicated office, or even a rental unit. The integration can feel more seamless than a completely separate structure, and sometimes utility connections are simpler.\n\nHowever, there are a few things to consider. You'll need to think about shared walls, noise transfer, and maintaining privacy for both residents. Design is key here; a good builder can help with soundproofing and smart layouts. Also, while regulations are generally favorable for ADUs, attached units still need to meet specific building codes, setback requirements, and egress rules. This might mean adjusting existing structures or ensuring proper fire separation, which a licensed contractor will know how to handle.\n\nOn the flip side, attached ADUs can often be more cost-effective to build than detached ones because they leverage existing infrastructure. They can also blend more harmoniously with your home's architecture, maintaining a cohesive look. Ultimately, if you're looking for flexible space that's close by, potentially more affordable, and works within a smaller yard footprint, an attached ADU could be your ideal solution. It's all about balancing your needs with your property's unique characteristics and ensuring you have an expert team to guide you through the design and construction. If you're in Los Angeles County, a specialist in ADU building can help you weigh the pros and cons for your specific situation.",
+  "datePublished": "2026-09-02"
+}

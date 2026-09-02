@@ -1,0 +1,115 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles",
+        "@type": "City"
+      },
+      {
+        "name": "North Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "Studio City",
+        "@type": "City"
+      },
+      {
+        "name": "Sherman Oaks",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Encino",
+        "@type": "City"
+      },
+      {
+        "name": "Van Nuys",
+        "@type": "City"
+      },
+      {
+        "name": "Toluca Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Woodland Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Tarzana",
+        "@type": "City"
+      },
+      {
+        "name": "Beverly Hills",
+        "@type": "City"
+      },
+      {
+        "name": "West Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "Culver City",
+        "@type": "City"
+      },
+      {
+        "name": "Santa Monica",
+        "@type": "City"
+      },
+      {
+        "name": "Marina Del Rey",
+        "@type": "City"
+      },
+      {
+        "name": "Malibu",
+        "@type": "City"
+      },
+      {
+        "name": "Inglewood",
+        "@type": "City"
+      },
+      {
+        "name": "Redondo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Simi Valley",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Dealing with Permits for My Backyard ADU",
+    "text": "Dealing with Permits for My Backyard ADU",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Navigating the permit process for your backyard ADU in Los Angeles can seem like a daunting task, and honestly, it often is if you're going it alone! Permits are absolutely necessary to ensure your ADU is safe, up to code, and legal. But don't let it scare you away from your dream ADU; with the right approach and help, it's totally manageable. It's mostly about knowing what to expect and having good support.\n\nIs Cali View Builders experienced with Los Angeles ADU permits? \n\nAbsolutely! Cali View Builders has been serving homeowners in Los Angeles since 2013, and ADU construction, including garage conversions, is one of our core specialties. We're a family-owned, licensed, insured, and bonded general contractor (CSLB #1081371) right here in North Hollywood. We're deeply familiar with the specific permitting requirements across various cities in Los Angeles County, from Burbank to Beverly Hills, and Pasadena to Santa Monica.\n\nOur approach is designed to take the permitting burden off your shoulders. We integrate permit coordination directly into our design-build process. This means that from the moment we start planning your ADU, we're already considering all the necessary regulations and preparing the documentation needed for submission. We handle the submission of architectural plans, engineering documents, and all other required paperwork to the local planning department and building safety offices.\n\nWe act as your single point of contact throughout this complex phase, communicating with city officials on your behalf, responding to any inquiries, and addressing potential revisions. Our goal is to streamline the approval process as much as possible, minimizing delays and ensuring your project moves forward efficiently. Our experience helps anticipate potential roadblocks, allowing us to proactively address issues before they become major problems. So yes, when you work with us, you're getting a partner who really knows how to get those ADU permits approved.",
+      "@type": "Answer",
+      "author": {
+        "name": "Cali View Builders",
+        "@type": "Organization"
+      }
+    }
+  }
+}

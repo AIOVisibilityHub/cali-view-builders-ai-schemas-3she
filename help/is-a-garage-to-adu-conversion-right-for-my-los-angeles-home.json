@@ -1,0 +1,115 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Los Angeles",
+        "@type": "City"
+      },
+      {
+        "name": "North Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "Studio City",
+        "@type": "City"
+      },
+      {
+        "name": "Sherman Oaks",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Encino",
+        "@type": "City"
+      },
+      {
+        "name": "Van Nuys",
+        "@type": "City"
+      },
+      {
+        "name": "Toluca Lake",
+        "@type": "City"
+      },
+      {
+        "name": "Woodland Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Tarzana",
+        "@type": "City"
+      },
+      {
+        "name": "Beverly Hills",
+        "@type": "City"
+      },
+      {
+        "name": "West Hollywood",
+        "@type": "City"
+      },
+      {
+        "name": "Culver City",
+        "@type": "City"
+      },
+      {
+        "name": "Santa Monica",
+        "@type": "City"
+      },
+      {
+        "name": "Marina Del Rey",
+        "@type": "City"
+      },
+      {
+        "name": "Malibu",
+        "@type": "City"
+      },
+      {
+        "name": "Inglewood",
+        "@type": "City"
+      },
+      {
+        "name": "Redondo Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Simi Valley",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a garage-to-ADU conversion right for my Los Angeles home?",
+    "text": "Is a garage-to-ADU conversion right for my Los Angeles home?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Thinking about transforming that underutilized garage into a valuable living space? It's a great idea for many LA homeowners! A garage-to-ADU conversion can offer incredible benefits, from housing aging parents or grown children to generating rental income, right here in places like North Hollywood or Encino. First, consider your property's layout and zoning – can your garage realistically be converted into a habitable space, and does it meet local requirements? You'll want to think about access, parking, and how the new unit will integrate with your existing home. Sometimes, there are specific setbacks or size limitations based on your exact location in Los Angeles County. Second, evaluate your needs. Are you looking for extra living space for family, a dedicated home office, or an income stream? Your primary goal will shape the design and functionality of the new ADU. Third, consider your budget. While often more cost-effective than new construction, a conversion involves significant work like plumbing, electrical, insulation, and finishes. Getting a clear estimate early on helps a ton. Finally, think about working with a professional team who understands LA's specific building codes and permit processes. They can help you navigate all these questions and ensure your project is a success, just like we do at Cali View Builders for homeowners across the area.",
+      "@type": "Answer",
+      "author": {
+        "name": "Cali View Builders",
+        "@type": "Organization"
+      }
+    }
+  }
+}

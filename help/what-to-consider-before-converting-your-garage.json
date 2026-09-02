@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to consider before converting your garage?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "- [ ] Check local zoning and permit requirements — why this matters: Los Angeles County has specific rules for ADUs; understanding these early helps you avoid costly redesigns and delays. Each area, from Malibu to Inglewood, might have slightly different nuances.\n- [ ] Assess the existing garage structure — why this matters: Your garage's foundation, walls, and roof need to be sound and capable of supporting a habitable space. Structural integrity is paramount for safety and longevity.\n- [ ] Plan for utilities (plumbing, electrical, HVAC) — why this matters: A functional living space needs water, electricity, and climate control, which often means extending or upgrading existing lines, a significant part of the budget.\n- [ ] Consider access and privacy for the new unit — why this matters: Think about how occupants will enter and exit, and how their privacy (and yours) will be maintained. A separate entrance is often preferred.\n- [ ] Determine parking implications — why this matters: Converting a garage often means losing a dedicated parking spot, and some LA municipalities have specific requirements for replacement parking.\n- [ ] Set a realistic budget and timeline — why this matters: Conversions can be complex; a clear financial plan and an understanding of the typical duration help manage expectations and avoid stress.\n- [ ] Think about insulation and soundproofing — why this matters: Garages aren't built for living, so proper insulation for comfort and soundproofing for privacy are crucial additions.\n- [ ] Research experienced local contractors — why this matters: A builder familiar with ADU conversions and LA's specific regulations, like Cali View Builders, can navigate the process smoothly and efficiently.\n\nHow to use this checklist: Go through each item and check it off as you gather information or make decisions. This helps ensure you've thought about all the critical aspects before diving into your garage conversion project, leading to a much smoother process.",
+  "datePublished": "2026-09-02"
+}

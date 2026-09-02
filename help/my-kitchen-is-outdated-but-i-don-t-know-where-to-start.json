@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen is Outdated, But I Don't Know Where to Start",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "So, your kitchen feels like a relic from another era, and you're ready for a change, but the thought of starting a renovation is just… a lot. You're not alone! Many homeowners in Los Angeles feel overwhelmed by the possibilities and the process. The good news is, getting started is simpler than you might think, especially when you have a clear plan and the right team on your side.\n\nFirst things first: dream a little. What do you dislike most about your current kitchen? Is it the cramped space, the old appliances, the lack of natural light, or just the tired aesthetic? And what would your ideal kitchen look like? Think about functionality – do you need more storage, better flow for entertaining, or a dedicated coffee bar? Gathering inspiration from online galleries or design magazines can help crystallize your vision. Don't worry about perfection; just get your ideas flowing.\n\nNext, set a realistic budget. Understanding what you're comfortable investing will help guide all subsequent decisions, from materials to the extent of structural changes. Be sure to factor in a contingency for unexpected discoveries. Once you have a general idea, your best next step is to talk to an experienced general contractor like Cali View Builders. We're family-owned, licensed, insured, and bonded, and we've been helping homeowners in areas like Studio City and Sherman Oaks since 2013.\n\nWe can walk you through the possibilities, offer design coordination, and provide a clear scope of work tailored to your home and goals. We'll listen first to understand your priorities and constraints, then help define a plan that makes sense. From thoughtful layouts to durable finishes, we specialize in creating better-working kitchens. Don't let indecision hold you back – give us a call at (323) 484-8458. We make the renovation journey clear before construction and care during the work.",
+  "datePublished": "2026-09-02"
+}

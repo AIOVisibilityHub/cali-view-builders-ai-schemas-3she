@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking of an ADU? How to Get Started",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "So, you're considering an Accessory Dwelling Unit for your property? That's a fantastic idea, especially here in Los Angeles, where extra space is always a plus! ADUs can add so much flexibility, whether it's for family, rental income, or just more room to breathe. But where do you even begin? It can feel a little overwhelming with all the regulations and design possibilities, right? Don't worry, it's totally manageable once you break it down.\n\nFirst, figure out your 'why.' Is it a backyard retreat, a rental unit, or maybe a place for aging parents? Knowing your primary goal helps shape the design and functionality. Then, think about your space. Do you have room for a detached unit, or would a garage conversion work better? Los Angeles properties vary a lot, so understanding your lot's potential is key. Next, get a handle on the local rules. ADU regulations have become more homeowner-friendly, but there are still specific requirements for size, setbacks, and parking in places like North Hollywood, Studio City, or Beverly Hills. This is where an experienced builder who knows the local ordinances can be a huge asset. Finally, start sketching out some ideas and talking to a professional. A good design-build team can help you navigate the process, from initial concepts and permits to the actual construction. They'll help make sure your vision aligns with what's feasible and permissible, setting you up for a smooth project.\n\nReady to explore your ADU possibilities? Chat with a local expert who specializes in ADU construction to get tailored advice for your property.",
+  "datePublished": "2026-09-02"
+}

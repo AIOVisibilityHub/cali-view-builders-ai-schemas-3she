@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking of an ADU but not sure where to start?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Considering an Accessory Dwelling Unit (ADU) can feel a bit overwhelming, right? There are so many options and details to sort through. The good news is that adding an ADU can seriously boost your property's value and flexibility, whether it's for family, rental income, or just extra space. You're essentially creating a whole new living area right on your property, which is pretty exciting!\n\nFirst off, think about your main goal. Do you need a place for aging parents, a separate home office, or are you looking to rent it out for some extra cash? This really shapes the type and size of ADU you'll want, like a detached backyard unit or a garage conversion. Cali View Builders works on all sorts—from attached ADUs to transforming that old garage into something new.\n\nNext, consider your existing property. What kind of space do you have available? We've seen everything from converting garages in Beverly Hills to building brand new units in Burbank. A professional can help you assess the feasibility of different types of ADUs based on your lot size and local zoning regulations in places like Los Angeles County.\n\nThen, it’s smart to get a handle on the design. How will the new space flow with your current home? Think about natural light, privacy, and utility connections. A well-designed ADU feels like a natural extension of your property, not an afterthought. We focus on thoughtful design and quality workmanship to make sure it integrates seamlessly.\n\nFinally, don't underestimate the importance of permitting and project coordination. Navigating the approvals in Los Angeles can be complex. A general contractor, like our family-owned team at Cali View Builders, can coordinate planning, construction, and the final walkthrough. Having one team simplifies things a lot, taking that stress off your shoulders. Ready to explore the possibilities? Give us a call at (323) 484-8458 to chat about your ADU vision!",
+  "datePublished": "2026-09-02"
+}

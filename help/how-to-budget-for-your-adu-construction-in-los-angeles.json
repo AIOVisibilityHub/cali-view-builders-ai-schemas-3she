@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to budget for your ADU construction in Los Angeles",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building an Accessory Dwelling Unit (ADU) in Los Angeles is a smart investment, but understanding the costs involved is super important. Many homeowners dive in without a clear budget, leading to surprises down the line. A well-planned budget helps you manage expectations, make informed decisions, and avoid financial stress. ADU costs can vary widely based on size, type (attached, detached, garage conversion), finishes, and site-specific challenges. It's not just about the construction materials; there are other significant expenses to consider.\n\nHere's a breakdown of what typically goes into an ADU budget:\n\n*   **Design and Permitting Fees:** This includes architectural plans, engineering, and city permitting fees. These can be a significant upfront cost, but they're essential for a compliant and well-designed ADU. Expect these to be a percentage of your total project cost.\n*   **Site Preparation:** Depending on your property, you might need grading, utility trenching, or demolition of existing structures. This can vary greatly depending on whether you're converting a garage or building a new detached unit.\n*   **Construction Costs:** This is the largest portion, covering labor, materials, foundation, framing, roofing, plumbing, electrical, HVAC, insulation, windows, and doors. The quality of finishes you choose will also heavily impact this number.\n*   **Interior Finishes:** Think flooring, cabinetry, countertops, paint, light fixtures, and appliances. These are areas where you can customize and personalize, but they also offer opportunities for cost savings if you're mindful.\n*   **Utility Connections:** Connecting your ADU to existing utilities (water, sewer, gas, electricity) can involve significant costs, especially if new lines need to be run or existing services upgraded. Sometimes, a separate meter might be required.\n*   **Contingency Fund:** Always, always, always include a contingency of 10-15% of your total project cost for unforeseen issues. Construction projects rarely go exactly as planned, and having this buffer will save you a lot of headaches.\n\nWorking with an experienced ADU builder like Cali View Builders from the start can help you get a clear, detailed scope and budget. We provide transparent communication and detailed scopes so you understand where your money is going, helping you make sound financial decisions throughout your ADU project in Los Angeles.",
+  "datePublished": "2026-09-02"
+}

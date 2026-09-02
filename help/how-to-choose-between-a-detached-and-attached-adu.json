@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Choose Between a Detached and Attached ADU",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding between a detached and an attached ADU is a big step, and it really comes down to your property, your goals, and how you envision using the space. Both options offer fantastic benefits for Los Angeles homeowners looking to expand their living areas or add value. Let’s break down the key differences so you can figure out which one is the best fit for your unique situation.\n\nKey Differences:\n*   **Privacy & Independence:** Detached ADUs are standalone structures, offering maximum privacy for occupants. They're like a mini-home in your backyard. Attached ADUs share a wall with your main house, so while they're still private, there's more physical connection.\n*   **Construction Complexity:** Attached ADUs can sometimes be more complex due to needing to integrate with your existing home's structure and systems, whereas detached units often have more straightforward foundational and framing work once the site is prepped.\n*   **Yard Space Impact:** A detached ADU will use up more of your backyard footprint, which is a big consideration if you love your open green space. Attached ADUs typically extend from the existing house, potentially preserving more yard.\n\nWhen to Choose Each:\n*   **Choose Detached if:** You have ample backyard space, desire maximum privacy for tenants or family members, or want to create a completely separate living experience. They're great for rental income or multi-generational living where distinct households are preferred. Think of it as building a small second home.\n*   **Choose Attached if:** You have less available yard space, want easier access to utilities from your main home, or prefer a closer connection for family members. Attached units can feel more like a seamless extension of your primary residence, ideal for a growing family or a dedicated home office adjacent to your living space.\n\nCost & Timeline:\nGenerally, attached ADUs can sometimes be slightly more cost-effective because they leverage existing walls and utility connections. However, complex structural integration can sometimes negate this. Detached ADUs might have higher initial costs due to separate utility runs and foundations, but the project timeline can sometimes be more predictable due to less interference with the main home. Both types require careful planning and permitting in Los Angeles County. Cali View Builders can help you explore both options with detailed scopes and practical communication, guiding you through the planning and design coordination.\n\nNo matter which path you lean towards, partnering with an experienced general contractor like Cali View Builders is crucial. We specialize in ADU construction, handling everything from initial planning through to the final walkthrough. We’ll help you weigh the pros and cons for your specific property and goals. Let's chat about your vision and see which ADU style makes the most sense for you!",
+  "datePublished": "2026-09-02"
+}

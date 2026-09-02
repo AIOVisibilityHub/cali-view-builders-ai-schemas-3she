@@ -1,0 +1,145 @@
+{
+  "name": "What to Expect During a Garage-to-ADU Conversion",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design – It all starts with a conversation about your vision and needs. A contractor like Cali View Builders will visit your property, assess your garage's condition, and discuss design possibilities, potential layouts, and what’s feasible given your space and local regulations. This is where ideas start to become concrete plans.",
+      "text": "Step 1: Initial Consultation and Design – It all starts with a conversation about your vision and needs. A contractor like Cali View Builders will visit your property, assess your garage's condition, and discuss design possibilities, potential layouts, and what’s feasible given your space and local regulations. This is where ideas start to become concrete plans.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Planning and Permitting – Once you’ve settled on a design, detailed plans are drafted. This includes structural, electrical, and plumbing schematics. These plans are then submitted to the local authorities for permits. This phase can take some time, as it involves ensuring everything meets Los Angeles building codes and zoning requirements. Your contractor will manage this submission process.",
+      "text": "Step 2: Planning and Permitting – Once you’ve settled on a design, detailed plans are drafted. This includes structural, electrical, and plumbing schematics. These plans are then submitted to the local authorities for permits. This phase can take some time, as it involves ensuring everything meets Los Angeles building codes and zoning requirements. Your contractor will manage this submission process.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition and Prep Work – With permits in hand, work begins. This might involve removing existing garage doors, clearing out interiors, and preparing the space for its new purpose. Foundations might be reinforced, and the floor level potentially raised for livability. This is often the messiest part, but it’s crucial for a solid start.",
+      "text": "Step 3: Demolition and Prep Work – With permits in hand, work begins. This might involve removing existing garage doors, clearing out interiors, and preparing the space for its new purpose. Foundations might be reinforced, and the floor level potentially raised for livability. This is often the messiest part, but it’s crucial for a solid start.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough-Ins – This is where the core infrastructure goes in. New electrical wiring, plumbing lines for kitchens and bathrooms, and HVAC ductwork (if applicable) are installed behind the walls. Inspections will happen during this phase to ensure everything is up to code before being covered up.",
+      "text": "Step 4: Rough-Ins – This is where the core infrastructure goes in. New electrical wiring, plumbing lines for kitchens and bathrooms, and HVAC ductwork (if applicable) are installed behind the walls. Inspections will happen during this phase to ensure everything is up to code before being covered up.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Insulation and Drywall – Once rough-ins are approved, insulation is installed to make the new space comfortable and energy-efficient. Then, drywall goes up, transforming the raw structure into defined rooms. This is when you really start to see your ADU taking shape.",
+      "text": "Step 5: Insulation and Drywall – Once rough-ins are approved, insulation is installed to make the new space comfortable and energy-efficient. Then, drywall goes up, transforming the raw structure into defined rooms. This is when you really start to see your ADU taking shape.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Interior Finishes – Now for the exciting part – paint, flooring, cabinetry, countertops, fixtures, and appliances are installed. This is where your design choices come to life, making the space functional and beautiful. Attention to detail here really matters for a polished look.",
+      "text": "Step 6: Interior Finishes – Now for the exciting part – paint, flooring, cabinetry, countertops, fixtures, and appliances are installed. This is where your design choices come to life, making the space functional and beautiful. Attention to detail here really matters for a polished look.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Final Inspections and Walkthrough – Before the project is complete, final inspections are conducted by the city to ensure everything complies with safety and building standards. Afterward, you’ll have a final walkthrough with your contractor, like Cali View Builders, to ensure every detail meets your expectations and any finishing touches are addressed. Then, your new space is ready to enjoy!",
+      "text": "Understanding these steps helps demystify the process. For a seamless conversion, partnering with an experienced general contractor is highly recommended.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Design – It all starts with a conversation about your vision and needs. A contractor like Cali View Builders will visit your property, assess your garage's condition, "
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Mistakes in Detached ADU Construction",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a detached ADU in Los Angeles is an exciting project, offering huge potential for extra living space or rental income. But like any major construction, there are pitfalls you’ll want to avoid to ensure a smooth process and a successful outcome. We’ve seen it all at Cali View Builders, and we want to help you sidestep these common issues.\n\nHere are some mistakes to watch out for:\n*   **Ignoring Local Zoning Laws Early On:** This is a big one! Los Angeles County has specific rules for detached ADUs regarding setbacks from property lines, maximum height, and size. Not checking these early can lead to costly redesigns or permit delays. Always confirm your property can legally accommodate the ADU you envision. Cali View Builders takes care of permit coordination for you, ensuring compliance from the start.\n*   **Underestimating the Budget:** Beyond the construction cost, remember to factor in things like utility connections (water, sewer, electricity), landscaping around the new unit, and potential architectural or engineering fees. A buffer for unexpected issues is always a good idea. Getting a detailed, clear scope from your contractor helps prevent surprises.\n*   **Skimping on Design and Planning:** A well-thought-out design isn’t just about aesthetics; it’s about functionality, flow, and future use. Rushing this phase can lead to a less-than-ideal space that doesn’t meet your needs. Consider how natural light will enter, where furniture will go, and how the ADU will integrate with your existing yard. Our design-build coordination ensures thoughtful design.\n*   **Failing to Vet Your Contractor Properly:** This is perhaps the most crucial mistake to avoid. Hiring an unlicensed or inexperienced contractor can lead to shoddy work, delays, and legal headaches. Always choose a licensed, insured, and bonded general contractor with a proven track record in ADUs, like Cali View Builders (CSLB #1081371). Check references and ensure they provide clear communication.\n*   **Not Considering Future Maintenance:** Think about material choices that are durable and easy to maintain in the long run. High-quality roofing, siding, and interior finishes might cost a bit more upfront but save you money and headaches down the road. We focus on quality workmanship that stands the test of time.\n*   **Overlooking the Rental Market (if applicable):** If you're building for rental income, research what tenants in your Los Angeles neighborhood are looking for. What amenities are popular? What size units rent best? This can influence your design choices and maximize your return.\n\nAvoiding these common missteps will set you up for success with your detached ADU project. If you're ready to build, reach out to Cali View Builders. We're a family-owned team serving Los Angeles homeowners since 2013, providing expert guidance from start to finish.",
+  "datePublished": "2026-09-02"
+}

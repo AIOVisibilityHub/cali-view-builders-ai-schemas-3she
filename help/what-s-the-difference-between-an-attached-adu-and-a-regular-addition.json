@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What's the difference between an attached ADU and a regular addition?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common question we get: what really sets an attached ADU apart from just adding another room to your house? While both add square footage and can enhance your home, their purpose and functionality are quite distinct. Cali View Builders specializes in both, so we can definitely clarify the nuances for homeowners across Los Angeles County.\n\nAn attached ADU, or Accessory Dwelling Unit, is specifically designed to be an independent living space. Think of it as a mini-home within or connected to your main house. This means it needs its own kitchen, bathroom, sleeping area, and often a separate entrance. The goal is for someone to be able to live there completely independently, whether it's family or a renter. This self-sufficiency is a key differentiator.\n\nA regular room addition, on the other hand, is an extension of your existing home's primary living space. It might be a new bedroom, a larger living room, or an expanded kitchen. While it certainly adds value and space, it doesn't typically include a full, separate kitchen or bathroom to function as an independent unit. Its purpose is to augment the main home's footprint and flow.\n\nThe regulatory hurdles can also differ. ADUs, even attached ones, often fall under specific state and local guidelines that encourage their construction, sometimes with streamlined permitting processes. Room additions generally follow standard residential building codes for extensions. Our team at Cali View Builders is well-versed in both sets of regulations.\n\nSo, if you're looking to create a genuinely separate living quarter that can be rented out or used by family members as their own private abode, an attached ADU is your route. If you simply need more space that integrates directly into your main home's flow, a room addition is probably what you're after. Both are fantastic investments, but they serve different needs. We can help you decide which is best for your goals. Reach out to Cali View Builders at (323) 484-8458 to discuss your project.",
+  "datePublished": "2026-09-02"
+}

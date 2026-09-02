@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Should I Know Before Planning an ADU in Los Angeles?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "So, you're thinking about building an Accessory Dwelling Unit (ADU) in Los Angeles? That's a fantastic idea! ADUs can add so much value, whether it's for extra income, housing family, or just needing more space. But before you dive in, there are a few key things you should definitely know to make the process as smooth as possible. It's a big investment, and being informed really helps.\n\nFirst off, understand the types. You've got detached ADUs, which are separate structures in your backyard; attached ADUs, which are part of your main home; and garage conversions, which transform an existing garage. Each has its own pros, cons, and specific regulations. Knowing which type fits your property and goals is your first step.\n\nNext, permitting and regulations are super important. Los Angeles has pretty clear rules for ADUs, and navigating them can be a bit much for a first-timer. Things like setbacks, maximum size, and height limits vary, so you'll want a builder who's really familiar with local codes. Cali View Builders specializes in coordinating permits, making sure everything is up to snuff without you having to stress.\n\nThen, think about the design. This isn't just about making it look pretty; it's about functionality, energy efficiency, and integrating it seamlessly with your existing property. Good design can really maximize the space and make it feel much larger than it is. Plus, thoughtful design can save you money in the long run.\n\nFinally, choosing the right contractor is crucial. You want someone licensed, insured, and bonded, who has a track record of building ADUs in Los Angeles. A family-owned business like Cali View Builders, established since 2013, can offer that personal touch and expertise from planning to the final walkthrough. Don't underestimate the value of a partner who knows the ropes and can keep your project on track and within budget.",
+  "datePublished": "2026-09-02"
+}

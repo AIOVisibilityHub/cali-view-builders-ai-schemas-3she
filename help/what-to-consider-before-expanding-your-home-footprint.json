@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider Before Expanding Your Home Footprint",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Before you jump into a house addition, it's super important to take a good look at all the moving parts. Adding space is exciting, but a little planning goes a long way to make sure everything goes smoothly. First off, think about your 'why.' Are you needing more bedrooms, a bigger kitchen, or a dedicated home office? Knowing your goals helps define the project. Then, consider your property – do you have enough space on your lot for the expansion you envision, or are you looking upwards with a second story? You'll also want to think about how the addition will connect to your existing home, both structurally and aesthetically. We always advise homeowners to consider their current home's style and how the new section will blend in, creating a cohesive look rather than an add-on feel. Permitting is another big one, especially in Los Angeles County; navigating local regulations can be complex, so having a contractor who knows the ropes is invaluable. Budget is, of course, a major factor. Get a clear understanding of all potential costs, not just construction, but also design, engineering, and any necessary utility adjustments. Finally, think long-term: how will this addition impact your home's value and your daily life during construction? A trusted partner like Cali View Builders can help you iron out all these details, bringing clarity before construction and care during the work, ensuring your project aligns with your vision and budget from start to finish.",
+  "datePublished": "2026-09-02"
+}

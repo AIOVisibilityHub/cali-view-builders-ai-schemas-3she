@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing the right ADU builder: what to look for?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding to build an Accessory Dwelling Unit (ADU) is a big step, and picking the right builder is probably the most crucial decision you'll make. You want someone who understands your vision, handles the complexities of Los Angeles building, and delivers a great finished product. At Cali View Builders, we've been helping homeowners with ADUs since 2013, so we definitely know what makes a difference.\n\nFirst up, **check their credentials.** This might sound obvious, but it's essential. Make sure they're a licensed, insured, and bonded general contractor in California. For example, our CSLB #1081371 proves we meet those standards. This protects you in so many ways and gives you peace of mind that you're working with professionals.\n\nSecondly, **look for ADU specialization and local experience.** Building an ADU isn't quite the same as a kitchen remodel. You want a builder who specifically highlights ADU construction, including detached units, attached units, and garage conversions, in your area, whether it's North Hollywood, Pasadena, or Santa Monica. Local experience means they're familiar with city-specific permitting and regulations.\n\nNext, **ask about their project management style.** A great builder will offer a streamlined process, ideally from planning through the final walkthrough. Cali View Builders, for instance, focuses on design-build coordination, giving you one team to communicate with, one scope to understand, and one clear path for your project. This avoids a lot of confusion and ensures smoother progress.\n\nAlso, **don't forget client communication and transparency.** You should feel comfortable asking questions and getting clear, straightforward answers. The best builders provide detailed scopes and practical communication. They should listen to your priorities and constraints before recommending a direction, making sure your voice is heard throughout the build.\n\nLastly, **seek out quality workmanship and thoughtful design.** An ADU is a significant investment. You want it built to last, look great, and truly serve its purpose. Ask to see examples of their work or testimonials. Cali View Builders prides itself on delivering tailored solutions for homeowners seeking quality workmanship. When you're ready to find a partner who checks all these boxes, give us a call at (323) 484-8458. We're here to help you build the ADU of your dreams!",
+  "datePublished": "2026-09-02"
+}

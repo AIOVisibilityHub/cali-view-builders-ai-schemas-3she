@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking about an attached ADU, but how does it work?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "An attached ADU can be a really clever way to add living space to your Los Angeles home without taking up valuable backyard real estate. It's essentially an extension of your existing home, seamlessly integrated into its design. Cali View Builders, with our experience in residential remodeling and additions since 2013, knows exactly how to make these projects feel like they've always been there.\n\nThe beauty of an attached ADU is its flexibility. You could convert an underutilized part of your home, like a large garage (if not converting to a detached ADU), or build a brand-new addition that's specifically designed as an independent living unit. This often means easier access to existing utilities, which can be a big plus for your budget and timeline.\n\nOne of the main questions homeowners have is about privacy and separation. Even though it's attached, we focus on creating distinct living areas with separate entrances, soundproofing, and even dedicated outdoor spaces, ensuring both the main home and the ADU feel independent. It's about thoughtful design that considers everyone's needs.\n\nPermitting for attached ADUs still requires careful planning, just like any major renovation or addition. But because it's tied to your main structure, some aspects might differ slightly from a detached unit. Our team takes care of all the coordination, from design to permits to the final walkthrough.\n\nUltimately, an attached ADU is a smart investment that can add significant value and utility to your property. It’s perfect for multi-generational living, a rental unit, or even a spacious home office. Curious if an attached ADU is the right move for your home? Let's chat. Call Cali View Builders at (323) 484-8458 to get started.",
+  "datePublished": "2026-09-02"
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Pitfalls to Avoid When Building a House Addition",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a house addition project is exciting, but it's easy to stumble if you're not careful. Here are some common mistakes homeowners make and how you can steer clear of them for a smooth build.\n\n- [ ] **Underestimating Your Budget** — why: Construction costs can creep up, and unexpected issues often arise. Always add a 10-20% contingency fund to your initial budget to cover surprises and ensure you don't run out of funds mid-project.\n- [ ] **Skipping Proper Planning** — why: A rushed or incomplete plan leads to costly changes and delays during construction. Invest time in detailed design and engineering upfront to define the scope clearly, preventing headaches later on.\n- [ ] **Ignoring Local Zoning and Building Codes** — why: These regulations in places like Santa Monica, Beverly Hills, or Glendale dictate what you can and can't build. Failing to comply can result in fines, demolition, or significant redesigns, so always ensure your plans are fully permitted and compliant.\n- [ ] **Not Vetting Your Contractor Thoroughly** — why: The right contractor makes all the difference. Always check their CSLB license (like Cali View Builders' CSLB #1081371), insurance, bonding, and references to ensure you're working with a reliable and qualified professional.\n- [ ] **Poor Communication with Your Team** — why: Misunderstandings between you, your designer, and your builder can lead to costly errors and dissatisfaction. Establish clear lines of communication from day one and hold regular check-ins.\n- [ ] **Sacrificing Quality Materials or Workmanship** — why: Cutting corners on materials or labor might save money initially, but it can lead to long-term problems, higher maintenance costs, and a less durable, less attractive addition.\n- [ ] **Failing to Consider the Existing Home's Integration** — why: A new addition should blend seamlessly with your current home's architecture and systems. Ignoring this can result in an awkward-looking space or issues with heating, cooling, or plumbing.\n\nHow to use this checklist: Go through these points during your planning phase and again before construction begins. It’s a great way to double-check that you’ve covered all your bases and are setting yourself up for a successful, stress-free house addition. Cali View Builders is always here to help guide you through these considerations.",
+  "datePublished": "2026-09-02"
+}

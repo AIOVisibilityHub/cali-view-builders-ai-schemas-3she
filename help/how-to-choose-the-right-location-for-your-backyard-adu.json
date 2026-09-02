@@ -1,0 +1,133 @@
+{
+  "name": "How to choose the right location for your backyard ADU",
+  "step": [
+    {
+      "name": "Step 1: Understand Local Setbacks and Zoning — Before you even sketch an idea, check your property's specific zoning laws and setback requirements. These rules dictate how close to property lines, other structures, and even trees your ADU can be. Our team can help you figure this out during the initial planning stages to avoid costly redesigns later.",
+      "text": "Step 1: Understand Local Setbacks and Zoning — Before you even sketch an idea, check your property's specific zoning laws and setback requirements. These rules dictate how close to property lines, other structures, and even trees your ADU can be. Our team can help you figure this out during the initial planning stages to avoid costly redesigns later.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Consider Utility Access — Think about where your main house's water, sewer, and electrical lines are. Tapping into existing utilities close by can save you a significant amount on trenching and connection costs. Planning for efficient utility access is a big money-saver.",
+      "text": "Step 2: Consider Utility Access — Think about where your main house's water, sewer, and electrical lines are. Tapping into existing utilities close by can save you a significant amount on trenching and connection costs. Planning for efficient utility access is a big money-saver.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Maximize Privacy and Natural Light — You want your detached ADU to feel like its own private space, not just an afterthought. Consider its orientation to maximize natural light and ensure privacy for both the ADU occupants and your main home. Strategic placement can also make the ADU feel more spacious and inviting.",
+      "text": "Step 3: Maximize Privacy and Natural Light — You want your detached ADU to feel like its own private space, not just an afterthought. Consider its orientation to maximize natural light and ensure privacy for both the ADU occupants and your main home. Strategic placement can also make the ADU feel more spacious and inviting.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Assess Accessibility and Entry Points — How will people access the ADU? Will it have its own separate entrance, or will it share a path with the main house? Think about parking, pathways, and landscaping that can enhance its functionality and curb appeal. A well-designed entry makes a huge difference.",
+      "text": "Step 4: Assess Accessibility and Entry Points — How will people access the ADU? Will it have its own separate entrance, or will it share a path with the main house? Think about parking, pathways, and landscaping that can enhance its functionality and curb appeal. A well-designed entry makes a huge difference.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Plan for Future Use — Are you building it for family, as a rental, or a home office? This influences the layout and amenities. Thinking ahead helps you create a versatile space that can adapt to your evolving needs. Getting these details right from the start is what makes a detached ADU truly shine. Ready to explore the best spot for your ADU? Call Cali View Builders at (323) 484-8458.",
+      "text": "Step 5: Plan for Future Use — Are you building it for family, as a rental, or a home office? This influences the layout and amenities. Thinking ahead helps you create a versatile space that can adapt to your evolving needs. Getting these details right from the start is what makes a detached ADU truly shine. Ready to explore the best spot for your ADU? Call Cali View Builders at (323) 484-8458.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Understand Local Setbacks and Zoning — Before you even sketch an idea, check your property's specific zoning laws and setback requirements. These rules dictate how close to property lines, oth"
+}

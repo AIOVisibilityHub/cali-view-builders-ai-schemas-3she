@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is a Second Story Addition the Best Option?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about expanding your home but running out of space on the ground? A second story addition might be exactly what you need! It's a fantastic way to significantly increase your living area without sacrificing precious yard space, which is a huge plus in dense areas like Los Angeles. If your lot size is limited or your existing footprint already maximizes your property, building up can be the smartest move. It lets you add bedrooms, bathrooms, or even an entire new suite, giving your family the room to grow comfortably. Plus, done right, a second story can dramatically boost your home's value and curb appeal, making it a sound investment. We've seen many homes transformed this way, creating breathtaking new views and improved functionality. Of course, it's a big project, and you'll want a seasoned team that understands the structural implications, design integration, and local permitting specific to Los Angeles County. Cali View Builders specializes in these complex projects, ensuring a seamless transition from your current home to its expanded future. We'll help you explore if your existing foundation and structure can support the new weight, or what upgrades would be needed. Getting professional advice early helps you understand the full scope, from initial design to the final finish, making sure your vision becomes a reality with quality and care. If you're pondering adding significant space without eating into your outdoor areas, let's chat about what a second story could do for your home.",
+  "datePublished": "2026-09-02"
+}
