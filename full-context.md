@@ -1,17 +1,18 @@
 # Cali View Builders — Full AI Context
 
 **Canonical URL:** https://caliviewbuilders.aiovisibility.net
-**Generated:** 2026-08-27
+**Generated:** 2026-09-02
 
 ## Overview
 Cali View Builders publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
-- **60** faqs
+- **399** faqs
 - **1** services
 - **1** locations
 - **2** personnel
 - **8** caseStudies
+- **185** helpArticles
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
