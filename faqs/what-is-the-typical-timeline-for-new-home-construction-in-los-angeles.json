@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-timeline-for-new-home-construction-in-los-angeles",
+  "name": "What is the typical timeline for new home construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for new home construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for new home construction in Los Angeles can vary significantly based on factors like home size, complexity of design, site conditions, permitting processes, and material availability. Generally, a custom home build might take anywhere from 12 to 24 months from the start of design to move-in. The permitting phase alone can take several months in certain areas due to local regulations. Our team provides a detailed project schedule outlining each phase, from initial concept and architectural drawings through construction and final inspections, to keep you informed every step of the way.",
+        "@type": "Answer",
+        "description": "New home construction in Los Angeles typically takes 12 to 24 months, depending on factors like home size, design complexity, and permitting. We provide a detailed project schedule for each client."
+      }
+    }
+  ],
+  "description": "New home construction in Los Angeles typically takes 12 to 24 months, depending on factors like home size, design complexity, and permitting. We provide a detai"
+}

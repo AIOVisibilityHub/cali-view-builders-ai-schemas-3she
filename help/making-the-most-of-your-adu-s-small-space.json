@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Making the most of your ADU's small space",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Accessory Dwelling Units (ADUs) are incredible for adding value and flexibility to your Los Angeles property, but sometimes their smaller footprint can make you wonder how to fit everything in. Don't worry! With smart design and a few clever tricks, you can make even a compact ADU feel spacious, functional, and incredibly comfortable. It's all about maximizing every square inch and thinking creatively about storage and multi-purpose areas.\n\nStart with a thoughtful layout. Open-concept living areas can make a huge difference in perception of space. Consider where natural light comes from and how you can enhance it. A good design-build contractor will focus on creating an efficient flow that feels airy and inviting, even in smaller dimensions.\n\nIncorporate built-in storage solutions. Instead of bulky freestanding furniture, think about custom cabinetry, shelving integrated into walls, or even benches with hidden storage. This keeps clutter out of sight and maximizes floor space. Vertical storage is your best friend in an ADU.\n\nChoose multi-functional furniture. A sofa that pulls out into a bed, an ottoman with storage, or a dining table that folds down from the wall can transform a single room to serve multiple purposes. This adaptability is key for making a small ADU live larger than its square footage.\n\nLight and color play a big role. Lighter paint colors can make rooms feel more open and brighter. Strategically placed mirrors can also expand the visual space. Don't forget proper lighting – a mix of ambient, task, and accent lighting can really enhance the feel of a space.\n\nFinally, work with a professional who understands small-space design. A family-owned general contractor like Cali View Builders, experienced in ADU construction across Los Angeles, can guide you through these decisions, ensuring your ADU isn't just built well, but designed smart for the way you want to live.",
+  "datePublished": "2026-09-02"
+}

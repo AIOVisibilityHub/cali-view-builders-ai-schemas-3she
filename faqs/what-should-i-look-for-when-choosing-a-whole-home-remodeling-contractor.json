@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-when-choosing-a-whole-home-remodeling-contractor",
+  "name": "What should I look for when choosing a whole home remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a whole home remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor, prioritize experience with similar whole home projects, proper licensing and insurance, and a strong portfolio of completed work. Check references from past clients and review online testimonials. Ensure clear communication, a transparent bidding process, and a detailed contract outlining scope, timeline, and payment schedules. A reputable contractor will also have a solid understanding of local building codes in areas like Burbank or Studio City.",
+        "@type": "Answer",
+        "description": "Look for experience, licensing, insurance, strong references, clear communication, and a transparent contract when choosing a remodeling contractor."
+      }
+    }
+  ],
+  "description": "Look for experience, licensing, insurance, strong references, clear communication, and a transparent contract when choosing a remodeling contractor."
+}

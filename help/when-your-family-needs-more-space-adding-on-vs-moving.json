@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Family Needs More Space: Adding On vs. Moving",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your Los Angeles home might feel a little snug lately, especially with a growing family or changing needs. When space becomes an issue, homeowners often face a big decision: do you move, or do you add on? Let's break it down.\n\nFor many, moving means dealing with high real estate costs, new schools, and leaving a neighborhood you love. A home addition, on the other hand, allows you to stay put while tailoring your living environment precisely to your current and future needs. Think about it: you get to custom-build the extra bedroom, office, or expanded living area you've always wanted, right where you are.\n\nAdding square footage can also be a smart investment. Cali View Builders specializes in integrating new spaces seamlessly into your existing home, ensuring it looks like it was always part of the original design. This enhances functionality and significantly boosts your property value. You get to avoid the stresses of buying and selling, and instead, invest directly into upgrading your current asset.\n\nOf course, a major home addition requires planning and a skilled team. You'll want a licensed, insured, and bonded general contractor who understands the ins and outs of Los Angeles construction, handling everything from design coordination to permits. Cali View Builders offers that single point of contact, making the process smoother for you. If you're weighing your options, consider how much more comfortable and valuable your current home could be with a thoughtful addition. Let's chat about your home's potential!",
+  "datePublished": "2026-09-02"
+}

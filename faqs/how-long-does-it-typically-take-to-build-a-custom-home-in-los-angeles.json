@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-it-typically-take-to-build-a-custom-home-in-los-angeles",
+  "name": "How long does it typically take to build a custom home in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to build a custom home in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a custom home in Los Angeles can vary significantly, generally ranging from 12 to 24 months from initial design to move-in. This duration depends on several factors, including the home's size and complexity, site conditions, the permitting process, and material availability. Design and architectural planning typically take 3-6 months, while construction can last 9-18 months. We work to provide a detailed project schedule early in the process.",
+        "@type": "Answer",
+        "description": "Building a custom home in Los Angeles typically takes 12 to 24 months, depending on factors like size, complexity, and permitting."
+      }
+    }
+  ],
+  "description": "Building a custom home in Los Angeles typically takes 12 to 24 months, depending on factors like size, complexity, and permitting."
+}

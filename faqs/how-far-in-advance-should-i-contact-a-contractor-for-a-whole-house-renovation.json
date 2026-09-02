@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-far-in-advance-should-i-contact-a-contractor-for-a-whole-house-renovation",
+  "name": "How far in advance should I contact a contractor for a whole house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How far in advance should I contact a contractor for a whole house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact a contractor several months in advance of your desired start date for a whole house renovation. This allows ample time for initial consultations, design development, material selections, detailed quoting, and securing necessary permits, which can sometimes take several weeks or even months. Engaging early ensures proper planning, avoids rushed decisions, and allows the contractor to allocate resources effectively for your project.",
+        "@type": "Answer",
+        "description": "Contact a contractor several months in advance to allow time for consultations, design, quoting, and permit acquisition."
+      }
+    }
+  ],
+  "description": "Contact a contractor several months in advance to allow time for consultations, design, quoting, and permit acquisition."
+}

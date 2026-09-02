@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-typical-whole-home-remodel-take-in-los-angeles",
+  "name": "How long does a typical whole home remodel take in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical whole home remodel take in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole home remodel in Los Angeles can vary significantly based on the scope, size of your home, and complexity of the design. Minor renovations might take 3-6 months, while extensive structural changes or additions could extend to 8-18 months or even longer. Factors like permit approval times in specific LA areas, material lead times, and unforeseen conditions can also impact the schedule. A detailed timeline will be provided after initial design and planning.",
+        "@type": "Answer",
+        "description": "Whole home remodels in Los Angeles typically take 3-18 months, depending on project scope and complexity."
+      }
+    }
+  ],
+  "description": "Whole home remodels in Los Angeles typically take 3-18 months, depending on project scope and complexity."
+}

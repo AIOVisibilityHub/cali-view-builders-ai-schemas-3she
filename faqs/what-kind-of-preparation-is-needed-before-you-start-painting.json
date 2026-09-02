@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-kind-of-preparation-is-needed-before-you-start-painting",
+  "name": "What kind of preparation is needed before you start painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before you start painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough preparation is crucial for a durable finish. Our preparation includes pressure washing to remove dirt and mildew, scraping loose or peeling paint, sanding rough areas, patching holes or cracks with appropriate fillers, and caulking gaps around windows and doors. We also protect landscaping, walkways, and other non-painted surfaces to ensure a clean and professional result.",
+        "@type": "Answer",
+        "description": "Preparation includes cleaning, scraping, sanding, patching, caulking, and protecting surrounding areas."
+      }
+    }
+  ],
+  "description": "Preparation includes cleaning, scraping, sanding, patching, caulking, and protecting surrounding areas."
+}

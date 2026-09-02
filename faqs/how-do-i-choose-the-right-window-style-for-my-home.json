@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-the-right-window-style-for-my-home",
+  "name": "How do I choose the right window style for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right window style for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right window style involves considering your home's architectural style, your aesthetic preferences, functional needs, and budget. For example, casement windows offer excellent ventilation, while picture windows provide unobstructed views. Our design consultants can help you evaluate options like double-hung, sliding, or bay windows, discussing how each style impacts natural light, airflow, and overall curb appeal to ensure the best fit for your home.",
+        "@type": "Answer",
+        "description": "Choosing a window style depends on your home's architecture, aesthetic, functional needs, and budget. Our consultants can help you decide."
+      }
+    }
+  ],
+  "description": "Choosing a window style depends on your home's architecture, aesthetic, functional needs, and budget. Our consultants can help you decide."
+}

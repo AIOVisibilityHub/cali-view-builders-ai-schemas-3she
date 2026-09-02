@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-building-a-custom-home-with-cali-view-builders",
+  "name": "What is the process for building a custom home with Cali View Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building a custom home with Cali View Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our custom home building process begins with an initial consultation to discuss your vision, budget, and site. Next, we collaborate with architects and designers to create detailed plans. Once designs are finalized and permits secured, construction commences, managed by our experienced project managers. Throughout the build, we maintain open communication, provide regular updates, and conduct site visits with you. The process concludes with final inspections and your move-in, ensuring your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design and planning, permitting, construction with ongoing communication, and final inspections before move-in."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design and planning, permitting, construction with ongoing communication, and final inspections before move-in."
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When should I consider a house addition instead of moving?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a tough decision – move to a bigger place or expand your current home? Knowing when a house addition is the right move can save you a lot of headache and money. You should really consider an addition if you love your current neighborhood, schools, or the community you're in. Moving means uprooting your life, which is a huge deal! If your current home's layout works for you, but you just need more space for a growing family, a home office, or a dedicated hobby room, an addition is a fantastic solution. Another strong indicator is if you have ample yard space that can comfortably accommodate new square footage without feeling cramped. Plus, adding on can significantly increase your property value, especially in areas like Beverly Hills or Studio City, often more efficiently than the costs associated with buying and selling. If you're looking for tailored solutions that help you create more functional, modern, and valuable living spaces without leaving the home you love, that's definitely a 'when to call' moment for a general contractor. A licensed team, like Cali View Builders, can help you explore your options and make an informed decision that suits your family's needs and future plans.",
+  "datePublished": "2026-09-02"
+}

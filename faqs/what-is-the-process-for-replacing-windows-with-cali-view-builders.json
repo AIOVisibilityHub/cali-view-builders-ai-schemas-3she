@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-replacing-windows-with-cali-view-builders",
+  "name": "What is the process for replacing windows with Cali View Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing windows with Cali View Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your needs, preferences, and budget, followed by a detailed on-site assessment and measurement. We then provide a comprehensive quote outlining material options and labor costs. Once approved, we order your custom windows. Our experienced team handles the removal of old windows and professional installation of the new ones, ensuring proper sealing and finishing. We conclude with a final inspection to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our window replacement process involves consultation, on-site assessment, quoting, ordering, professional installation, and a final inspection."
+      }
+    }
+  ],
+  "description": "Our window replacement process involves consultation, on-site assessment, quoting, ordering, professional installation, and a final inspection."
+}

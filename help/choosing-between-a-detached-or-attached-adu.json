@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing between a detached or attached ADU",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding to add an Accessory Dwelling Unit (ADU) to your Los Angeles property is an exciting step! One of the first big choices you’ll face is whether to build a detached unit, standing freely in your backyard, or an attached ADU, connected to your existing home. Both options have unique benefits, and the 'best' one really depends on your property, your needs, and your overall goals for the space. Let’s break down the differences to help you figure out what might be a better fit for you.\n\n**Detached ADUs**\n\n**Overview:** These are separate structures, often built in a backyard or as a standalone unit. They offer the most privacy and can feel like a completely independent home. Many homeowners choose to convert an existing garage into a detached ADU, or build new from the ground up.\n\n**Key Benefits:** Maximum privacy for occupants, potential for higher rental income due to perceived independence, and less disruption to your main home during construction. They often have more flexibility in design and can sometimes allow for more unique architectural styles.\n\n**Considerations:** Requires sufficient backyard space and may have stricter setback requirements. Utility connections might need to be extended further from the main house, potentially impacting costs. Cali View Builders handles various detached ADU projects, including garage conversions.\n\n**Attached ADUs**\n\n**Overview:** These units share a wall or are built directly onto the existing primary residence. They can be created by expanding an existing room, converting part of the main house, or adding new square footage that connects to the home.\n\n**Key Benefits:** Often more cost-effective due to shared walls and utilities, and construction can sometimes be simpler. They can feel like a natural extension of the main home and are great for family members who need proximity but also a private living space.\n\n**Considerations:** Less privacy compared to detached units, and noise transfer between the units can be a factor. The design needs to blend seamlessly with the existing home's architecture. It might also require more extensive interior remodeling of the main house.\n\nUltimately, the choice comes down to your specific property and needs. Think about privacy, budget, available space, and how you envision the ADU being used. A seasoned general contractor, like Cali View Builders, can walk you through the options, assess your property in areas like North Hollywood or Studio City, and help you make the best decision for your home.",
+  "datePublished": "2026-09-02"
+}

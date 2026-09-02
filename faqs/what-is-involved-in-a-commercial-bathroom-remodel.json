@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-involved-in-a-commercial-bathroom-remodel",
+  "name": "What is involved in a commercial bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a commercial bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A commercial bathroom remodel typically involves updating fixtures, finishes, and the overall layout to improve functionality, accessibility, and aesthetics. This can include replacing toilets, sinks, and urinals, installing new flooring and wall coverings, upgrading lighting, and ensuring compliance with ADA (Americans with Disabilities Act) standards. Depending on the project, it might also involve reconfiguring plumbing lines, electrical work, and ventilation systems. The goal is to create a durable, low-maintenance, and user-friendly space that meets the specific needs of your business and its patrons.",
+        "@type": "Answer",
+        "description": "A commercial bathroom remodel involves updating fixtures, finishes, and layout to improve functionality, accessibility, and aesthetics, often including plumbing, electrical, and ADA compliance."
+      }
+    }
+  ],
+  "description": "A commercial bathroom remodel involves updating fixtures, finishes, and layout to improve functionality, accessibility, and aesthetics, often including plumbing"
+}

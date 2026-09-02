@@ -1,0 +1,139 @@
+{
+  "name": "How to Plan Your Detached ADU Project",
+  "step": [
+    {
+      "name": "Step 1: Define Your Vision and Needs",
+      "text": "Before anything else, sit down and really think about why you want a detached ADU. Is it for rental income, a home office, a guest house, or maybe for aging parents? Understanding its primary purpose will guide design decisions, from the number of rooms to specific amenities. Consider how much space you genuinely need and what aesthetic you're aiming for. This initial brainstorming is crucial for creating a space that truly serves your goals and integrates well with your Los Angeles property, whether you're in Sherman Oaks or Malibu.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Assess Your Property and Local Regulations",
+      "text": "Next, take a good look at your backyard. Do you have enough space for a separate structure without feeling cramped? We'll help you understand your property's setbacks and zoning requirements in your specific area, like Glendale or Van Nuys. These regulations will dictate the maximum size, height, and placement of your ADU. It's also wise to consider access for construction and utility connections early on.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Develop a Preliminary Design and Budget",
+      "text": "Once you have a clearer idea of what's feasible, we can start sketching out a preliminary design. This involves working with our team to create floor plans and exterior concepts that meet your needs and comply with local rules. Simultaneously, we'll start putting together a realistic budget. Being upfront about your financial comfort zone helps us tailor the design and material choices to fit.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Secure Necessary Permits and Approvals",
+      "text": "This is a critical phase. Our design-build approach includes coordinating all necessary engineering and permit applications. We'll submit detailed plans to your local planning department and manage any revisions or additional information they require. This can sometimes feel like a waiting game, but we're here to navigate the complexities in places like Beverly Hills or Culver City.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Choose Materials and Finishes",
+      "text": "With approvals in sight, it's time for the exciting part: selecting the materials and finishes that will bring your detached ADU to life. From flooring and cabinetry to paint colors and exterior siding, these choices define the character of your new space. We'll guide you through options that are durable, beautiful, and within your budget, ensuring quality workmanship that lasts.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Construction and Project Management",
+      "text": "Once permits are in hand, construction begins! Our family-owned team will manage every aspect, from foundation pouring to the final walkthrough. We oversee all trades, maintain a clean and safe job site, and ensure the project stays on schedule and within budget. We pride ourselves on clear communication, keeping you informed about progress and any decisions needed. Ready to get started on your detached ADU? Contact Cali View Builders, and let's turn your vision into a reality with our expert design-build services.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Before anything else, sit down and really think about why you want a detached ADU. Is it for rental income, a home office, a guest house, or maybe for aging parents? Understanding its primary purpose "
+}

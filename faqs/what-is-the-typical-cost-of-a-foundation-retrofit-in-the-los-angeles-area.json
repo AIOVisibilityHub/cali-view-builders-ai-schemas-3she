@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-of-a-foundation-retrofit-in-the-los-angeles-area",
+  "name": "What is the typical cost of a foundation retrofit in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a foundation retrofit in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a foundation retrofit in Los Angeles varies significantly based on factors like the size of your home, the complexity of the existing foundation, the type of soil, and the specific retrofitting methods required. On average, homeowners can expect to pay anywhere from $5,000 to $15,000 for a standard retrofit. More extensive projects, especially for larger or older homes with significant vulnerabilities, can sometimes exceed this range. Obtaining multiple detailed quotes from licensed contractors is recommended for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Typical foundation retrofit costs in Los Angeles range from $5,000 to $15,000, varying by home size and project complexity."
+      }
+    }
+  ],
+  "description": "Typical foundation retrofit costs in Los Angeles range from $5,000 to $15,000, varying by home size and project complexity."
+}

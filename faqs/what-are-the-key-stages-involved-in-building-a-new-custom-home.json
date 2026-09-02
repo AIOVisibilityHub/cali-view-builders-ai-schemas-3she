@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-key-stages-involved-in-building-a-new-custom-home",
+  "name": "What are the key stages involved in building a new custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key stages involved in building a new custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a new custom home generally involves several key stages: initial consultation and feasibility study, architectural design and engineering, permitting and approvals, site preparation and foundation, framing, rough-ins (electrical, plumbing, HVAC), exterior finishes (roofing, siding, windows), interior finishes (drywall, flooring, cabinetry, paint), landscaping, and final inspections. Each stage requires careful planning and coordination to ensure quality and adherence to the project timeline. We guide you through each phase, ensuring clear communication and transparency.",
+        "@type": "Answer",
+        "description": "Key stages include design, permitting, site preparation, framing, rough-ins, exterior and interior finishes, and final inspections. We manage each step for a smooth process."
+      }
+    }
+  ],
+  "description": "Key stages include design, permitting, site preparation, framing, rough-ins, exterior and interior finishes, and final inspections. We manage each step for a sm"
+}

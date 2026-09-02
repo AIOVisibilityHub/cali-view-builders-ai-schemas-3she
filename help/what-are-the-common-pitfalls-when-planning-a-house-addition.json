@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the common pitfalls when planning a house addition?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a house addition project is super exciting, but it's easy to stumble if you're not aware of common mistakes. One big one is not clearly defining your needs and budget upfront. It's tough to get an accurate quote or design without knowing exactly what you're trying to achieve and how much you're comfortable spending. Another common misstep is underestimating the design and permitting phase; it takes time to get plans just right and approved, especially in Los Angeles County, so rushing this can lead to delays or costly changes later. Don't forget to think about how the addition will flow with your existing home – you want it to feel like it's always been there, not like an afterthought. Many homeowners also overlook the importance of vetting their general contractor; make sure they're licensed, insured, and bonded, like Cali View Builders (CSLB #1081371), so you're protected. Finally, neglecting to plan for temporary disruptions during construction can add stress. Having a good contractor who coordinates everything from planning to the final walkthrough, and communicates clearly, really helps. If you're feeling overwhelmed, that's a good sign it's time to chat with a professional who can guide you through these details and ensure a smooth project.",
+  "datePublished": "2026-09-02"
+}

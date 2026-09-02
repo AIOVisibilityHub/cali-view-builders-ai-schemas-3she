@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When should I bring in a pro for my ADU build?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about adding an ADU to your Los Angeles property? That's a smart move! But knowing when to call in the professionals can make all the difference between a smooth project and a stressful one. If you're just starting to dream about a detached ADU or a garage conversion and feel overwhelmed by where to begin, that's your first big sign. A pro can help you understand the feasibility, local regulations in places like Studio City or Encino, and the design possibilities. You should definitely reach out if you're looking for expert guidance on things like: \n\n*   **Navigating complex permits:** California ADU laws can be tricky, and local jurisdictions like Pasadena or Woodland Hills might have their own nuances. A good contractor handles all the permitting and design coordination. \n*   **Maximizing space and functionality:** Whether it's a tiny backyard ADU or an attached unit, a professional builder can help you design a layout that makes the most sense for your needs, incorporating smart solutions. \n*   **Ensuring structural integrity and safety:** Especially for garage conversions or second-story additions, you need a team that understands the structural demands and seismic retrofitting, ensuring your build is safe and up to code. \n*   **Staying on budget and on schedule:** Experienced contractors provide detailed scopes and practical communication, helping you avoid costly surprises and keeping the project moving efficiently. \n\nBringing in a licensed, insured, and bonded general contractor like Cali View Builders from the start means you'll have one team coordinating everything, from planning to the final walkthrough, saving you time and stress.",
+  "datePublished": "2026-09-02"
+}

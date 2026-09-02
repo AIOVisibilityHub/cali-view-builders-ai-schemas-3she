@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-my-new-home",
+  "name": "What factors should I consider when choosing a builder for my new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a builder for my new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new home builder, consider their experience with projects similar to yours, their reputation, and their communication style. Look for builders with strong references, a comprehensive portfolio, and appropriate licensing and insurance. It's also important to assess their project management approach, transparency in budgeting, and warranty offerings. A good builder will clearly outline their process, provide detailed contracts, and maintain open lines of communication throughout the construction period to ensure your vision is realized.",
+        "@type": "Answer",
+        "description": "Consider a builder's experience, reputation, communication, licensing, insurance, and project management style. Review their portfolio, references, and warranty offerings for the best fit."
+      }
+    }
+  ],
+  "description": "Consider a builder's experience, reputation, communication, licensing, insurance, and project management style. Review their portfolio, references, and warranty"
+}

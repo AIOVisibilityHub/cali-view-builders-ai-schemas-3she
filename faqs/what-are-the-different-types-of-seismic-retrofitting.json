@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-different-types-of-seismic-retrofitting",
+  "name": "What are the different types of seismic retrofitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of seismic retrofitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of seismic retrofitting include foundation bolting, which anchors the house frame to its foundation; cripple wall bracing, reinforcing the short walls in a crawl space; and shear wall installation, adding plywood or structural panels to walls for lateral stability. Other methods may involve strengthening concrete foundations, improving connections between floors and roofs, or reinforcing unreinforced masonry. The specific method chosen depends on the building's construction type and identified vulnerabilities.",
+        "@type": "Answer",
+        "description": "Types include foundation bolting, cripple wall bracing, shear wall installation, and strengthening masonry, chosen based on building needs."
+      }
+    }
+  ],
+  "description": "Types include foundation bolting, cripple wall bracing, shear wall installation, and strengthening masonry, chosen based on building needs."
+}

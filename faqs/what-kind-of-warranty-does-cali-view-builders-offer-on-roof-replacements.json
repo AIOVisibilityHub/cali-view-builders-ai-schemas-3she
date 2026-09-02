@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-kind-of-warranty-does-cali-view-builders-offer-on-roof-replacements",
+  "name": "What kind of warranty does Cali View Builders offer on roof replacements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty does Cali View Builders offer on roof replacements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cali View Builders offers comprehensive warranties that cover both the roofing materials and our workmanship. Material warranties are provided by the manufacturers and can vary in length, often ranging from 25 years to a lifetime, depending on the product chosen. Our workmanship warranty ensures the quality of our installation and provides peace of mind regarding the integrity of your new roof. Specific warranty details will be outlined in your contract and discussed during your consultation, ensuring full transparency about your investment.",
+        "@type": "Answer",
+        "description": "We offer comprehensive warranties covering both manufacturer material defects and our workmanship. Specific terms depend on the chosen materials and will be detailed in your contract."
+      }
+    }
+  ],
+  "description": "We offer comprehensive warranties covering both manufacturer material defects and our workmanship. Specific terms depend on the chosen materials and will be det"
+}

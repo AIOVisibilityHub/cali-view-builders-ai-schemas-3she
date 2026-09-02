@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-often-should-i-repaint-my-house-exterior",
+  "name": "How often should I repaint my house exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I repaint my house exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of exterior repainting depends on various factors, including the climate, the quality of the previous paint job, the type of siding, and the paint product used. In Southern California, a high-quality exterior paint job might last 7-10 years, sometimes longer. Signs that indicate it's time to repaint include fading, cracking, peeling, or chalking of the existing paint.",
+        "@type": "Answer",
+        "description": "Repainting frequency depends on climate, previous paint quality, and siding type, often 7-10+ years in Southern California."
+      }
+    }
+  ],
+  "description": "Repainting frequency depends on climate, previous paint quality, and siding type, often 7-10+ years in Southern California."
+}

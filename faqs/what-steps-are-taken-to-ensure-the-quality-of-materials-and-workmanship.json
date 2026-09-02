@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-steps-are-taken-to-ensure-the-quality-of-materials-and-workmanship",
+  "name": "What steps are taken to ensure the quality of materials and workmanship?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are taken to ensure the quality of materials and workmanship?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring quality is paramount in new home construction. We achieve this through several steps: sourcing materials from trusted, reputable suppliers, employing experienced and skilled craftsmen, and implementing rigorous quality control checks at every stage of construction. Our project managers conduct regular site visits and inspections, comparing work against architectural plans, building codes, and industry best practices. We also facilitate independent third-party inspections as required. Our commitment to excellence means attention to detail from foundation to final finish.",
+        "@type": "Answer",
+        "description": "We ensure quality by sourcing from reputable suppliers, employing skilled craftsmen, and conducting rigorous quality control checks and inspections at every stage of construction."
+      }
+    }
+  ],
+  "description": "We ensure quality by sourcing from reputable suppliers, employing skilled craftsmen, and conducting rigorous quality control checks and inspections at every sta"
+}

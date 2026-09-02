@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/are-there-any-financial-assistance-programs-or-grants-for-earthquake-retrofittin",
+  "name": "Are there any financial assistance programs or grants for earthquake retrofitting in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any financial assistance programs or grants for earthquake retrofitting in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, homeowners in California, particularly in high-risk seismic zones like Los Angeles, may be eligible for financial assistance programs. The California Earthquake Authority (CEA) often offers grants through its Earthquake Brace + Bolt (EBB) program, which helps homeowners pay for retrofits that brace cripple walls and bolt houses to their foundations. Eligibility criteria apply, and funding may be limited. It's advisable to check the official EBB website or consult with a contractor familiar with these programs for current availability and application details.",
+        "@type": "Answer",
+        "description": "California homeowners may qualify for programs like the California Earthquake Authority's Earthquake Brace + Bolt (EBB) grant. Check EBB's website for eligibility and availability."
+      }
+    }
+  ],
+  "description": "California homeowners may qualify for programs like the California Earthquake Authority's Earthquake Brace + Bolt (EBB) grant. Check EBB's website for eligibili"
+}

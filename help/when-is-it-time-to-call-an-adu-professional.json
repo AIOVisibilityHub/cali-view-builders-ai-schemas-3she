@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it time to call an ADU professional?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about adding an Accessory Dwelling Unit to your property in Los Angeles? That's a smart move for boosting value and gaining extra space. But how do you know when it’s time to stop researching and actually pick up the phone and talk to an ADU builder? Often, homeowners try to navigate the initial stages alone, only to find themselves overwhelmed by regulations, design choices, or construction complexities. Knowing when to bring in an expert can save you time, stress, and money.\n\nHere are some clear signs it's time to call a professional ADU contractor:\n\n*   **You're confused by local zoning and permits:** Los Angeles County has specific rules for ADU construction, including things like setbacks, size limits, and parking requirements. If you're finding the permit process daunting or unclear, a professional can demystify it and handle all the coordination.\n*   **You're unsure what type of ADU is best for your property:** Detached, attached, garage conversion, junior ADU – there are many options. An expert can assess your specific property and help determine the most feasible and beneficial type for your goals and budget.\n*   **You want to maximize your property's value and functionality:** A skilled ADU builder doesn't just construct; they help design a space that truly enhances your home's appeal and serves its intended purpose, whether for rental income or family use.\n*   **You need a clear budget and timeline:** Professionals provide detailed scopes of work and realistic timelines, helping you avoid unexpected costs and delays. They’ll also manage trades and inspections efficiently.\n*   **You prioritize quality and long-term durability:** Building an ADU is a significant investment. You want it done right, with quality materials and craftsmanship that will last. A licensed, insured, and bonded general contractor ensures this standard.\n*   **You're ready to move forward but don't want the headache of project management:** A design-build team can handle everything from initial concept to the final walkthrough, offering one point of contact and a streamlined process. \n\nIf any of these resonate with you, it’s definitely time to reach out. Companies like Cali View Builders specialize in making the ADU journey in Los Angeles seamless.",
+  "datePublished": "2026-09-02"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-whole-house-renovation-typically-take",
+  "name": "How long does a whole house renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole house renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole house renovation varies significantly based on the project's scope, the home's size, and the complexity of the desired changes. Minor renovations might take a few months, while extensive overhauls involving structural work, multiple room additions, or significant layout changes can extend to six months or even over a year. Factors like material lead times, permit approvals, and unexpected discoveries during demolition also influence the timeline. A detailed project schedule will be provided after initial planning.",
+        "@type": "Answer",
+        "description": "Project duration varies but can range from a few months for minor renovations to over a year for extensive overhauls, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Project duration varies but can range from a few months for minor renovations to over a year for extensive overhauls, depending on scope and complexity."
+}

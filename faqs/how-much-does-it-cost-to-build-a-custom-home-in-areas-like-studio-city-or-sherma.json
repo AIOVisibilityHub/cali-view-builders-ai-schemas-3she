@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-much-does-it-cost-to-build-a-custom-home-in-areas-like-studio-city-or-sherma",
+  "name": "How much does it cost to build a custom home in areas like Studio City or Sherman Oaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a custom home in areas like Studio City or Sherman Oaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a custom home in areas such as Studio City or Sherman Oaks varies widely based on factors like square footage, complexity of design, chosen materials, and site preparation. Custom homes in these areas can range significantly. A detailed budget is developed after understanding your specific requirements and architectural plans. We provide transparent cost breakdowns and work with you to align the project with your financial goals, ensuring no hidden surprises.",
+        "@type": "Answer",
+        "description": "Costs vary greatly based on size, design complexity, materials, and site. A detailed budget is created after understanding your specific requirements."
+      }
+    }
+  ],
+  "description": "Costs vary greatly based on size, design complexity, materials, and site. A detailed budget is created after understanding your specific requirements."
+}

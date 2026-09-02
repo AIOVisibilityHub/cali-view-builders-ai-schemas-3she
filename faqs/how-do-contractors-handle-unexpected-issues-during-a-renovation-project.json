@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-contractors-handle-unexpected-issues-during-a-renovation-project",
+  "name": "How do contractors handle unexpected issues during a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors handle unexpected issues during a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Experienced contractors anticipate and prepare for unexpected issues that may arise during a renovation, such as discovering outdated wiring, plumbing problems, or structural deficiencies. When such issues occur, your contractor should immediately inform you, explain the problem and its potential impact on the timeline and budget. They will then present solutions and obtain your approval before proceeding. Transparent communication and a clear change order process are key to managing unforeseen circumstances effectively.",
+        "@type": "Answer",
+        "description": "Contractors communicate unexpected issues promptly, explain impacts, propose solutions, and obtain client approval before proceeding, ensuring transparency."
+      }
+    }
+  ],
+  "description": "Contractors communicate unexpected issues promptly, explain impacts, propose solutions, and obtain client approval before proceeding, ensuring transparency."
+}

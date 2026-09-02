@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-to-move-out-during-a-whole-house-renovation",
+  "name": "Do I need to move out during a whole house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out during a whole house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a whole house renovation depends on the scope of work and your comfort level. If the renovation involves significant structural changes, major plumbing or electrical work, or extensive demolition that impacts essential living areas like the kitchen or bathrooms, moving out is often recommended for safety, comfort, and to expedite the construction process. For smaller-scale renovations, it might be possible to remain in your home, but be prepared for noise, dust, and disruptions.",
+        "@type": "Answer",
+        "description": "Moving out is often recommended for safety and convenience during extensive renovations involving structural changes or essential living areas; it may not be necessary for smaller projects."
+      }
+    }
+  ],
+  "description": "Moving out is often recommended for safety and convenience during extensive renovations involving structural changes or essential living areas; it may not be ne"
+}

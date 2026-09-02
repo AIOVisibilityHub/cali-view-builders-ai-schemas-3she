@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My backyard feels empty, how can I add value?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever look at your backyard and think, there's so much untapped potential here? You're not alone! Many Los Angeles homeowners are realizing that a strategically placed accessory dwelling unit, or ADU, can totally transform unused space into something truly valuable. Whether it's for extra income, a cozy spot for visiting family, or even a home office away from the main house, an ADU offers incredible flexibility and boosts property value. It's not just about building; it's about smart space utilization tailored to your life. \n\nStarting an ADU project can feel like a big step, but with the right guidance, it's a smooth process. First off, think about what you actually need the space for. Is it a rental unit, a guest house, or maybe a dedicated art studio? This helps shape the design and functionality from the get-go. Next, consider the different types of ADUs – you could go for a detached unit, attach it to your main house, or even convert that old garage into something fresh and new. Garage conversions are super popular here in LA because they repurpose existing structures, often making the process a bit simpler. Finally, remember that local regulations play a huge role. Partnering with an experienced ADU builder who knows the ins and outs of Los Angeles County's specific requirements, like Cali View Builders, means you won't get bogged down in permitting red tape. They can guide you through everything from design to the final walkthrough, ensuring your new ADU meets all the necessary standards and truly adds value to your home. It’s an investment in your lifestyle and your property's future.",
+  "datePublished": "2026-09-02"
+}

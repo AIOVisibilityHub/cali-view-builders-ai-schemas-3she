@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-difference-between-latex-and-oil-based-exterior-paints",
+  "name": "What is the difference between latex and oil-based exterior paints?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between latex and oil-based exterior paints?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Latex (water-based) paints are commonly used for exteriors due to their flexibility, breathability, and easier cleanup. They tend to resist cracking and fading well. Oil-based paints are known for their durability and smooth finish, often preferred for trim or high-traffic areas, but they take longer to dry, can become brittle, and require mineral spirits for cleanup. Your project's specific needs will determine the best choice.",
+        "@type": "Answer",
+        "description": "Latex paints are flexible, breathable, and easy to clean. Oil-based paints offer durability for trim but dry slower."
+      }
+    }
+  ],
+  "description": "Latex paints are flexible, breathable, and easy to clean. Oil-based paints offer durability for trim but dry slower."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-process-for-a-home-renovation-project-with-a-contractor",
+  "name": "What is the typical process for a home renovation project with a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a home renovation project with a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical home renovation project starts with an initial consultation to discuss your vision, needs, and budget. This is followed by a detailed proposal, design phase, and material selection. Once approved, we handle permit acquisition, if necessary, before commencing construction. Throughout the build, there will be regular communication and site visits to ensure everything progresses smoothly and aligns with your expectations. The project concludes with a final walkthrough and completion, ensuring your satisfaction with the renovated space.",
+        "@type": "Answer",
+        "description": "The process generally involves consultation, design, proposal, permitting, construction, and a final walkthrough to ensure client satisfaction."
+      }
+    }
+  ],
+  "description": "The process generally involves consultation, design, proposal, permitting, construction, and a final walkthrough to ensure client satisfaction."
+}

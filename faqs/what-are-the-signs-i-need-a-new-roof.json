@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-signs-i-need-a-new-roof",
+  "name": "What are the signs I need a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a roof replacement is necessary include missing or cracked shingles, a sagging roof deck, granule loss from asphalt shingles, and water stains on interior ceilings or walls. An older roof, typically over 20-25 years old, may also be a candidate for replacement due to age-related wear. Regular inspections can help identify these issues early and prevent more extensive damage to your home's structure. Prompt action can save you from costly repairs in the long run and maintain your home's value.",
+        "@type": "Answer",
+        "description": "Signs include missing/cracked shingles, a sagging roof, granule loss, and interior water stains. An old roof (20-25+ years) also indicates a potential need for replacement."
+      }
+    }
+  ],
+  "description": "Signs include missing/cracked shingles, a sagging roof, granule loss, and interior water stains. An old roof (20-25+ years) also indicates a potential need for"
+}

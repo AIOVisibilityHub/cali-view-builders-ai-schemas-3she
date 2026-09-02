@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-you-ensure-safety-during-a-roofing-project",
+  "name": "How do you ensure safety during a roofing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure safety during a roofing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is our top priority on every roofing project. We adhere strictly to OSHA guidelines and industry best practices. Our crew members are trained in proper safety procedures, including the use of personal protective equipment (PPE) such as harnesses, safety glasses, and hard hats. We also implement site-specific safety plans, secure the work area, and conduct daily safety briefings to minimize risks for both our workers and your property. Regular equipment checks are also a standard practice.",
+        "@type": "Answer",
+        "description": "We ensure safety by adhering to OSHA guidelines, using PPE, training our crew, implementing site-specific safety plans, and securing the work area."
+      }
+    }
+  ],
+  "description": "We ensure safety by adhering to OSHA guidelines, using PPE, training our crew, implementing site-specific safety plans, and securing the work area."
+}

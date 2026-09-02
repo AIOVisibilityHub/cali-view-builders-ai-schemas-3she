@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-questions-should-i-ask-a-roofing-contractor-before-hiring-them",
+  "name": "What questions should I ask a roofing contractor before hiring them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a roofing contractor before hiring them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring a roofing contractor, ask about their licensing and insurance (liability and workers' compensation), their experience with your specific roofing material, and if they offer a warranty on both materials and labor. Inquire about their project timeline, cleanup process, and references from previous clients. It's also important to understand their payment schedule and how they handle unexpected issues or changes during the project. A reputable contractor will be transparent and willing to answer all your questions thoroughly.",
+        "@type": "Answer",
+        "description": "Ask about licensing, insurance, experience, warranties, project timeline, cleanup, and references. Ensure transparency on payment and issue handling."
+      }
+    }
+  ],
+  "description": "Ask about licensing, insurance, experience, warranties, project timeline, cleanup, and references. Ensure transparency on payment and issue handling."
+}

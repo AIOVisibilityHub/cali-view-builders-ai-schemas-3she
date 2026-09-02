@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-the-right-whole-house-renovation-contractor",
+  "name": "How do I choose the right whole house renovation contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right whole house renovation contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, look for licensed and insured professionals with a strong portfolio of similar projects and positive client testimonials. Verify their experience with whole house renovations, particularly in your local area. Consider their communication style, transparency in pricing, and their ability to provide a detailed project plan and timeline. Requesting proposals from several reputable contractors and comparing them based on scope, cost, and approach is a good practice.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with relevant experience, a strong portfolio, good communication, and transparent pricing. Compare multiple proposals."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with relevant experience, a strong portfolio, good communication, and transparent pricing. Compare multiple proposals."
+}

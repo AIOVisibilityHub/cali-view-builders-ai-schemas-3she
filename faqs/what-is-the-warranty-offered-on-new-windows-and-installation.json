@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-warranty-offered-on-new-windows-and-installation",
+  "name": "What is the warranty offered on new windows and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty offered on new windows and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cali View Builders stands by the quality of our products and workmanship. The warranty on new windows typically comes from the manufacturer and varies depending on the brand and specific product chosen. These can range from 10-year limited warranties to lifetime warranties covering defects in materials and manufacturing. Additionally, we provide a separate warranty on our installation services, ensuring peace of mind regarding the quality and durability of our work.",
+        "@type": "Answer",
+        "description": "We offer manufacturer warranties on windows and a separate warranty on our installation services, with details varying by product and service."
+      }
+    }
+  ],
+  "description": "We offer manufacturer warranties on windows and a separate warranty on our installation services, with details varying by product and service."
+}

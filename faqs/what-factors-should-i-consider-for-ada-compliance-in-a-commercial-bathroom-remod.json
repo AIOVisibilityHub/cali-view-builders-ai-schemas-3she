@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-factors-should-i-consider-for-ada-compliance-in-a-commercial-bathroom-remod",
+  "name": "What factors should I consider for ADA compliance in a commercial bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider for ADA compliance in a commercial bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliance in a commercial bathroom remodel requires careful consideration of several factors. These include ensuring sufficient clear floor space for wheelchair maneuvering, proper grab bar installation at toilets and in showers, accessible sink heights, lever-operated faucet handles, and appropriate toilet seat heights. Doorways must be wide enough, and emergency call systems may be necessary. We ensure all designs and installations meet the specific requirements of the Americans with Disabilities Act to provide accessibility for all users and avoid compliance issues.",
+        "@type": "Answer",
+        "description": "ADA compliance involves clear floor space, grab bars, accessible sink/toilet heights, lever faucets, wide doorways, and emergency systems to ensure accessibility for all users."
+      }
+    }
+  ],
+  "description": "ADA compliance involves clear floor space, grab bars, accessible sink/toilet heights, lever faucets, wide doorways, and emergency systems to ensure accessibilit"
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Concerns About Detached ADU Construction Timeline",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's totally understandable to be a little worried about how long it takes to build a detached Accessory Dwelling Unit (ADU). You're adding a whole new structure to your property, and you want to know when it'll be ready! The truth is, there's no one-size-fits-all answer, but we can definitely give you a clear picture of what to expect. Generally, a detached ADU project in Los Angeles involves several stages, from initial design and permitting to foundation work, framing, and finishing touches. Each step has its own timeline, and some, like permit approval, can vary based on local city processes in areas like Santa Monica or Woodland Hills. \n\nWe tackle this by breaking down the project into manageable phases, giving you realistic expectations for each one. Our team coordinates everything – from the architects and engineers to the various trades like plumbers and electricians – to keep things moving smoothly. We've got a lot of experience building ADUs across Los Angeles County, from Tarzana to Beverly Hills, and we know how to anticipate potential delays and mitigate them. Communication is key here; we'll keep you updated every step of the way, so you're never left wondering. \n\nWhat truly makes a difference is having a design-build team like ours. We streamline the process by handling both the design and construction under one roof, which can significantly shorten the overall timeline compared to hiring separate teams. We focus on clarity before construction and care during the work, ensuring your project progresses efficiently. \n\nCurious about the specific timeline for your detached ADU vision? Reach out to Cali View Builders, and we can discuss a personalized project plan.",
+  "datePublished": "2026-09-02"
+}

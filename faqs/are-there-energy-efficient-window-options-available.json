@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/are-there-energy-efficient-window-options-available",
+  "name": "Are there energy-efficient window options available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there energy-efficient window options available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Cali View Builders prioritizes energy efficiency. We offer a range of energy-efficient window options designed to help reduce your utility bills and enhance your home's comfort. These options typically include double or triple-pane glass, low-emissivity (Low-E) coatings, and argon gas fills between panes. These features work together to minimize heat transfer, keeping your home cooler in summer and warmer in winter, which is particularly beneficial in the varied climate of Southern California.",
+        "@type": "Answer",
+        "description": "Yes, we offer energy-efficient windows with features like double-pane glass, Low-E coatings, and argon gas to reduce energy costs and improve comfort."
+      }
+    }
+  ],
+  "description": "Yes, we offer energy-efficient windows with features like double-pane glass, Low-E coatings, and argon gas to reduce energy costs and improve comfort."
+}

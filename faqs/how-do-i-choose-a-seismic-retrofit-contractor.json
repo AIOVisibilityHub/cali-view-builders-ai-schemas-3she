@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-choose-a-seismic-retrofit-contractor",
+  "name": "How do I choose a seismic retrofit contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a seismic retrofit contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a seismic retrofit contractor, look for licensed and insured professionals with specific experience in seismic upgrades. Check their references, review past projects, and ensure they are familiar with local building codes and regulations, especially in areas like Los Angeles. Obtain multiple detailed bids to compare scope of work and pricing. A reliable contractor should provide clear communication, transparent pricing, and a strong understanding of seismic engineering principles.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with seismic experience, good references, and familiarity with local codes; compare multiple bids."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with seismic experience, good references, and familiarity with local codes; compare multiple bids."
+}

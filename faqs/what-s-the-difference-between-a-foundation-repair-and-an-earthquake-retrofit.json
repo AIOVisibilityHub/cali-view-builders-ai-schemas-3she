@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-s-the-difference-between-a-foundation-repair-and-an-earthquake-retrofit",
+  "name": "What's the difference between a foundation repair and an earthquake retrofit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a foundation repair and an earthquake retrofit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foundation repair addresses existing damage to a home's foundation, such as cracks, settling, or moisture issues, aiming to restore its integrity. Earthquake retrofitting, on the other hand, is a preventative measure designed to enhance a structurally sound foundation's resistance to seismic forces. While some retrofitting steps might involve minor foundation work, its primary goal is to prevent future earthquake damage rather than fix existing problems. A comprehensive assessment can determine if your home requires repair, retrofit, or both.",
+        "@type": "Answer",
+        "description": "Foundation repair fixes existing damage, while earthquake retrofitting prevents future damage by reinforcing a structurally sound foundation against seismic forces."
+      }
+    }
+  ],
+  "description": "Foundation repair fixes existing damage, while earthquake retrofitting prevents future damage by reinforcing a structurally sound foundation against seismic for"
+}

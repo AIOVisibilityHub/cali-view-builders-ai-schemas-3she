@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-getting-an-earthquake-retrofit-done",
+  "name": "What is the process for getting an earthquake retrofit done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an earthquake retrofit done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a detailed inspection of your home's foundation and structure by a qualified contractor to identify vulnerabilities. Based on this assessment, a customized retrofit plan is developed, often including engineering designs. Once you approve the plan and obtain necessary permits, the construction phase begins. This involves strengthening critical areas such as the foundation, cripple walls, and other structural components. Finally, a city inspector will review the completed work to ensure compliance with building codes.",
+        "@type": "Answer",
+        "description": "The process involves an inspection, custom plan with engineering designs, permitting, construction to strengthen critical areas, and a final city inspection."
+      }
+    }
+  ],
+  "description": "The process involves an inspection, custom plan with engineering designs, permitting, construction to strengthen critical areas, and a final city inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-measures-do-you-take-to-minimize-disruption-during-a-remodel",
+  "name": "What measures do you take to minimize disruption during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measures do you take to minimize disruption during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a custom bathroom remodel, we implement several strategies to minimize disruption to your home and daily life. This includes establishing clear work zones, protecting surrounding areas with coverings, and maintaining a clean job site daily. We also schedule noisy work during reasonable hours, ensure efficient communication regarding project progress, and work diligently to adhere to the established timeline, aiming to complete your project with minimal inconvenience.",
+        "@type": "Answer",
+        "description": "We minimize disruption by establishing work zones, protecting areas, maintaining a clean site, scheduling noisy work appropriately, and communicating project progress efficiently."
+      }
+    }
+  ],
+  "description": "We minimize disruption by establishing work zones, protecting areas, maintaining a clean site, scheduling noisy work appropriately, and communicating project pr"
+}

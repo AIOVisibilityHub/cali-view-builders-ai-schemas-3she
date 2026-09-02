@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-factors-influence-the-cost-of-exterior-painting",
+  "name": "What factors influence the cost of exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior painting is influenced by several factors: the size and height of the property, the amount of surface preparation required (e.g., scraping, sanding, repairs), the type and quality of paint chosen, and the architectural complexity of your home (e.g., intricate trim, multiple colors). Access challenges and specific material choices can also impact the final price. We provide detailed, transparent quotes.",
+        "@type": "Answer",
+        "description": "Cost factors include house size, surface condition, paint quality, and architectural complexity. Quotes are transparent."
+      }
+    }
+  ],
+  "description": "Cost factors include house size, surface condition, paint quality, and architectural complexity. Quotes are transparent."
+}

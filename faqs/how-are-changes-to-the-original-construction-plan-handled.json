@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-are-changes-to-the-original-construction-plan-handled",
+  "name": "How are changes to the original construction plan handled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are changes to the original construction plan handled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Changes to the original construction plan, often called 'change orders,' are handled through a structured process to ensure transparency and proper documentation. When a client requests a change or an unforeseen site condition necessitates one, our team prepares a detailed proposal outlining the scope of the change, its impact on the project timeline, and any associated cost adjustments. This proposal is presented for your review and approval before any work commences. Once approved, the change order is formally documented and integrated into the project plan, ensuring clear communication and mutual agreement.",
+        "@type": "Answer",
+        "description": "Changes to the plan are handled via formal 'change orders.' We prepare a detailed proposal outlining scope, timeline, and cost impact for your review and approval before work begins."
+      }
+    }
+  ],
+  "description": "Changes to the plan are handled via formal 'change orders.' We prepare a detailed proposal outlining scope, timeline, and cost impact for your review and approv"
+}

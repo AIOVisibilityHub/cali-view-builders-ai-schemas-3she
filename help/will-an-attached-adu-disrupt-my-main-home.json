@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Will an Attached ADU Disrupt My Main Home?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's totally natural to worry about an attached Accessory Dwelling Unit (ADU) construction causing a huge disruption to your daily life. After all, we're talking about building onto your existing home! The good news is, with careful planning and an experienced contractor, we can absolutely minimize the impact on your household. Our approach at Cali View Builders is designed to make the process as smooth and unintrusive as possible for homeowners across Los Angeles, from Burbank to Tarzana. \n\nFact: Noise and activity will be contained. While construction inherently involves some noise and activity, we meticulously plan our work to reduce inconvenience. We establish clear work zones, manage material deliveries efficiently, and communicate schedules openly. This means you'll know what to expect and when, allowing you to plan your days accordingly. We prioritize maintaining a clean and safe workspace, ensuring minimal dust and debris affecting your main living areas. \n\nFact: Your daily routines can largely continue. We understand your home is your sanctuary. Our team works hard to keep essential utilities accessible and functional throughout the project. We'll coordinate any necessary shutdowns well in advance and work quickly to restore services. For instance, in areas like Encino or Van Nuys, we focus on smart scheduling that respects your family's routine. \n\nFact: Communication keeps you in control. One of our core principles is direct communication. You'll have one point of contact, and we'll keep you updated on progress, upcoming steps, and any decisions needed. This transparency means fewer surprises and more peace of mind, allowing you to feel involved without being overwhelmed by the day-to-day logistics. \n\nFact: Post-construction cleanup is thorough. We don't just finish the build and leave; we ensure a comprehensive cleanup. Your new attached ADU and the surrounding area will be spotless, ready for you to enjoy without having to deal with leftover construction mess. \n\nDon't let the fear of disruption hold you back from your attached ADU dreams. Cali View Builders is here to make the process easy. Contact us to learn more about our homeowner-focused approach.",
+  "datePublished": "2026-09-02"
+}

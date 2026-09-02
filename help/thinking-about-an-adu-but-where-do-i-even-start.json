@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking about an ADU, but where do I even start?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Considering an Accessory Dwelling Unit (ADU) for your Los Angeles property is a fantastic idea, but the initial steps can feel a bit overwhelming. You've got options like detached, attached, or even converting your garage, and figuring out what's feasible for your home is key. Don't worry, breaking it down into manageable chunks makes it much clearer.\n\nFirst, think about your 'why.' Is it for family, rental income, or a dedicated home office? This helps define the size and features you'll need. Next, consider your property's specifics in areas like North Hollywood, Studio City, or Beverly Hills. Factors like lot size, existing structures, and utility access will play a big role in what’s possible. Third, understand that local zoning and building codes are critical in Los Angeles County. A good contractor will help you navigate these rules to ensure your project is compliant from day one. Finally, visualize the design and how it integrates with your main home. A well-designed ADU enhances your property aesthetically and functionally. Working with a licensed, family-owned team like Cali View Builders right from the start can make the entire planning and construction process smooth and transparent. We're here to help bring your vision to life.",
+  "datePublished": "2026-09-02"
+}

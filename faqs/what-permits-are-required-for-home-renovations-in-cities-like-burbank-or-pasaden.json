@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-required-for-home-renovations-in-cities-like-burbank-or-pasaden",
+  "name": "What permits are required for home renovations in cities like Burbank or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for home renovations in cities like Burbank or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for home renovations vary by municipality, but generally, significant structural changes, electrical work, plumbing modifications, or additions in cities like Burbank or Pasadena will require permits. Minor cosmetic updates typically do not. These permits ensure that your renovation complies with local building codes, safety standards, and zoning regulations. Your contractor should be able to identify and assist with obtaining all necessary permits before work begins.",
+        "@type": "Answer",
+        "description": "Permits are usually required for structural, electrical, or plumbing changes, ensuring compliance with local building codes. Your contractor will guide you."
+      }
+    }
+  ],
+  "description": "Permits are usually required for structural, electrical, or plumbing changes, ensuring compliance with local building codes. Your contractor will guide you."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-types-of-windows-do-you-install",
+  "name": "What types of windows do you install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows do you install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cali View Builders installs a wide variety of window types to suit different architectural styles and homeowner needs. This includes popular options like single-hung, double-hung, casement, sliding, picture, and bay windows. We work with various materials such as vinyl, wood, and fiberglass, offering different levels of energy efficiency, sound insulation, and aesthetic appeal. Our team can help you select the best window type and material to enhance your home's comfort, appearance, and value.",
+        "@type": "Answer",
+        "description": "We install single-hung, double-hung, casement, sliding, picture, and bay windows, available in vinyl, wood, and fiberglass materials."
+      }
+    }
+  ],
+  "description": "We install single-hung, double-hung, casement, sliding, picture, and bay windows, available in vinyl, wood, and fiberglass materials."
+}

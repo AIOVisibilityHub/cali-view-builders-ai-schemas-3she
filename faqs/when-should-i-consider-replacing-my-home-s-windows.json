@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/when-should-i-consider-replacing-my-home-s-windows",
+  "name": "When should I consider replacing my home's windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my home's windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your windows if you notice drafts, condensation between glass panes, difficulty operating them, or increasing energy bills. Old or damaged windows can significantly impact your home's energy efficiency, comfort, and security. Replacing them can improve insulation, reduce outside noise, enhance curb appeal, and potentially increase your home's value. Modern windows also offer advanced features like UV protection and improved security.",
+        "@type": "Answer",
+        "description": "Consider replacement if you notice drafts, condensation, difficulty operating windows, or rising energy bills, as new windows improve efficiency, comfort, and home value."
+      }
+    }
+  ],
+  "description": "Consider replacement if you notice drafts, condensation, difficulty operating windows, or rising energy bills, as new windows improve efficiency, comfort, and h"
+}

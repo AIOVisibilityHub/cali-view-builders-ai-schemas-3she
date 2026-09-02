@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-required-for-a-whole-house-renovation-in-california",
+  "name": "What permits are required for a whole house renovation in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a whole house renovation in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a whole house renovation in California, you will typically need various permits from your local building department, such as the Los Angeles Department of Building and Safety. These can include general building permits for structural changes, as well as specific permits for electrical, plumbing, and mechanical work. Depending on the project, you might also need permits for grading, demolitions, or significant changes to the exterior. A qualified contractor will assist in identifying and securing all necessary permits.",
+        "@type": "Answer",
+        "description": "Permits for whole house renovations in California typically include general building, electrical, plumbing, and mechanical permits from your local building department."
+      }
+    }
+  ],
+  "description": "Permits for whole house renovations in California typically include general building, electrical, plumbing, and mechanical permits from your local building depa"
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is a garage conversion right for your ADU?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Transforming your garage into an Accessory Dwelling Unit (ADU) is a seriously popular option for homeowners across Los Angeles. It’s an awesome way to add living space, whether for family, rental income, or even a dedicated workspace, without having to build a completely new structure from scratch. But is a garage conversion the *right* ADU solution for *your* property? Let's dig into what makes these projects so appealing and what you should consider.\n\nFirst off, garage conversions often come with some built-in advantages. You've already got a foundation, walls, and a roof, which can potentially save on construction time and costs compared to building a brand-new detached unit. Plus, they usually require less backyard space, making them ideal for smaller lots common in areas like Burbank or Glendale. This repurposing of an existing structure is a huge draw for many.\n\nHowever, it's not just about what's there; it's about what needs to be *added*. You'll need to think about insulation, plumbing for a bathroom and kitchen, electrical upgrades, new windows and doors, and often, improved flooring. The goal is to make it feel like a comfortable, legitimate living space, not just a garage with a bed. The existing structure needs to be up to par or upgraded to meet residential codes.\n\nAnother big factor is parking. Converting your garage might mean losing your off-street parking spot. While ADU regulations in Los Angeles have become more flexible, it's crucial to understand any parking replacement requirements that might apply to your property. Your builder should guide you on this.\n\nFinally, consider the design. You want your garage conversion to blend seamlessly with your main house and provide all the amenities of a small home. This requires thoughtful planning and design coordination. Cali View Builders has a ton of experience with garage-to-ADU conversions and can help you assess your current garage’s potential. If you're weighing the pros and cons, chatting with an experienced ADU builder can clarify whether a garage conversion is your best move.",
+  "datePublished": "2026-09-02"
+}

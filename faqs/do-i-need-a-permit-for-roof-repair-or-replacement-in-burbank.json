@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-a-permit-for-roof-repair-or-replacement-in-burbank",
+  "name": "Do I need a permit for roof repair or replacement in Burbank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for roof repair or replacement in Burbank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Burbank, most roof replacement projects and significant roof repairs typically require a building permit from the city. This ensures that the work complies with local building codes and safety standards. Our team handles the permit application process for you, ensuring all necessary documentation is submitted and approvals are secured before any work begins. Minor repairs, such as replacing a few shingles, usually do not require a permit, but it's always best to confirm.",
+        "@type": "Answer",
+        "description": "Most roof replacements and significant repairs in Burbank require a city building permit. Our team manages the permit application process for you."
+      }
+    }
+  ],
+  "description": "Most roof replacements and significant repairs in Burbank require a city building permit. Our team manages the permit application process for you."
+}

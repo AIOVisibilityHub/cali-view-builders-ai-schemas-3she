@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Cabinets Are Old — Do I Need to Replace Them All?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a common dilemma: your kitchen cabinets are showing their age – maybe they’re chipped, dated, or just not working for your storage needs anymore. The thought of a full replacement can feel daunting and expensive, leaving you wondering if there are other options. Do you really need to rip everything out, or can you just update what you have? It really depends on the condition of your existing cabinetry and your overall renovation goals.\n\nHere's how to figure out if you should replace or refresh:\n\n*   **Assess the structural integrity:** First, check if the cabinet boxes themselves are sturdy. Are they solid wood or particleboard? Are the frames strong, or do they wobble? If the basic structure is sound, you might have more options than you think. If they're falling apart, replacement is likely the best route.\n*   **Consider the layout:** Do you like your current kitchen layout? If the placement of your cabinets works for your workflow and you don't plan on moving walls or major appliances, then keeping the existing footprint could save you significant costs and time. If the layout is completely dysfunctional, new cabinets are usually part of a broader redesign.\n*   **Look at door and drawer fronts:** Even if the boxes are solid, outdated or damaged door and drawer fronts can make a huge difference in appearance. Refacing, which involves replacing just the doors, drawer fronts, and applying new veneer to the cabinet boxes, can give a dramatically new look without the full tear-out.\n*   **Evaluate your storage needs:** Are your cabinets simply too few, too shallow, or poorly organized for your current lifestyle? Sometimes, adding new custom inserts, pull-out shelves, or a pantry system can maximize existing space. However, if you need significantly more storage or different types of storage, new custom cabinetry might be the best solution.\n*   **Factor in your budget:** Naturally, a full replacement is a larger investment than refacing or painting. Be honest about your budget and what kind of return you're looking for. A professional contractor can help you understand the cost implications of each option.\n\nWhile some minor updates can certainly extend the life of your cabinets, a comprehensive renovation often includes custom cabinetry to truly optimize the space and achieve a modern aesthetic, like the shaker or European-style cabinetry we’ve installed in Downtown Los Angeles. Cali View Builders can help you explore whether refreshing or fully replacing your kitchen cabinets is the best approach for your Los Angeles home, ensuring you get a functional and beautiful result.",
+  "datePublished": "2026-09-02"
+}

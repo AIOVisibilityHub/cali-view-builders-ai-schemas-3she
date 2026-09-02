@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-seismic-retrofitting-my-home",
+  "name": "What is the process for seismic retrofitting my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for seismic retrofitting my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation and site inspection by a qualified contractor to assess your home's needs. This is followed by the development of engineering plans, if required, and securing necessary permits from the city, such as in Los Angeles. Once permits are approved, the construction phase involves implementing the structural upgrades, such as foundation bolting, cripple wall bracing, or shear wall installation. After completion, a final inspection ensures all work meets code requirements.",
+        "@type": "Answer",
+        "description": "The process involves consultation, inspection, engineering plans, permits, construction, and a final inspection to ensure code compliance."
+      }
+    }
+  ],
+  "description": "The process involves consultation, inspection, engineering plans, permits, construction, and a final inspection to ensure code compliance."
+}

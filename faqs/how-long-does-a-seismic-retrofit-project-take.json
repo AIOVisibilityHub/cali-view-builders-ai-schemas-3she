@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-seismic-retrofit-project-take",
+  "name": "How long does a seismic retrofit project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a seismic retrofit project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a seismic retrofit project depends on the scope of work and the complexity of your property. Simple foundation bolting or cripple wall bracing for a typical single-family home might be completed within a few days to a week. More extensive retrofits involving significant structural modifications could take several weeks. Factors like permit acquisition, material availability, and weather conditions can also impact the timeline. Your contractor can provide a more accurate schedule after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Project duration varies from a few days for simple jobs to several weeks for complex ones, depending on scope and property specifics."
+      }
+    }
+  ],
+  "description": "Project duration varies from a few days for simple jobs to several weeks for complex ones, depending on scope and property specifics."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-for-a-whole-house-renovation-project",
+  "name": "What is the process for a whole house renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a whole house renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, needs, and budget. This is followed by design and planning, where architectural plans and material selections are finalized. After securing necessary permits, construction commences, involving demolition, structural work, rough-ins for electrical and plumbing, insulation, drywall, and then finishing touches like flooring, cabinetry, and paint. Regular communication and walkthroughs ensure the project stays on track, concluding with a final inspection and handover.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction (demolition, framing, systems, finishes), and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction (demolition, framing, systems, finishes), and final inspection."
+}

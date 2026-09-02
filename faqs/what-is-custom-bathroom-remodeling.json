@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-custom-bathroom-remodeling",
+  "name": "What is custom bathroom remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom bathroom remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom bathroom remodeling involves designing and building a bathroom tailored specifically to your preferences, needs, and the unique characteristics of your home. Unlike standard renovations, a custom remodel allows for personalized layouts, material selections, fixtures, and finishes, ensuring the final space perfectly reflects your style and enhances functionality. This can include anything from reconfiguring the footprint for better flow to selecting specific eco-friendly materials or installing accessible features. It's about creating a truly unique and personalized bathroom.",
+        "@type": "Answer",
+        "description": "Custom bathroom remodeling designs a unique bathroom tailored to your specific preferences, needs, and home, allowing for personalized layouts, materials, and features."
+      }
+    }
+  ],
+  "description": "Custom bathroom remodeling designs a unique bathroom tailored to your specific preferences, needs, and home, allowing for personalized layouts, materials, and f"
+}

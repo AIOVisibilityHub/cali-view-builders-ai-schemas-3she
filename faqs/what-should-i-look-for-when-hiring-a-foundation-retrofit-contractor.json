@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-when-hiring-a-foundation-retrofit-contractor",
+  "name": "What should I look for when hiring a foundation retrofit contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring a foundation retrofit contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a foundation retrofit contractor, prioritize those who are licensed, bonded, and insured in California. Look for contractors with specific experience in seismic retrofitting, not just general construction. Check their references, reviews, and ensure they provide a detailed proposal outlining the scope of work, materials, timeline, and cost. It's also important that they are familiar with local building codes in your area, such as those in Los Angeles, to ensure compliance and proper permitting.",
+        "@type": "Answer",
+        "description": "Look for licensed, bonded, and insured contractors with specific seismic retrofit experience, good references, and local code familiarity."
+      }
+    }
+  ],
+  "description": "Look for licensed, bonded, and insured contractors with specific seismic retrofit experience, good references, and local code familiarity."
+}

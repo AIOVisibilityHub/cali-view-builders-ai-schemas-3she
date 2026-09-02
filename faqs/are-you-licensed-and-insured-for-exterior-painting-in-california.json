@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/are-you-licensed-and-insured-for-exterior-painting-in-california",
+  "name": "Are you licensed and insured for exterior painting in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are you licensed and insured for exterior painting in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Cali View Builders is fully licensed and insured to perform exterior painting and other construction services throughout California, including all our service areas like Los Angeles and Burbank. Our licensing ensures we meet state standards for quality and safety, while our insurance protects both our team and your property during the project. We can provide proof of our credentials upon request.",
+        "@type": "Answer",
+        "description": "Yes, Cali View Builders is fully licensed and insured for exterior painting in California, including all service areas."
+      }
+    }
+  ],
+  "description": "Yes, Cali View Builders is fully licensed and insured for exterior painting in California, including all service areas."
+}

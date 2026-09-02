@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/will-i-need-to-move-out-during-a-whole-home-remodel",
+  "name": "Will I need to move out during a whole home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need to move out during a whole home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a whole home remodel depends heavily on the project's scope and the extent of disruption. If the renovation involves significant structural work, extensive dust, utility shut-offs, or impacts essential living areas like the kitchen and bathrooms simultaneously, moving out is often recommended for safety, comfort, and project efficiency. For smaller, phased remodels, staying might be possible, but it will involve living in an active construction zone. Your contractor can advise on the best approach for your specific project.",
+        "@type": "Answer",
+        "description": "You may need to move out during a whole home remodel, especially for extensive work impacting essential living areas. Your contractor can advise."
+      }
+    }
+  ],
+  "description": "You may need to move out during a whole home remodel, especially for extensive work impacting essential living areas. Your contractor can advise."
+}

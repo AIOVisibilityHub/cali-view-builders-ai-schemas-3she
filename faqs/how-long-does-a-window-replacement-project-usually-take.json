@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-window-replacement-project-usually-take",
+  "name": "How long does a window replacement project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a window replacement project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window replacement project depends on the number of windows being replaced, their type, and the complexity of the installation. For a typical residential project involving 10-15 standard windows, installation can often be completed within one to three days. Larger projects or those requiring custom work may take longer. We always aim to minimize disruption to your home and provide a clear timeline before commencing work.",
+        "@type": "Answer",
+        "description": "A typical window replacement project for 10-15 windows usually takes one to three days, but duration varies based on project size and complexity."
+      }
+    }
+  ],
+  "description": "A typical window replacement project for 10-15 windows usually takes one to three days, but duration varies based on project size and complexity."
+}

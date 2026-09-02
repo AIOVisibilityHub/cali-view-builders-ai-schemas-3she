@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-process-of-a-foundation-retrofit",
+  "name": "What is the process of a foundation retrofit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of a foundation retrofit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The foundation retrofit process typically begins with a thorough inspection and assessment by a structural engineer or contractor to identify specific weaknesses. Based on this, a detailed plan is developed. The work usually involves clearing access to the crawl space, then bolting the house frame to the foundation, often using anchor bolts or L-shaped brackets. Cripple walls are reinforced with plywood bracing. Finally, all work is inspected to ensure it meets local building codes and seismic safety standards, providing enhanced protection against earthquakes.",
+        "@type": "Answer",
+        "description": "The process involves inspection, planning, bolting the house to the foundation, bracing cripple walls, and final inspection to meet codes."
+      }
+    }
+  ],
+  "description": "The process involves inspection, planning, bolting the house to the foundation, bracing cripple walls, and final inspection to meet codes."
+}

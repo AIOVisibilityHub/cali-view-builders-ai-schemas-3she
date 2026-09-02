@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-permits-are-needed-for-a-whole-home-remodel-in-los-angeles",
+  "name": "What permits are needed for a whole home remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a whole home remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole home remodels in Los Angeles generally require several permits from the Los Angeles Department of Building and Safety (LADBS). These typically include building permits for structural changes, and separate permits for plumbing, electrical, and mechanical (HVAC) work. Depending on the project scope, you might also need permits for grading, demolitions, or changes to property lines. A qualified contractor will handle the identification and acquisition of all necessary permits on your behalf.",
+        "@type": "Answer",
+        "description": "Whole home remodels in Los Angeles require building, plumbing, electrical, and mechanical permits from LADBS. Your contractor will manage these."
+      }
+    }
+  ],
+  "description": "Whole home remodels in Los Angeles require building, plumbing, electrical, and mechanical permits from LADBS. Your contractor will manage these."
+}

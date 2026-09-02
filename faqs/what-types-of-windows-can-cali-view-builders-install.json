@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-types-of-windows-can-cali-view-builders-install",
+  "name": "What types of windows can Cali View Builders install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows can Cali View Builders install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cali View Builders offers a wide selection of window types to suit various architectural styles and functional needs. We can install common types such as double-hung, casement, sliding, picture, and bay windows. Our options include various frame materials like vinyl, wood, and aluminum. We also provide energy-efficient choices, including dual-pane and low-emissivity (Low-E) glass, to help reduce energy consumption and improve indoor comfort for your home in the Los Angeles area.",
+        "@type": "Answer",
+        "description": "Cali View Builders installs various window types including double-hung, casement, and sliding, with options for vinyl, wood, or aluminum frames and energy-efficient glass."
+      }
+    }
+  ],
+  "description": "Cali View Builders installs various window types including double-hung, casement, and sliding, with options for vinyl, wood, or aluminum frames and energy-effic"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-difference-between-a-custom-home-and-a-semi-custom-home",
+  "name": "What is the difference between a custom home and a semi-custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom home and a semi-custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom home is uniquely designed from scratch according to the homeowner's specific vision, lifestyle, and site conditions. Every aspect, from layout and room dimensions to finishes and architectural style, is tailored. A semi-custom home, however, starts with a pre-existing floor plan or design template offered by the builder. Homeowners can then make a selection of modifications, such as choosing different finishes, fixtures, or minor layout adjustments, but the core structure remains largely unchanged. Custom homes offer ultimate personalization, while semi-custom offers a balance of choice and efficiency.",
+        "@type": "Answer",
+        "description": "A custom home is designed entirely from scratch to your specifications. A semi-custom home starts with a pre-existing floor plan where you can make limited modifications."
+      }
+    }
+  ],
+  "description": "A custom home is designed entirely from scratch to your specifications. A semi-custom home starts with a pre-existing floor plan where you can make limited modi"
+}

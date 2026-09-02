@@ -1,0 +1,133 @@
+{
+  "name": "My garage is wasted space. Can it become something more?",
+  "step": [
+    {
+      "name": "Step 1: Initial Assessment and Vision",
+      "text": "Consider what you want the converted space to become. Is it a rental unit, a home office, a guest suite, or a creative studio? This initial vision will guide the design and features. We’ll look at your existing garage, its structure, and assess practical access and existing conditions to see what’s feasible.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Planning",
+      "text": "Work with a design-build team to draft plans that convert your garage while integrating seamlessly with your main home. This involves designing the layout, selecting materials, and coordinating necessary changes like plumbing, electrical, and insulation. We help turn your ideas into a detailed, written plan.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permit Coordination",
+      "text": "This is a big one! Your contractor will handle all the necessary permits and approvals with the local authorities in Los Angeles County. This ensures your garage conversion is fully compliant with all building codes and zoning regulations, taking the stress off your plate.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Construction and Build-Out",
+      "text": "Once permits are secured, the physical transformation begins. This involves foundation work if needed, framing, installing new windows and doors, plumbing, electrical, insulation, drywall, and finishing touches like flooring and paint. Our team coordinates all trades and sequencing.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walkthrough and Completion",
+      "text": "After construction is complete, a thorough final walkthrough is conducted. This is where any last details are addressed, and you get to see your vision fully realized. You’ll then have a brand new, functional living space ready for use. From design coordination to final walkthrough, we ensure clear communication.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "description": "Consider what you want the converted space to become. Is it a rental unit, a home office, a guest suite, or a creative studio? This initial vision will guide the design and features. We’ll look at you"
+}

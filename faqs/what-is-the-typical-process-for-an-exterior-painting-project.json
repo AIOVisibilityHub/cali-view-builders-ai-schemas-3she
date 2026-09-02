@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-process-for-an-exterior-painting-project",
+  "name": "What is the typical process for an exterior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an exterior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An exterior painting project typically begins with a thorough inspection and surface preparation, including cleaning, scraping loose paint, sanding, and filling cracks or holes. Next, areas not to be painted are masked and protected. Primer is applied where necessary to ensure paint adhesion and durability. Finally, two coats of high-quality exterior paint are applied. After painting, a final inspection is conducted to ensure satisfaction and touch-ups are performed if needed.",
+        "@type": "Answer",
+        "description": "The process involves inspection, surface preparation, priming, painting, and a final inspection."
+      }
+    }
+  ],
+  "description": "The process involves inspection, surface preparation, priming, painting, and a final inspection."
+}

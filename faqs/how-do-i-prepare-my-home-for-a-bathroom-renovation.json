@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-prepare-my-home-for-a-bathroom-renovation",
+  "name": "How do I prepare my home for a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the renovation begins, we recommend clearing out all personal items from the bathroom and adjacent areas to protect them from dust and debris. If possible, arrange an alternative bathing facility. We will take measures to protect your floors and belongings, and establish clear pathways for our team. Our project manager will provide specific instructions tailored to your renovation scope.",
+        "@type": "Answer",
+        "description": "Prepare by removing personal items from the bathroom and surrounding areas. We will protect your home and provide specific instructions."
+      }
+    }
+  ],
+  "description": "Prepare by removing personal items from the bathroom and surrounding areas. We will protect your home and provide specific instructions."
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is the Right Time to Get Professional Help for My ADU?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding to build an Accessory Dwelling Unit (ADU) is a big step, and knowing when to call in the pros can save you a lot of headaches (and money!). Here are some clear signs it's time to bring in a general contractor for your ADU project: \n*   **You're Drowning in Paperwork:** The thought of researching zoning laws, securing permits, and dealing with city planning departments in places like Pasadena or Encino makes your head spin. \n*   **Design Decisions Feel Overwhelming:** You have an idea of what you want, but translating that into a functional, aesthetically pleasing design that fits your space and budget feels impossible. \n*   **You're Unsure About Site Logistics:** You're not sure how to get utilities to your backyard, or how construction equipment will access the site without damaging your property. \n*   **Coordinating Trades Is a Mystery:** You're envisioning having to manage plumbers, electricians, carpenters, and roofers yourself, and you're not confident in your ability to keep everyone on schedule and budget. \n*   **You Value Peace of Mind:** You want the project done right, efficiently, and with minimal stress, knowing a licensed and insured team is handling the complexities. \nIf any of these sound familiar, it's definitely time to reach out to a trusted general contractor like Cali View Builders. We're here to help guide you through the entire process, from concept to completion.",
+  "datePublished": "2026-09-02"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-kind-of-warranty-comes-with-your-window-installations",
+  "name": "What kind of warranty comes with your window installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty comes with your window installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cali View Builders offers comprehensive warranties that cover both the window products and our installation workmanship. The specific terms can vary by manufacturer for the windows themselves, typically ranging from 10 years to lifetime coverage against defects. Our labor warranty ensures that any issues arising from the installation process are addressed promptly and professionally. We will provide full details on all applicable warranties during your consultation.",
+        "@type": "Answer",
+        "description": "We offer comprehensive warranties covering both the window products (manufacturer-specific, 10 years to lifetime) and our installation workmanship."
+      }
+    }
+  ],
+  "description": "We offer comprehensive warranties covering both the window products (manufacturer-specific, 10 years to lifetime) and our installation workmanship."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-provide-my-own-architect-or-do-i-have-to-use-yours",
+  "name": "Can I provide my own architect or do I have to use yours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I provide my own architect or do I have to use yours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You are welcome to bring your own architect or design team to the project. We believe in collaboration and are experienced in working seamlessly with various professionals to bring your vision to life. If you don't have an architect, we can also recommend trusted architects and designers from our network who specialize in custom homes and understand the specific requirements and aesthetics prevalent in the Los Angeles area. Our priority is to ensure the best team is assembled for your project.",
+        "@type": "Answer",
+        "description": "You can use your own architect, or we can recommend trusted professionals from our network."
+      }
+    }
+  ],
+  "description": "You can use your own architect, or we can recommend trusted professionals from our network."
+}

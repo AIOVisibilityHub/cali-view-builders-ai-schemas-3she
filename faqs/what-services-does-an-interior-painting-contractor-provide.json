@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-services-does-an-interior-painting-contractor-provide",
+  "name": "What services does an interior painting contractor provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services does an interior painting contractor provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An interior painting contractor handles all aspects of painting your home's indoor spaces. This typically includes surface preparation like cleaning, patching, and sanding; protecting furniture and flooring; applying primer and paint; and a final clean-up. They can assist with color consultation, material selection, and executing various finishes. Contractors ensure a professional, durable result and manage the project from start to finish, saving homeowners time and effort.",
+        "@type": "Answer",
+        "description": "An interior painting contractor offers services including surface preparation, paint application, clean-up, and project management for your home's indoor spaces."
+      }
+    }
+  ],
+  "description": "An interior painting contractor offers services including surface preparation, paint application, clean-up, and project management for your home's indoor spaces"
+}

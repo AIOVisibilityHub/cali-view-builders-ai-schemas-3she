@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common ADU myths you shouldn't believe",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about adding an Accessory Dwelling Unit (ADU) to your Los Angeles home? That's awesome! ADUs offer so much potential, from boosting property value to providing extra income or space for family. But like any big home project, there are a lot of misconceptions floating around that can make the process seem more daunting than it is. Let's clear up some common ADU myths so you can approach your project with confidence.\n\nMyth: ADUs are only for rental income. Fact: While many homeowners do rent out their ADUs, they're incredibly versatile! They can be perfect for aging parents, adult children needing their own space, a dedicated home office, an art studio, or even a private gym. Their primary purpose is to add functional, flexible living space to your property.\n\nMyth: Building an ADU is super complicated and takes forever. Fact: It can feel complex, especially with permits, but working with an experienced design-build contractor simplifies the entire process. A licensed general contractor, like Cali View Builders, handles permit coordination, design, and construction, making it a single, streamlined project path for you. They’ve been serving Los Angeles since 2013, making complex projects manageable.\n\nMyth: ADUs are always brand new, detached structures. Fact: Not at all! While new detached ADUs are popular, you also have options like converting an existing garage into a living space, or adding an attached ADU to your current home. Garage conversions, for example, are a very popular and often more cost-effective ADU solution in Los Angeles County.\n\nMyth: You can build an ADU anywhere you want on your property. Fact: There are specific setback requirements and zoning regulations in Los Angeles that dictate where an ADU can be placed. An experienced builder will know these rules inside and out and ensure your design complies with all local ordinances. They'll confirm property-specific requirements before construction begins. Don't let these myths hold you back from exploring the real potential an ADU can bring to your home. Consult with a knowledgeable local builder to get accurate information about your specific property and project.",
+  "datePublished": "2026-09-02"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-difference-between-a-foundation-inspection-and-a-structural-engineer",
+  "name": "What is the difference between a foundation inspection and a structural engineering report for retrofitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a foundation inspection and a structural engineering report for retrofitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A foundation inspection, often conducted by a contractor, assesses the visible condition of your foundation to identify potential issues like cracks or settling. A structural engineering report, however, goes deeper. A licensed structural engineer will analyze your home's entire load-bearing system, including the foundation, framing, and roof, specifically for seismic vulnerabilities. They provide detailed calculations, design recommendations, and often blueprints for the precise retrofit work required, which is often mandatory for permitting complex projects.",
+        "@type": "Answer",
+        "description": "A foundation inspection checks visible conditions, while a structural engineering report provides detailed seismic vulnerability analysis and design recommendations for retrofitting."
+      }
+    }
+  ],
+  "description": "A foundation inspection checks visible conditions, while a structural engineering report provides detailed seismic vulnerability analysis and design recommendat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-to-be-home-while-interior-painting-is-being-done",
+  "name": "Do I need to be home while interior painting is being done?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home while interior painting is being done?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary to be present for the entire duration of the painting project, it is advisable to be available for initial walk-throughs, color confirmations, and the final inspection. Being accessible for questions or decisions can help ensure the project progresses smoothly and meets your expectations. Most contractors are comfortable working in your home independently once instructions are clear.",
+        "@type": "Answer",
+        "description": "You don't need to be home throughout, but be available for initial discussions, color confirmations, and final inspection to ensure the project meets your expectations."
+      }
+    }
+  ],
+  "description": "You don't need to be home throughout, but be available for initial discussions, color confirmations, and final inspection to ensure the project meets your expec"
+}

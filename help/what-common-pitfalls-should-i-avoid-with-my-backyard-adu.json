@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Common Pitfalls Should I Avoid with My Backyard ADU?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a backyard ADU is a fantastic way to add space and value, but it's easy to stumble into some common traps. One major pitfall is not fully understanding the permitting process. It's more than just filling out forms; you need to ensure your plans comply with all local zoning laws and building codes, which can be tricky in areas like Studio City or Glendale. Another mistake is underestimating utility connections. Getting water, sewer, and electrical lines to your new ADU can be a significant undertaking, and ignoring this early on can lead to costly surprises later. Many homeowners also overlook the design details that make an ADU truly functional and comfortable, trying to squeeze too much into a small footprint or neglecting natural light. Don't forget about site access, either; if large equipment can't easily get to your backyard, it adds time and expense. And finally, relying on unvetted contractors can lead to shoddy work and project delays. To avoid these issues, start with a solid plan, get multiple quotes, and always verify your contractor's licensing and insurance. A knowledgeable general contractor like Cali View Builders can help you navigate these challenges and ensure your ADU project runs smoothly from start to finish.",
+  "datePublished": "2026-09-02"
+}

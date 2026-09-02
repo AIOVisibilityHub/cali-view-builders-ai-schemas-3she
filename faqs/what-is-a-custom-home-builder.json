@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-a-custom-home-builder",
+  "name": "What is a custom home builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a custom home builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom home builder designs and constructs unique homes tailored to a client's specific vision, needs, and preferences. Unlike tract home builders who offer pre-designed floor plans, a custom builder works closely with you from concept to completion, allowing for complete personalization of architectural style, layout, materials, and finishes. This collaborative approach ensures your new home perfectly reflects your lifestyle and tastes, providing a one-of-a-kind living space.",
+        "@type": "Answer",
+        "description": "A custom home builder designs and constructs unique homes tailored to a client's specific vision and needs, offering complete personalization."
+      }
+    }
+  ],
+  "description": "A custom home builder designs and constructs unique homes tailored to a client's specific vision and needs, offering complete personalization."
+}

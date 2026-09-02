@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Misconceptions About Attached ADU Construction",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to hear all sorts of things about building an attached Accessory Dwelling Unit (ADU) that might not be quite right. Let's clear up some common misconceptions so you can make informed decisions about your Los Angeles property, whether you're in Studio City or Redondo Beach. \n\nMyth: Attached ADUs are just glorified room additions. \nFact: While they share a wall with your main house, an attached ADU is a completely separate dwelling with its own kitchen, bathroom, and entrance. It's designed to be a self-sufficient living space, unlike a simple room addition that typically expands an existing area of your home. This distinction is crucial for legal and functional purposes, offering true independence for its occupants. \n\nMyth: Building an attached ADU will always be super expensive. \nFact: The cost can vary, of course, but attached ADUs are often more budget-friendly than detached units. Since they can tie into existing utility lines (like plumbing and electrical) and sometimes use a shared foundation or roof, they can require less new infrastructure. Our team helps homeowners in places like Burbank and Culver City find cost-effective solutions without compromising quality. \n\nMyth: An attached ADU will make my main house feel smaller or less private. \nFact: A well-designed attached ADU actually enhances your property's overall functionality and value. Our design-build approach focuses on smart layouts and thoughtful integration, ensuring both your main home and the ADU maintain their privacy and comfort. Strategic entrances, soundproofing, and window placement are all part of our planning to create harmonious living. \n\nMyth: Getting permits for an attached ADU is nearly impossible. \nFact: While permitting always requires diligence, recent changes in California law have made ADU approvals much more streamlined. As a licensed Los Angeles general contractor, we're well-versed in local regulations for areas like Sherman Oaks and Beverly Hills. We handle all the permit coordination, making the process as straightforward as possible for you. \n\nMyth: Attached ADUs are only good for rental income. \nFact: While rental income is a popular benefit, attached ADUs serve many purposes! They can be perfect for multi-generational living, a dedicated home office, an art studio, or a comfortable guest suite. The flexibility they offer is immense, allowing you to tailor the space to your specific needs and lifestyle. \n\nReady to explore the realities of attached ADU construction? Cali View Builders is here to provide clarity and expertise for your project. Contact us today!",
+  "datePublished": "2026-09-02"
+}

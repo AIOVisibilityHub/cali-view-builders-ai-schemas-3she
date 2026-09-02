@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the different types of ADUs, and which is right for me?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s easy to get confused about all the different types of Accessory Dwelling Units (ADUs) out there, but understanding your options is the first step to finding the perfect fit for your property in Los Angeles. From Woodland Hills to Tarzana, homeowners have several great choices, each with its own advantages. Let’s break them down.\n\n**Myth:** All ADUs are tiny homes built from scratch in the backyard.\n**Fact:** While detached ADUs are popular, there are many forms. They can be purpose-built, but also converted from existing structures or integrated into your main home. The best type really depends on your needs and property layout.\n\n**Myth:** Garage conversions are always the cheapest and easiest option.\n**Fact:** Garage conversions are definitely cost-effective and popular in areas like Marina Del Rey or Malibu, but they come with specific challenges like foundation work, utility hookups, and insulation. Sometimes a new detached unit makes more sense structurally or functionally.\n\n**Myth:** You can only build an ADU if you have a huge backyard.\n**Fact:** Not at all! The exact size and placement are determined by local zoning and lot specifics. Attached ADUs or even Junior ADUs (JADUs) within your existing home can be great solutions for smaller lots, offering additional space without needing a massive footprint.\n\n**Myth:** ADU design is one-size-fits-all.\n**Fact:** Absolutely not. The best ADU reflects your lifestyle and property. Whether it’s a modern guest house, a cozy rental, or a spacious home office, the design should be tailored to your vision and the property's unique characteristics. A good contractor will work with you to create a custom solution.",
+  "datePublished": "2026-09-02"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-kind-of-warranty-do-you-offer-on-your-roofing-services",
+  "name": "What kind of warranty do you offer on your roofing services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty do you offer on your roofing services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide comprehensive warranties that cover both the roofing materials and our workmanship. The specific duration and terms of the material warranty depend on the manufacturer and the product selected, often ranging from 20 years to a lifetime. Our workmanship warranty ensures that our installation meets the highest standards and covers any defects arising from the installation process for a specified period. We will provide detailed warranty information for your specific project.",
+        "@type": "Answer",
+        "description": "We offer warranties covering both roofing materials (manufacturer-specific) and our workmanship. Details vary by product and project."
+      }
+    }
+  ],
+  "description": "We offer warranties covering both roofing materials (manufacturer-specific) and our workmanship. Details vary by product and project."
+}

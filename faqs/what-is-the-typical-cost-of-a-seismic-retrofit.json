@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-of-a-seismic-retrofit",
+  "name": "What is the typical cost of a seismic retrofit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a seismic retrofit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a seismic retrofit varies significantly depending on the type and size of your property, its current structural condition, and the specific retrofitting methods required. Smaller homes might range from a few thousand dollars, while larger or more complex projects can be considerably more. Factors like the extent of foundation work, cripple wall bracing, and the need for engineering plans all influence the final price. It's best to obtain a detailed estimate after a site-specific assessment.",
+        "@type": "Answer",
+        "description": "Costs vary based on property size, condition, and retrofit methods, ranging from thousands for smaller homes to more for larger projects."
+      }
+    }
+  ],
+  "description": "Costs vary based on property size, condition, and retrofit methods, ranging from thousands for smaller homes to more for larger projects."
+}

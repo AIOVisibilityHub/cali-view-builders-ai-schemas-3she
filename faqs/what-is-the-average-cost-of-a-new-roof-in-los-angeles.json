@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-average-cost-of-a-new-roof-in-los-angeles",
+  "name": "What is the average cost of a new roof in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a new roof in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roof in the Los Angeles area varies significantly based on factors such as the roof's size, pitch, accessibility, and the materials chosen (e.g., asphalt shingles, tile, metal). Additional costs may arise from old roof removal, structural repairs, or special features. We provide detailed, transparent quotes after a thorough inspection to ensure you understand all aspects of the investment. We aim to offer competitive pricing for quality craftsmanship.",
+        "@type": "Answer",
+        "description": "New roof costs in Los Angeles depend on size, pitch, materials, and complexity. A professional inspection is needed for an accurate quote."
+      }
+    }
+  ],
+  "description": "New roof costs in Los Angeles depend on size, pitch, materials, and complexity. A professional inspection is needed for an accurate quote."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-know-if-my-house-needs-an-earthquake-retrofit",
+  "name": "How do I know if my house needs an earthquake retrofit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my house needs an earthquake retrofit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes, especially those built before 1980, are often good candidates for earthquake retrofitting, as they may lack modern seismic protections. Key indicators include cripple walls in the crawl space that are not braced, houses not bolted to their foundations, and unreinforced masonry foundations. A professional inspection by an experienced contractor can identify specific vulnerabilities and determine the most effective retrofit solutions for your property.",
+        "@type": "Answer",
+        "description": "Older homes, particularly those built before 1980 with unbraced cripple walls or unbolted foundations, often require retrofitting. A professional inspection can confirm this."
+      }
+    }
+  ],
+  "description": "Older homes, particularly those built before 1980 with unbraced cripple walls or unbolted foundations, often require retrofitting. A professional inspection can"
+}

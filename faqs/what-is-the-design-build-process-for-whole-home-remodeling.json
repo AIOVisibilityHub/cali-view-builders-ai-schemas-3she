@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-design-build-process-for-whole-home-remodeling",
+  "name": "What is the design-build process for whole home remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design-build process for whole home remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design-build process integrates design and construction services under a single contract with one entity, which is the design-build firm. This approach streamlines communication and responsibility, as the contractor is responsible for both the architectural plans and the physical construction. It often leads to a more efficient project timeline, better cost control, and a more cohesive vision from concept to completion. The design-build firm will manage architects, designers, and construction teams collaboratively from the outset.",
+        "@type": "Answer",
+        "description": "Design-build integrates design and construction under one contract, streamlining communication, cost control, and project execution."
+      }
+    }
+  ],
+  "description": "Design-build integrates design and construction under one contract, streamlining communication, cost control, and project execution."
+}

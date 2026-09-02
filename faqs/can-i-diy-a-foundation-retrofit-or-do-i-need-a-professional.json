@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-diy-a-foundation-retrofit-or-do-i-need-a-professional",
+  "name": "Can I DIY a foundation retrofit, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I DIY a foundation retrofit, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor home improvement tasks can be DIY, foundation retrofitting is a complex structural project that typically requires professional expertise. It involves understanding seismic engineering principles, local building codes, and using specialized techniques to ensure the safety and integrity of your home. Improperly executed retrofitting can be ineffective or even create new hazards. It's strongly recommended to hire a licensed and experienced foundation retrofit contractor to ensure the work is done correctly and safely.",
+        "@type": "Answer",
+        "description": "Foundation retrofitting is a complex structural project requiring professional expertise to ensure safety and compliance with building codes."
+      }
+    }
+  ],
+  "description": "Foundation retrofitting is a complex structural project requiring professional expertise to ensure safety and compliance with building codes."
+}

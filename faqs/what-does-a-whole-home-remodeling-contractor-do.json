@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-does-a-whole-home-remodeling-contractor-do",
+  "name": "What does a whole home remodeling contractor do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a whole home remodeling contractor do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole home remodeling contractor manages all aspects of transforming your entire house. This includes initial design consultation, architectural and engineering plans, securing necessary permits, demolition, and all construction phases such as framing, plumbing, electrical, HVAC, flooring, cabinetry, and finishes. They coordinate subcontractors, ensure project timelines are met, manage the budget, and serve as the main point of contact throughout the renovation, from start to finish.",
+        "@type": "Answer",
+        "description": "A whole home remodeling contractor manages all aspects of a full house renovation, from design and permits to construction and finishes."
+      }
+    }
+  ],
+  "description": "A whole home remodeling contractor manages all aspects of a full house renovation, from design and permits to construction and finishes."
+}

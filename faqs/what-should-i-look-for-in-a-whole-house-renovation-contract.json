@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-in-a-whole-house-renovation-contract",
+  "name": "What should I look for in a whole house renovation contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a whole house renovation contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive whole house renovation contract should clearly outline the scope of work, including detailed specifications for materials, finishes, and specific tasks. It should also include a clear payment schedule, project timeline with milestones, and clauses addressing change orders, warranties, and dispute resolution. Ensure it specifies insurance coverage, lien waivers, and who is responsible for obtaining permits. Review it thoroughly to understand all terms and conditions before signing.",
+        "@type": "Answer",
+        "description": "A contract should detail scope of work, materials, payment schedule, timeline, change order process, warranties, insurance, and permit responsibilities."
+      }
+    }
+  ],
+  "description": "A contract should detail scope of work, materials, payment schedule, timeline, change order process, warranties, insurance, and permit responsibilities."
+}

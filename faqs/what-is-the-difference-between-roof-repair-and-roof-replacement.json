@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-difference-between-roof-repair-and-roof-replacement",
+  "name": "What is the difference between roof repair and roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between roof repair and roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof repair involves fixing specific damaged sections of your existing roof to restore its integrity and prevent further issues. This is often suitable for localized damage or minor leaks. Roof replacement, on the other hand, entails removing the entire old roofing system and installing a completely new one. This option is typically chosen when a roof is extensively damaged, past its lifespan, or when upgrading to a different material. We can assess your roof to recommend the most cost-effective and appropriate solution.",
+        "@type": "Answer",
+        "description": "Roof repair fixes specific damaged areas, while replacement involves installing an entirely new roofing system. The choice depends on the extent of damage."
+      }
+    }
+  ],
+  "description": "Roof repair fixes specific damaged areas, while replacement involves installing an entirely new roofing system. The choice depends on the extent of damage."
+}

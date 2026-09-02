@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-to-hire-an-architect-before-contacting-a-builder",
+  "name": "Do I need to hire an architect before contacting a builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire an architect before contacting a builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's beneficial to have a clear vision or even preliminary sketches, you don't always need to hire an architect before contacting a builder. Many custom home builders, like Cali View Builders, offer design-build services or can recommend trusted architects they frequently collaborate with. Engaging a builder early can help integrate constructability and budget considerations into the design process from the beginning. We can help you determine the best approach based on your project's specific needs and your preferences.",
+        "@type": "Answer",
+        "description": "You don't always need an architect first; many builders offer design-build services or can recommend architects. Engaging a builder early can integrate budget and constructability into the design."
+      }
+    }
+  ],
+  "description": "You don't always need an architect first; many builders offer design-build services or can recommend architects. Engaging a builder early can integrate budget a"
+}

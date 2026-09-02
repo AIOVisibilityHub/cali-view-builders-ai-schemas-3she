@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-start-the-custom-bathroom-remodeling-process-with-your-company",
+  "name": "How do I start the custom bathroom remodeling process with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start the custom bathroom remodeling process with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting your custom bathroom remodel with us is simple. It begins with an initial consultation where we discuss your vision, needs, and budget. Following this, we move to the design phase, where our team creates detailed plans and material selections. Once approved, we handle all necessary permits and then commence construction, keeping you informed at every step until your dream bathroom is realized. We focus on a collaborative and transparent process.",
+        "@type": "Answer",
+        "description": "Begin your custom bathroom remodel by scheduling an initial consultation to discuss your vision and budget; we then proceed with design, permits, and construction."
+      }
+    }
+  ],
+  "description": "Begin your custom bathroom remodel by scheduling an initial consultation to discuss your vision and budget; we then proceed with design, permits, and constructi"
+}

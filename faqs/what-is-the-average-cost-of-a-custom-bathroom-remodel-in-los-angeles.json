@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-average-cost-of-a-custom-bathroom-remodel-in-los-angeles",
+  "name": "What is the average cost of a custom bathroom remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a custom bathroom remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom bathroom remodel in Los Angeles can vary widely, typically ranging from $25,000 to $60,000+, depending on factors like bathroom size, material selections, fixture quality, and the extent of structural or plumbing changes. High-end finishes, custom cabinetry, and luxury features will increase the investment. We provide a transparent, detailed estimate after understanding your specific design preferences and project scope during the initial consultation.",
+        "@type": "Answer",
+        "description": "In Los Angeles, custom bathroom remodels typically range from $25,000 to over $60,000, influenced by size, materials, and design complexity."
+      }
+    }
+  ],
+  "description": "In Los Angeles, custom bathroom remodels typically range from $25,000 to over $60,000, influenced by size, materials, and design complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-the-benefits-of-seismic-retrofitting-my-property",
+  "name": "What are the benefits of seismic retrofitting my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of seismic retrofitting my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seismic retrofitting offers several significant benefits. Primarily, it enhances the safety of your home and its occupants by reducing the risk of structural failure during an earthquake. This can prevent costly damage, minimize repair times, and preserve the value of your property. In some cases, retrofitting may also qualify you for reduced earthquake insurance premiums. Beyond the financial aspects, it provides peace of mind knowing your home is better prepared for seismic events common in Southern California.",
+        "@type": "Answer",
+        "description": "Benefits include enhanced safety, reduced damage costs, preserved property value, potential insurance savings, and peace of mind during earthquakes."
+      }
+    }
+  ],
+  "description": "Benefits include enhanced safety, reduced damage costs, preserved property value, potential insurance savings, and peace of mind during earthquakes."
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Making Your Room Addition Feel Like It's Always Been There",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You’re adding a new room, which is awesome! But the last thing you want is for it to stick out like a sore thumb. The goal for any room addition, whether it's a new bedroom, an expanded living area, or a dedicated home office, is for it to blend seamlessly with your existing home. Achieving this cohesive look and feel requires thoughtful planning and execution.\n\nFirst, consistency in architectural style is key. Pay attention to details like roofline, window types, and exterior finishes. You want the new structure to complement, not clash with, the original design. Inside, consider the flow. How will people move from the old space to the new? Ensuring consistent flooring, trim, and paint colors can make a huge difference in creating a unified feel. Even subtle elements like door styles and hardware matter.\n\nLighting is another often-overlooked factor. Match natural light sources and artificial lighting fixtures so the new room doesn't feel isolated or oddly lit. Lastly, working with a design-build team like Cali View Builders, who specializes in room additions across Los Angeles, ensures that these details are coordinated from initial planning through to the final finishes. They’ll help you create a new space that feels natural, functional, and truly part of your home.",
+  "datePublished": "2026-09-02"
+}

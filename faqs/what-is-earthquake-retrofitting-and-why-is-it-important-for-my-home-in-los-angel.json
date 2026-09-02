@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-earthquake-retrofitting-and-why-is-it-important-for-my-home-in-los-angel",
+  "name": "What is earthquake retrofitting and why is it important for my home in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is earthquake retrofitting and why is it important for my home in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Earthquake retrofitting involves reinforcing a building's structure to make it more resistant to seismic activity. This typically includes strengthening the connection between the house and its foundation, bracing cripple walls, and securing water heaters. For homes in seismically active areas like Los Angeles, retrofitting can significantly reduce the risk of structural damage, prevent homes from sliding off their foundations, and enhance the safety of occupants during an earthquake. It's a proactive measure to protect your investment and ensure peace of mind.",
+        "@type": "Answer",
+        "description": "Earthquake retrofitting reinforces your home against seismic activity, protecting it from damage and improving safety in areas like Los Angeles."
+      }
+    }
+  ],
+  "description": "Earthquake retrofitting reinforces your home against seismic activity, protecting it from damage and improving safety in areas like Los Angeles."
+}

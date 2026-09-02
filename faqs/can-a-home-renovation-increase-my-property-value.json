@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-a-home-renovation-increase-my-property-value",
+  "name": "Can a home renovation increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a home renovation increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-executed home renovation can significantly increase your property value, especially in competitive markets like Los Angeles. Kitchen and bathroom remodels often yield the highest return on investment, as do adding functional living space or improving curb appeal. However, the extent of the value increase depends on the quality of the work, the choices of materials, and how well the renovation aligns with current market trends and buyer expectations in your neighborhood.",
+        "@type": "Answer",
+        "description": "Yes, well-executed renovations, especially kitchens and bathrooms, can increase property value. The return depends on quality, materials, and market trends."
+      }
+    }
+  ],
+  "description": "Yes, well-executed renovations, especially kitchens and bathrooms, can increase property value. The return depends on quality, materials, and market trends."
+}

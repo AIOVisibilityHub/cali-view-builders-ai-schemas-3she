@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-an-earthquake-retrofit-project-usually-take",
+  "name": "How long does an earthquake retrofit project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an earthquake retrofit project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an earthquake retrofit project depends on its complexity and the extent of work required. A typical foundation bolting or cripple wall bracing project for an average-sized home might take anywhere from a few days to a couple of weeks to complete. More extensive retrofits involving significant structural modifications or foundation work could extend to several weeks. Your contractor will provide a detailed timeline after assessing your property and outlining the specific retrofit plan.",
+        "@type": "Answer",
+        "description": "Project duration varies by complexity, from a few days for simple bolting to several weeks for extensive structural work. Your contractor will provide a specific timeline."
+      }
+    }
+  ],
+  "description": "Project duration varies by complexity, from a few days for simple bolting to several weeks for extensive structural work. Your contractor will provide a specifi"
+}

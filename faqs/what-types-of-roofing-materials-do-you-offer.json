@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-types-of-roofing-materials-do-you-offer",
+  "name": "What types of roofing materials do you offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials do you offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer a wide range of roofing materials to suit various aesthetic preferences, budgets, and performance requirements for properties in the Los Angeles area. Our options include durable asphalt shingles, traditional clay or concrete tiles popular for their longevity and Mediterranean style, energy-efficient metal roofing, and flat roofing solutions for commercial or modern residential properties. We can discuss the benefits and drawbacks of each type to help you select the best fit for your home.",
+        "@type": "Answer",
+        "description": "We offer asphalt shingles, clay/concrete tiles, metal roofing, and flat roofing solutions. We help clients choose the best material for their needs."
+      }
+    }
+  ],
+  "description": "We offer asphalt shingles, clay/concrete tiles, metal roofing, and flat roofing solutions. We help clients choose the best material for their needs."
+}

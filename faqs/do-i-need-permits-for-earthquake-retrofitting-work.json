@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-permits-for-earthquake-retrofitting-work",
+  "name": "Do I need permits for earthquake retrofitting work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for earthquake retrofitting work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, almost all earthquake retrofit projects require permits from your local building department, such as the Department of Building and Safety in Los Angeles. This ensures that the work complies with current building codes and seismic safety standards. A qualified contractor will typically handle the permit application process, including submitting necessary plans and facilitating inspections. Proceeding without proper permits can lead to legal issues, fines, and potentially unsafe construction.",
+        "@type": "Answer",
+        "description": "Yes, most earthquake retrofit projects require permits from your local building department to ensure compliance with building codes. A qualified contractor usually handles this process."
+      }
+    }
+  ],
+  "description": "Yes, most earthquake retrofit projects require permits from your local building department to ensure compliance with building codes. A qualified contractor usua"
+}

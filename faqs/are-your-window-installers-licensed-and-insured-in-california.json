@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/are-your-window-installers-licensed-and-insured-in-california",
+  "name": "Are your window installers licensed and insured in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your window installers licensed and insured in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Cali View Builders ensures that all our window installation technicians are fully licensed and insured to work in California. Our team adheres to all state and local building codes and industry best practices. This provides peace of mind, knowing that your project is handled by qualified professionals who prioritize safety and quality, and that you are protected against unforeseen circumstances during the installation process.",
+        "@type": "Answer",
+        "description": "Yes, all our window installers are fully licensed and insured in California, adhering to state and local building codes and industry best practices."
+      }
+    }
+  ],
+  "description": "Yes, all our window installers are fully licensed and insured in California, adhering to state and local building codes and industry best practices."
+}

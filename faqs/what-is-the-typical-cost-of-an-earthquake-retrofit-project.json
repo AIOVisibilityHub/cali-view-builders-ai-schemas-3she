@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-of-an-earthquake-retrofit-project",
+  "name": "What is the typical cost of an earthquake retrofit project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of an earthquake retrofit project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an earthquake retrofit varies widely depending on the size and age of the home, its specific structural vulnerabilities, and the type of retrofit needed. Simple foundation bolting might start in the low thousands, while more extensive work involving cripple wall bracing, shear wall installation, or foundation repair can range from several thousand to tens of thousands of dollars. An on-site assessment by a contractor is necessary to provide an accurate estimate tailored to your property's unique requirements.",
+        "@type": "Answer",
+        "description": "Retrofit costs vary based on home size, age, and scope of work. Simple bolting can be thousands, while extensive work can be tens of thousands. An assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Retrofit costs vary based on home size, age, and scope of work. Simple bolting can be thousands, while extensive work can be tens of thousands. An assessment pr"
+}

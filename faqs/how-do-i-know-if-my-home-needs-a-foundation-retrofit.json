@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-know-if-my-home-needs-a-foundation-retrofit",
+  "name": "How do I know if my home needs a foundation retrofit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home needs a foundation retrofit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes built before 1979 in California are often good candidates for foundation retrofitting, especially if they are on a raised foundation with cripple walls. Signs like an unbolted foundation, unbraced cripple walls, or living in an earthquake-prone area indicate a potential need. A professional inspection by a structural engineer or a qualified foundation retrofit contractor can assess your home's specific vulnerabilities and determine if a retrofit is recommended to enhance its seismic resilience.",
+        "@type": "Answer",
+        "description": "Homes built before 1979 or those with unbolted foundations and unbraced cripple walls often need retrofitting. A professional inspection confirms the need."
+      }
+    }
+  ],
+  "description": "Homes built before 1979 or those with unbolted foundations and unbraced cripple walls often need retrofitting. A professional inspection confirms the need."
+}

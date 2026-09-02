@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-included-in-a-whole-house-renovation",
+  "name": "What is included in a whole house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a whole house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole house renovation typically involves comprehensive changes to most or all areas of a home. This can include structural modifications, reconfiguring layouts, updating kitchens and bathrooms, replacing flooring, windows, and doors, and upgrading electrical and plumbing systems. It often addresses aesthetic improvements and functional enhancements to create a cohesive and modernized living space. The scope is highly customized based on the homeowner's goals and the existing condition of the property.",
+        "@type": "Answer",
+        "description": "A whole house renovation comprehensively updates most or all areas of a home, including structural changes, layout reconfigurations, and system upgrades."
+      }
+    }
+  ],
+  "description": "A whole house renovation comprehensively updates most or all areas of a home, including structural changes, layout reconfigurations, and system upgrades."
+}

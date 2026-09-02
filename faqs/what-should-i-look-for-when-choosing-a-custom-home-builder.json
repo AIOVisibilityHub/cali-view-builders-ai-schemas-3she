@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-when-choosing-a-custom-home-builder",
+  "name": "What should I look for when choosing a custom home builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a custom home builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a custom home builder, prioritize experience, reputation, and transparency. Look for builders with a strong portfolio of custom homes, positive client testimonials, and clear communication regarding timelines and budgets. Verify their licensing and insurance. A reputable builder should also demonstrate expertise in local building codes and regulations, especially in specific Los Angeles communities, and offer a collaborative approach to design and construction.",
+        "@type": "Answer",
+        "description": "Look for experience, a strong portfolio, positive testimonials, transparent communication, proper licensing, and local building code expertise."
+      }
+    }
+  ],
+  "description": "Look for experience, a strong portfolio, positive testimonials, transparent communication, proper licensing, and local building code expertise."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-typical-home-renovation-project-take",
+  "name": "How long does a typical home renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home renovation project varies greatly depending on its scope and complexity. A smaller project like a bathroom refresh might take a few weeks, while a full kitchen remodel could last 2-3 months. Larger projects, such as whole-home renovations or additions, can extend for 6 months or more. Factors like material lead times, permitting processes, and unforeseen structural issues can also affect the timeline. We provide a detailed project schedule at the outset.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope; smaller renovations take weeks, while larger ones can take several months. Material lead times and permitting also affect timelines."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope; smaller renovations take weeks, while larger ones can take several months. Material lead times and permitting also affect tim"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/are-your-bathroom-renovation-services-available-in-burbank-and-glendale",
+  "name": "Are your bathroom renovation services available in Burbank and Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your bathroom renovation services available in Burbank and Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Cali View Builders proudly serves several communities in the Greater Los Angeles area, including Burbank and Glendale. Our team is experienced with the specific requirements and styles prevalent in these areas. We offer full-service bathroom renovation solutions to residents in Burbank, Glendale, and other locations like Los Angeles, North Hollywood, and Sherman Oaks.",
+        "@type": "Answer",
+        "description": "Yes, Cali View Builders offers full-service bathroom renovation in Burbank and Glendale, as well as Los Angeles, North Hollywood, and Sherman Oaks."
+      }
+    }
+  ],
+  "description": "Yes, Cali View Builders offers full-service bathroom renovation in Burbank and Glendale, as well as Los Angeles, North Hollywood, and Sherman Oaks."
+}

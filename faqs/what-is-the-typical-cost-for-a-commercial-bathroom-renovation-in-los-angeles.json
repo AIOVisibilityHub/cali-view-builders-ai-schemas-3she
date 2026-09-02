@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-for-a-commercial-bathroom-renovation-in-los-angeles",
+  "name": "What is the typical cost for a commercial bathroom renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a commercial bathroom renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a commercial bathroom renovation in the Los Angeles area depends on various factors, such as the size of the space, the quality of materials chosen, the extent of plumbing and electrical work required, and compliance with local building codes and ADA standards. Basic remodels might start from a certain price point, while custom designs with high-end finishes and significant layout changes will be considerably more. We provide detailed, transparent quotes after an initial consultation to accurately assess your specific project needs and budget.",
+        "@type": "Answer",
+        "description": "Costs for commercial bathroom renovations in Los Angeles vary based on size, material quality, plumbing/electrical work, and code compliance. We provide detailed quotes after consultation."
+      }
+    }
+  ],
+  "description": "Costs for commercial bathroom renovations in Los Angeles vary based on size, material quality, plumbing/electrical work, and code compliance. We provide detaile"
+}

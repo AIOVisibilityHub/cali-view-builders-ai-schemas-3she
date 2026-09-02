@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-permits-for-a-bathroom-renovation-in-los-angeles",
+  "name": "Do I need permits for a bathroom renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are often required for bathroom renovations in Los Angeles, especially if the project involves altering the structural layout, changing plumbing or electrical systems, or expanding the bathroom's footprint. Minor cosmetic updates, like painting or replacing fixtures in existing locations, typically do not require permits. We handle all necessary permit applications and inspections to ensure your renovation complies with local building codes.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, plumbing, or electrical changes in Los Angeles bathroom renovations. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, plumbing, or electrical changes in Los Angeles bathroom renovations. We manage the permitting process."
+}

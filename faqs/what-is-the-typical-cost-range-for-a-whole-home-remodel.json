@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-range-for-a-whole-home-remodel",
+  "name": "What is the typical cost range for a whole home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a whole home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for a whole home remodel varies widely based on factors such as the size of your home, the extent of structural changes, the quality of materials chosen, and finishes. A full renovation can range from $100-$300+ per square foot. For example, a 1,500 sq ft home could cost between $150,000 and $450,000 or more. This estimate includes labor, materials, permits, and contractor fees. A detailed proposal will be provided after an assessment of your specific project requirements.",
+        "@type": "Answer",
+        "description": "Whole home remodel costs typically range from $100-$300+ per square foot, varying by project scope and material choices."
+      }
+    }
+  ],
+  "description": "Whole home remodel costs typically range from $100-$300+ per square foot, varying by project scope and material choices."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-when-choosing-a-roof-replacement-contractor",
+  "name": "What should I look for when choosing a roof replacement contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a roof replacement contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a roof replacement contractor, prioritize experience, local reputation, and proper licensing and insurance. Look for contractors with a strong portfolio of completed projects and positive customer reviews, particularly in your service area like Studio City or Sherman Oaks. Ensure they provide a detailed contract, clear communication, and offer warranties on both materials and workmanship. A reliable contractor like Cali View Builders will be transparent about their process, provide accurate estimates, and answer all your questions thoroughly, giving you confidence in your decision.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, a strong local reputation, proper licensing, and insurance. Look for clear contracts, good communication, and warranties on materials and workmanship."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, a strong local reputation, proper licensing, and insurance. Look for clear contracts, good communication, and warranties on"
+}

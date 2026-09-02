@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-know-if-i-need-new-windows-for-my-home",
+  "name": "How do I know if I need new windows for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need new windows for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate it might be time to replace your windows. These include noticeable drafts, difficulty opening or closing windows, condensation between glass panes, rising energy bills, or visible damage like rot or decay. Old, inefficient windows can lead to significant heat loss or gain, impacting your home's comfort and energy costs. If you observe these issues, a professional assessment can help determine if replacement is the best solution.",
+        "@type": "Answer",
+        "description": "You may need new windows if you notice drafts, condensation between panes, rising energy bills, or difficulty operating them."
+      }
+    }
+  ],
+  "description": "You may need new windows if you notice drafts, condensation between panes, rising energy bills, or difficulty operating them."
+}

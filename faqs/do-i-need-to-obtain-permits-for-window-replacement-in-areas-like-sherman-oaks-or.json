@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-i-need-to-obtain-permits-for-window-replacement-in-areas-like-sherman-oaks-or",
+  "name": "Do I need to obtain permits for window replacement in areas like Sherman Oaks or Burbank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to obtain permits for window replacement in areas like Sherman Oaks or Burbank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, including Sherman Oaks and Burbank within Los Angeles County, building permits are typically required for window replacement projects, especially if the window opening size is altered or if structural changes are involved. These regulations ensure that installations meet local building codes and safety standards. Cali View Builders can guide you through the permit process, advising on what's needed and assisting with the application to ensure full compliance.",
+        "@type": "Answer",
+        "description": "Yes, permits are often required for window replacement in areas like Sherman Oaks and Burbank, especially if openings are altered. Cali View Builders can assist with the permit process."
+      }
+    }
+  ],
+  "description": "Yes, permits are often required for window replacement in areas like Sherman Oaks and Burbank, especially if openings are altered. Cali View Builders can assist"
+}

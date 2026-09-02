@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-common-signs-i-need-a-new-roof",
+  "name": "What are common signs I need a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs I need a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators you may need a new roof include missing or cracked shingles, granules in your gutters, a sagging roof deck, or water stains on your ceilings. These issues can compromise your home's structural integrity and lead to more extensive damage if not addressed promptly. Regular inspections can help identify these signs early, preventing minor problems from escalating into costly repairs. If you notice any of these symptoms, it's advisable to have a professional roofing contractor assess your roof's condition to determine the best course of action.",
+        "@type": "Answer",
+        "description": "Signs include missing or cracked shingles, granules in gutters, a sagging roof, or water stains indoors. These indicate potential damage needing professional assessment."
+      }
+    }
+  ],
+  "description": "Signs include missing or cracked shingles, granules in gutters, a sagging roof, or water stains indoors. These indicate potential damage needing professional as"
+}

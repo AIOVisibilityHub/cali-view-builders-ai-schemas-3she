@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-s-the-difference-between-a-custom-remodel-and-a-standard-bathroom-renovatio",
+  "name": "What's the difference between a custom remodel and a standard bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a custom remodel and a standard bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathroom renovation typically involves updating existing fixtures and finishes with readily available options, often within the current layout. It focuses on cosmetic changes or like-for-like replacements to refresh the space. A custom remodel, however, goes deeper, allowing for complete layout changes, unique material sourcing, and bespoke design elements tailored precisely to your vision. It offers greater personalization and often involves more extensive structural or utility modifications.",
+        "@type": "Answer",
+        "description": "A standard renovation updates existing features, while a custom remodel allows for complete layout changes, unique materials, and bespoke designs tailored to your vision."
+      }
+    }
+  ],
+  "description": "A standard renovation updates existing features, while a custom remodel allows for complete layout changes, unique materials, and bespoke designs tailored to yo"
+}

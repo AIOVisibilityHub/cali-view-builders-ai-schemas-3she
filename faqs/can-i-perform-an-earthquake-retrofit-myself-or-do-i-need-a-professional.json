@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-perform-an-earthquake-retrofit-myself-or-do-i-need-a-professional",
+  "name": "Can I perform an earthquake retrofit myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform an earthquake retrofit myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some very minor, non-structural tasks might be suitable for a skilled DIY enthusiast, comprehensive earthquake retrofitting typically requires the expertise of a licensed professional contractor. Retrofitting involves complex structural engineering principles and adherence to strict building codes to ensure effectiveness and safety. Incorrectly performed work could be ineffective during an earthquake and may not pass inspections. For the safety of your home and family, it is strongly recommended to hire a qualified and experienced professional.",
+        "@type": "Answer",
+        "description": "Comprehensive earthquake retrofitting requires a licensed professional contractor due to complex engineering and strict building codes. Incorrect DIY work can be ineffective and unsafe."
+      }
+    }
+  ],
+  "description": "Comprehensive earthquake retrofitting requires a licensed professional contractor due to complex engineering and strict building codes. Incorrect DIY work can b"
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Worried about permits and planning for a new backyard home?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a new Accessory Dwelling Unit (ADU) in your Los Angeles backyard can feel like a mountain of paperwork and planning. The thought of navigating permits, zoning laws, and design approvals is enough to make anyone a little nervous. But don't let that stop you from exploring the fantastic potential an ADU offers for your property in places like Encino, Van Nuys, or Toluca Lake.\n\nHere’s the good news: you don't have to tackle it all alone. A reputable, licensed general contractor specializing in ADUs, like Cali View Builders, takes the lead on this. We handle the design coordination, engineering, and all the permit applications with local authorities in Los Angeles County. Our process ensures everything complies with the specific requirements for your property, managing inspections and approvals every step of the way. This means less stress for you and a more streamlined path to getting your ADU built. Our family-owned team coordinates everything, providing clarity before construction even begins, so you can relax knowing the planning is in expert hands. We make sure the 'paperwork mountain' is climbed efficiently.",
+  "datePublished": "2026-09-02"
+}

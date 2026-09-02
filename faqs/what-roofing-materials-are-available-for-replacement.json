@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-roofing-materials-are-available-for-replacement",
+  "name": "What roofing materials are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What roofing materials are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cali View Builders offers a variety of roofing materials to suit different aesthetic preferences, performance needs, and budgets. Popular options include durable asphalt shingles, known for their versatility and cost-effectiveness. We also install concrete or clay tiles, which offer excellent longevity and a distinctive Mediterranean or Spanish style, common in Southern California. For a modern look and superior durability, metal roofing systems are available. During your consultation, we can discuss the benefits of each material and help you choose the best fit for your home.",
+        "@type": "Answer",
+        "description": "We offer various roofing materials including asphalt shingles, concrete/clay tiles, and metal roofing. Each material has unique benefits regarding durability, style, and cost."
+      }
+    }
+  ],
+  "description": "We offer various roofing materials including asphalt shingles, concrete/clay tiles, and metal roofing. Each material has unique benefits regarding durability, s"
+}

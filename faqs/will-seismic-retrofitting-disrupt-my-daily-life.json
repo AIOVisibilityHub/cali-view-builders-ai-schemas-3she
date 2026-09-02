@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/will-seismic-retrofitting-disrupt-my-daily-life",
+  "name": "Will seismic retrofitting disrupt my daily life?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will seismic retrofitting disrupt my daily life?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most seismic retrofit projects, especially those focusing on foundation work or crawl spaces, cause minimal disruption to your daily life. You can typically remain in your home during the process. Contractors work to contain dust and noise and maintain a clean work area. For more extensive interior work, there might be temporary inconveniences, but these are usually communicated in advance. Your contractor will discuss potential impacts and measures to mitigate them during the planning phase.",
+        "@type": "Answer",
+        "description": "Most retrofits cause minimal disruption, allowing you to stay home. Contractors aim to minimize noise and maintain cleanliness."
+      }
+    }
+  ],
+  "description": "Most retrofits cause minimal disruption, allowing you to stay home. Contractors aim to minimize noise and maintain cleanliness."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-average-cost-of-a-whole-house-renovation-in-los-angeles",
+  "name": "What is the average cost of a whole house renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a whole house renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a whole house renovation in Los Angeles can vary widely due to factors like home size, the extent of desired changes, material selections, and specific site conditions. A basic refresh might start from $100 per square foot, while a high-end, luxury renovation with extensive structural work and premium finishes could exceed $400 per square foot, or more. It's best to discuss your specific vision with a contractor to receive a detailed, customized estimate tailored to your project and budget.",
+        "@type": "Answer",
+        "description": "Costs vary significantly in Los Angeles, from roughly $100 per square foot for basic updates to over $400 per square foot for luxury renovations, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Costs vary significantly in Los Angeles, from roughly $100 per square foot for basic updates to over $400 per square foot for luxury renovations, depending on s"
+}

@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Myths vs. Facts about Home Additions",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about expanding your living space with a home addition? It's a big decision, and sometimes misconceptions can make it seem more daunting than it is. Let's clear up some common myths so you can approach your project with confidence.\n\nMyth: Home additions are always prohibitively expensive.\nFact: While any construction project is an investment, the cost of a home addition varies wildly depending on its size, complexity, and finishes. Often, it's a far more cost-effective solution than buying a new, larger home, especially when you factor in moving costs, new property taxes, and the emotional value of staying in your current neighborhood. A good contractor will work with you to define a scope that fits your budget.\n\nMyth: You'll have to move out during construction.\nFact: For most residential additions, especially ground-floor room additions, homeowners can typically remain in their homes. While there might be periods of increased noise or disruption, an experienced general contractor will work to minimize the impact on your daily life. They'll plan the project to maintain access to essential areas and ensure safety throughout the build. However, for major second-story additions, a temporary relocation might be recommended for comfort.\n\nMyth: The new addition will never perfectly match the existing house.\nFact: This used to be a common concern, but with today's design and construction techniques, an experienced contractor can seamlessly blend a new addition with your existing home. From matching architectural styles and exterior finishes to integrating interior design elements, a skilled design-build team ensures the addition looks like it was always meant to be there. This thoughtful design coordination is a hallmark of quality work.\n\nMyth: Getting permits is a nightmare and takes forever.\nFact: Navigating permits can be complex, especially in Los Angeles County, but it's not something you have to tackle alone. A reputable general contractor handles all the necessary design, engineering, and permit coordination as part of their service. They have experience with local building departments and can streamline the approval process, making sure your project complies with all regulations without you having to become a permit expert overnight.\n\nMyth: Any general contractor can do a good job on an addition.\nFact: Not all contractors are created equal, especially for complex projects like home additions. You need a licensed, insured, and bonded general contractor with specific experience in residential remodeling and additions. Look for a team that emphasizes clear communication, detailed scopes, and a design-build approach. A family-owned business, like Cali View Builders, often brings a personalized touch and a strong commitment to quality and client satisfaction, ensuring your project is handled with care from start to finish.",
+  "datePublished": "2026-09-02"
+}

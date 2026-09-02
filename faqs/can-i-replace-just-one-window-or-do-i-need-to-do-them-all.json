@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-i-replace-just-one-window-or-do-i-need-to-do-them-all",
+  "name": "Can I replace just one window, or do I need to do them all?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just one window, or do I need to do them all?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You absolutely can replace just one window if it's damaged or if you're looking to upgrade a specific area of your home. There's no requirement to replace all windows simultaneously. However, replacing multiple windows at once can sometimes be more cost-effective due to economies of scale in labor and materials. We can assess your specific situation and help you decide whether a single window replacement or a larger project is the best option for your needs and budget.",
+        "@type": "Answer",
+        "description": "You can replace just one window, though replacing multiple simultaneously might be more cost-effective. We can help you decide the best approach."
+      }
+    }
+  ],
+  "description": "You can replace just one window, though replacing multiple simultaneously might be more cost-effective. We can help you decide the best approach."
+}

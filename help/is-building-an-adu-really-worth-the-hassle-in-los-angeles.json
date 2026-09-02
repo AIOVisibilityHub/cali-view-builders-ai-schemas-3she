@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is building an ADU really worth the hassle in Los Angeles?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You might be wondering if building an Accessory Dwelling Unit (ADU) in Los Angeles is truly worth the effort, and it’s a fair question! The process can seem daunting with permits and construction, but the benefits often far outweigh the initial concerns. Many homeowners across areas like Burbank, Glendale, and Pasadena are finding ADUs to be incredibly valuable assets.\n\nADUs offer fantastic flexibility; they can serve as extra living space for family, a rental unit for additional income, or even a quiet home office away from the main house. Plus, they significantly increase your property value, which is always a smart move in the competitive LA market. While navigating permits and construction might feel like a hassle, the right licensed general contractor will handle all the heavy lifting for you, from design coordination to permit approval. This takes the stress off your shoulders, allowing you to focus on the exciting aspects of your new space. Ultimately, an ADU is a strategic investment that pays dividends in functionality, finances, and long-term property appeal. When you work with an experienced team, the 'hassle' becomes a smooth journey to a valuable new addition.",
+  "datePublished": "2026-09-02"
+}

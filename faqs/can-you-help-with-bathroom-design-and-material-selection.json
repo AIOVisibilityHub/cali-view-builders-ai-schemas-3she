@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/can-you-help-with-bathroom-design-and-material-selection",
+  "name": "Can you help with bathroom design and material selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with bathroom design and material selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our team offers comprehensive design assistance and material selection guidance. We work with you to understand your aesthetic preferences, functional needs, and budget to create a bathroom design that perfectly suits your home. We can recommend and source high-quality tiles, fixtures, cabinetry, and finishes, ensuring a cohesive and beautiful outcome. Our goal is to bring your vision to life with expert advice.",
+        "@type": "Answer",
+        "description": "Yes, we provide full design assistance and material selection guidance to help you choose the best fixtures, tiles, and finishes for your vision."
+      }
+    }
+  ],
+  "description": "Yes, we provide full design assistance and material selection guidance to help you choose the best fixtures, tiles, and finishes for your vision."
+}

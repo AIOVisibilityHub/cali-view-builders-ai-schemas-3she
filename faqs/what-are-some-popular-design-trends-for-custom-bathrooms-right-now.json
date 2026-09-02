@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-are-some-popular-design-trends-for-custom-bathrooms-right-now",
+  "name": "What are some popular design trends for custom bathrooms right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some popular design trends for custom bathrooms right now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current popular design trends for custom bathrooms often include integrating smart home technology for lighting and temperature control, using natural materials like wood and stone for a spa-like feel, and incorporating large, walk-in showers with multiple showerheads. Freestanding tubs, minimalist aesthetics with clean lines, and an emphasis on ample, hidden storage are also highly sought after. Two-tone cabinetry and accent walls are also gaining popularity.",
+        "@type": "Answer",
+        "description": "Popular custom bathroom trends include smart technology, natural materials, walk-in showers, freestanding tubs, minimalist designs, and hidden storage solutions."
+      }
+    }
+  ],
+  "description": "Popular custom bathroom trends include smart technology, natural materials, walk-in showers, freestanding tubs, minimalist designs, and hidden storage solutions"
+}

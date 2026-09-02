@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-custom-bathroom-remodel-typically-take",
+  "name": "How long does a custom bathroom remodel typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom bathroom remodel typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom bathroom remodel varies significantly based on the project's scope and complexity. A smaller renovation might take 3-5 weeks, while a complete custom redesign involving structural changes, new plumbing, or extensive tiling can extend to 8-12 weeks or more. Factors like material availability, permit approvals, and the client's decision-making process also influence the duration. We provide a detailed project schedule after the design phase is finalized.",
+        "@type": "Answer",
+        "description": "A custom bathroom remodel can take from 3 weeks for smaller projects to 12+ weeks for complex redesigns, depending on scope, materials, and approvals."
+      }
+    }
+  ],
+  "description": "A custom bathroom remodel can take from 3 weeks for smaller projects to 12+ weeks for complex redesigns, depending on scope, materials, and approvals."
+}

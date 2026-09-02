@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-new-windows-really-save-money-on-energy-bills",
+  "name": "Do new windows really save money on energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do new windows really save money on energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, new energy-efficient windows can significantly reduce your heating and cooling costs. Modern windows often feature double or triple-pane glass, low-emissivity (Low-E) coatings, and argon or krypton gas fills between panes. These technologies reduce heat transfer, keeping your home warmer in winter and cooler in summer. While the initial investment exists, the long-term savings on energy bills and improved home comfort make them a worthwhile upgrade.",
+        "@type": "Answer",
+        "description": "Yes, new energy-efficient windows, with features like double-pane glass and Low-E coatings, reduce heat transfer, leading to lower energy bills."
+      }
+    }
+  ],
+  "description": "Yes, new energy-efficient windows, with features like double-pane glass and Low-E coatings, reduce heat transfer, leading to lower energy bills."
+}

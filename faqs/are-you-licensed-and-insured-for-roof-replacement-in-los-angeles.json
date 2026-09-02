@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/are-you-licensed-and-insured-for-roof-replacement-in-los-angeles",
+  "name": "Are you licensed and insured for roof replacement in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are you licensed and insured for roof replacement in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Cali View Builders is fully licensed and insured to perform roof replacement services across all our service areas, including Los Angeles, Burbank, and surrounding communities. We hold all necessary state and local licenses, and carry comprehensive liability and worker's compensation insurance. This provides protection for our clients and our team throughout the duration of your project. Choosing a licensed and insured contractor is crucial for ensuring compliance with building codes, project safety, and financial protection against unforeseen incidents.",
+        "@type": "Answer",
+        "description": "Yes, Cali View Builders is fully licensed and insured for roof replacement in all our service areas, including Los Angeles. This protects our clients and team."
+      }
+    }
+  ],
+  "description": "Yes, Cali View Builders is fully licensed and insured for roof replacement in all our service areas, including Los Angeles. This protects our clients and team."
+}

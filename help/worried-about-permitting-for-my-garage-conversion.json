@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Worried About Permitting for My Garage Conversion?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting permits for a garage conversion in Los Angeles can definitely feel a bit daunting, right? It's a common concern for homeowners, but it doesn't have to be a headache, especially when you have a licensed, experienced team guiding you. The good news is that the city of Los Angeles and surrounding areas like Glendale and Burbank have become more ADU-friendly, but strict regulations still apply to ensure safety and proper construction.\n\nFirst, you're looking at things like zoning ordinances and building codes specific to ADUs. These cover everything from the size and height of your new unit to setbacks from property lines and parking requirements. Then there are structural requirements: your garage's foundation might need an upgrade, and seismic retrofits are often necessary in our area. You also need to consider electrical, plumbing, and HVAC systems, all of which need to be up to current code standards.\n\nThat's where a professional general contractor specializing in ADU and garage conversions, like Cali View Builders, comes in. We handle all the intricate details of the permitting process. This includes preparing detailed architectural and engineering plans, submitting them to the relevant city departments, and navigating any plan checks or revisions. We make sure everything is compliant from the get-go, saving you time and potential stress. Our team knows the ins and outs of Los Angeles County's specific requirements, whether you're in Encino, Studio City, or Culver City.\n\nTrying to manage all this on your own can lead to delays or costly mistakes. Leaning on experts means your project stays on track and meets all the necessary legal and safety standards. If you're concerned about permits, let's chat. We're here to simplify the process and get your garage conversion approved without a hitch.",
+  "datePublished": "2026-09-02"
+}

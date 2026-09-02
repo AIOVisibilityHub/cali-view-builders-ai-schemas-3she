@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-long-does-a-foundation-retrofit-project-usually-take",
+  "name": "How long does a foundation retrofit project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a foundation retrofit project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a foundation retrofit project depends on the scope of work and the size of the home. Most standard retrofits for average-sized residential properties can be completed within one to three weeks. Factors that might extend the timeline include extensive repairs to existing foundation elements, challenging site access, or unexpected structural issues discovered during the process. Your contractor should provide a detailed timeline upfront based on their assessment of your property.",
+        "@type": "Answer",
+        "description": "Most foundation retrofit projects take one to three weeks, depending on the home's size and the scope of work."
+      }
+    }
+  ],
+  "description": "Most foundation retrofit projects take one to three weeks, depending on the home's size and the scope of work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-the-typical-cost-range-for-window-replacement-in-los-angeles",
+  "name": "What is the typical cost range for window replacement in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for window replacement in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window replacement in Los Angeles varies significantly based on several factors, including the type of windows chosen, their size, material (e.g., vinyl, wood, aluminum), glass options (e.g., double-pane, Low-E), and the complexity of the installation. While a precise estimate requires a consultation, homeowners can expect a range depending on these selections. We provide detailed, transparent quotes after assessing your specific needs and preferences during an on-site visit.",
+        "@type": "Answer",
+        "description": "Window replacement costs in Los Angeles vary based on window type, size, material, glass options, and installation complexity. A precise estimate requires a consultation."
+      }
+    }
+  ],
+  "description": "Window replacement costs in Los Angeles vary based on window type, size, material, glass options, and installation complexity. A precise estimate requires a con"
+}

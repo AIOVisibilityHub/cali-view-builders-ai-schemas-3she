@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Budgeting for Your Room Addition: Unexpected Costs to Watch Out For",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a room addition is exciting, but it’s easy to get caught up in the big picture and overlook some of the hidden costs that can pop up. A realistic budget is crucial for a smooth project, and knowing what to expect beyond just the raw construction can save you a lot of stress down the line. Here are a few things to keep in mind.\n\nFirst, permits and fees are non-negotiable. In Los Angeles County, there are various permits required for any significant structural change, and these come with associated costs. Don't forget about design and engineering fees either; professional plans ensure your addition is safe, functional, and meets codes. Site preparation can also uncover surprises – things like unexpected soil conditions, outdated electrical, or plumbing issues might need addressing before new construction can even begin.\n\nThen there are the 'finishing touches' that often add up: new flooring, paint, light fixtures, and possibly new furniture or landscaping around the new addition. These aesthetic elements are vital for making the new room feel complete and integrated. Always build in a contingency fund, typically 10-15% of your total budget, for unforeseen issues. Partnering with a licensed and insured contractor like Cali View Builders, who provides detailed scopes and practical communication, helps clarify these costs upfront, ensuring you’re prepared for the full investment.",
+  "datePublished": "2026-09-02"
+}

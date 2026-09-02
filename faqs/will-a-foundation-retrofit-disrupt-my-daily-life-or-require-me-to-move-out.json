@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/will-a-foundation-retrofit-disrupt-my-daily-life-or-require-me-to-move-out",
+  "name": "Will a foundation retrofit disrupt my daily life or require me to move out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a foundation retrofit disrupt my daily life or require me to move out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard foundation retrofit projects, homeowners can typically remain in their homes. The work primarily occurs in the crawl space or around the exterior foundation, minimizing disruption to interior living spaces. There might be some noise and dust, and access to certain areas might be temporarily restricted. However, in cases of extensive repairs or very complex retrofits, a contractor might recommend temporary relocation for safety or logistical reasons, though this is less common. Your contractor will discuss potential disruptions beforehand.",
+        "@type": "Answer",
+        "description": "Most foundation retrofits allow homeowners to stay, as work primarily happens in the crawl space, causing minimal disruption."
+      }
+    }
+  ],
+  "description": "Most foundation retrofits allow homeowners to stay, as work primarily happens in the crawl space, causing minimal disruption."
+}

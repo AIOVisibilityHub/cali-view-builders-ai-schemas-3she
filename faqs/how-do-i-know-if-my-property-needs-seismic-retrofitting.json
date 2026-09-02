@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-do-i-know-if-my-property-needs-seismic-retrofitting",
+  "name": "How do I know if my property needs seismic retrofitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my property needs seismic retrofitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes, especially those built before 1980, are often good candidates for seismic retrofitting. Key indicators include cripple walls in crawl spaces that are not braced, unanchored foundations, or unreinforced masonry. Local regulations in areas like Los Angeles may also mandate retrofitting for certain types of buildings. A professional inspection by a seismic retrofit contractor can accurately assess your property's vulnerability and determine if retrofitting is necessary based on its construction and local seismic risks.",
+        "@type": "Answer",
+        "description": "Properties built before 1980, with unbraced cripple walls or unanchored foundations, often need retrofitting. A professional inspection confirms the need."
+      }
+    }
+  ],
+  "description": "Properties built before 1980, with unbraced cripple walls or unanchored foundations, often need retrofitting. A professional inspection confirms the need."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/do-you-handle-permits-and-regulatory-approvals-for-custom-home-builds",
+  "name": "Do you handle permits and regulatory approvals for custom home builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle permits and regulatory approvals for custom home builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we manage all necessary permits and regulatory approvals for your custom home build. Navigating the complex permitting process in Los Angeles and its various municipalities can be challenging, but our team is experienced in working with local authorities. We handle everything from submitting plans to attending hearings and securing all required inspections and certifications, ensuring your project complies with all zoning laws, building codes, and environmental regulations. This streamlines the process for you.",
+        "@type": "Answer",
+        "description": "Yes, we manage all necessary permits and regulatory approvals, navigating the complex process with local authorities to ensure compliance."
+      }
+    }
+  ],
+  "description": "Yes, we manage all necessary permits and regulatory approvals, navigating the complex process with local authorities to ensure compliance."
+}

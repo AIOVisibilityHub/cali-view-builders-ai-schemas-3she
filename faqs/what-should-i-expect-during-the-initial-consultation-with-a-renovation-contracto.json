@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-expect-during-the-initial-consultation-with-a-renovation-contracto",
+  "name": "What should I expect during the initial consultation with a renovation contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect during the initial consultation with a renovation contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an initial consultation, you should expect to discuss your renovation goals, vision, budget, and timeline. The contractor will ask questions about your lifestyle and how you intend to use the space. They will likely take measurements, assess the current condition of your home, and offer preliminary ideas or suggestions. This meeting is an opportunity for you to ask questions about their experience, process, and to determine if they are a good fit for your project. Be prepared to share inspiration photos or plans.",
+        "@type": "Answer",
+        "description": "Expect to discuss goals, budget, and timeline. The contractor will assess your home and share preliminary ideas. It's a chance to ask questions and gauge compatibility."
+      }
+    }
+  ],
+  "description": "Expect to discuss goals, budget, and timeline. The contractor will assess your home and share preliminary ideas. It's a chance to ask questions and gauge compat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/how-can-i-prepare-my-home-for-a-whole-home-remodel",
+  "name": "How can I prepare my home for a whole home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a whole home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home involves several key steps. First, declutter and remove all personal belongings, furniture, and valuables from the areas to be remodeled. If certain areas are to remain untouched, discuss protection strategies with your contractor. Arrange for alternative living accommodations if the remodel makes your home uninhabitable. It's also wise to discuss utility shut-offs (water, electricity, gas) and access points with your contractor beforehand to ensure a smooth start to the project.",
+        "@type": "Answer",
+        "description": "Prepare your home by decluttering, removing valuables, arranging alternative living, and discussing utility access with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare your home by decluttering, removing valuables, arranging alternative living, and discussing utility access with your contractor."
+}

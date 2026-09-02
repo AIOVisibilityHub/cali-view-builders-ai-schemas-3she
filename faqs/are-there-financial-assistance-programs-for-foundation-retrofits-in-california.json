@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/are-there-financial-assistance-programs-for-foundation-retrofits-in-california",
+  "name": "Are there financial assistance programs for foundation retrofits in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there financial assistance programs for foundation retrofits in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, California homeowners may be eligible for financial assistance programs. The California Earthquake Authority (CEA) offers the Earthquake Brace + Bolt (EBB) program, which provides grants to homeowners in eligible ZIP Codes to offset the cost of foundation retrofits. These grants can cover a significant portion of the retrofit expenses. Eligibility typically depends on your home's characteristics and location. It is advisable to check the EBB website or consult with a qualified contractor for current program availability and requirements.",
+        "@type": "Answer",
+        "description": "Yes, programs like the California Earthquake Authority's Earthquake Brace + Bolt (EBB) offer grants for eligible homeowners to help cover retrofit costs."
+      }
+    }
+  ],
+  "description": "Yes, programs like the California Earthquake Authority's Earthquake Brace + Bolt (EBB) offer grants for eligible homeowners to help cover retrofit costs."
+}

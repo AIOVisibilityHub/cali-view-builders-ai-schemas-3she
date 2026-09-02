@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-seismic-retrofitting",
+  "name": "What is seismic retrofitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is seismic retrofitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seismic retrofitting is the process of strengthening an existing building's structure to make it more resistant to earthquake damage. This often involves reinforcing the foundation, walls, and connections to improve stability during seismic activity. The goal is to protect occupants, minimize property damage, and ensure the building remains safe and functional after an earthquake. It's a crucial measure in earthquake-prone regions like Los Angeles to enhance a building's resilience against natural disasters.",
+        "@type": "Answer",
+        "description": "Seismic retrofitting strengthens a building's structure to withstand earthquakes, protecting occupants and property."
+      }
+    }
+  ],
+  "description": "Seismic retrofitting strengthens a building's structure to withstand earthquakes, protecting occupants and property."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-should-i-look-for-when-hiring-an-interior-painting-contractor",
+  "name": "What should I look for when hiring an interior painting contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring an interior painting contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring an interior painting contractor, prioritize experience, proper licensing, and insurance. Check their portfolio for examples of similar work and read customer reviews for insights into their reliability and quality. Ensure they provide a detailed written estimate outlining all costs, materials, and the project timeline. Good communication and a clear understanding of the project scope are also crucial for a successful partnership.",
+        "@type": "Answer",
+        "description": "Look for experience, licensing, insurance, a strong portfolio, positive reviews, and a detailed written estimate when hiring an interior painting contractor."
+      }
+    }
+  ],
+  "description": "Look for experience, licensing, insurance, a strong portfolio, positive reviews, and a detailed written estimate when hiring an interior painting contractor."
+}

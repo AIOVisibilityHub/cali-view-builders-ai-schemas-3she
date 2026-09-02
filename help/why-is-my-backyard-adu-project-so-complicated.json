@@ -1,0 +1,110 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Backyard ADU Project So Complicated?",
+  "publisher": {
+    "url": "https://caliviewbuilders.com",
+    "name": "Cali View Builders",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Toluca Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Marina Del Rey",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Inglewood",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Simi Valley",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about adding a backyard ADU can feel overwhelming, right? It's not just about building something new; there are a ton of moving parts that need to click into place. One big reason for the complexity is navigating local regulations and permits. Los Angeles County has specific rules about setbacks, height limits, and even the size of your ADU, and these can vary by city, like in Beverly Hills or Burbank. You also have to think about utilities—getting water, sewer, and electricity to a new structure in your backyard isn't always straightforward. Then there's the design aspect; you want it to look good and function well, but it also has to fit with your existing home and property. Plus, you're juggling different trades like electricians, plumbers, and carpenters, making sure everyone's on the same page. It’s a lot to manage! If you're feeling bogged down by all the details, it might be time to bring in a professional. A general contractor, like Cali View Builders, can help coordinate everything from initial design concepts to handling permits and managing all the construction trades, making the whole process much smoother for you. Don't let the complexity stop you from realizing your vision; sometimes, a little expert guidance is all it takes to get things moving.",
+  "datePublished": "2026-09-02"
+}

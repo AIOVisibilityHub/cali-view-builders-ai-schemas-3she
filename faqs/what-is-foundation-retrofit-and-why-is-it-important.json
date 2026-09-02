@@ -1,0 +1,27 @@
+{
+  "url": "https://caliviewbuilders.com/faq/what-is-foundation-retrofit-and-why-is-it-important",
+  "name": "What is foundation retrofit and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is foundation retrofit and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foundation retrofit, often called seismic retrofitting, is the process of reinforcing an existing building's foundation to make it more resistant to earthquake damage. This involves anchoring the house to its concrete foundation and strengthening cripple walls. It's crucial in seismically active areas like Los Angeles because it significantly reduces the risk of structural damage, prevents the house from sliding off its foundation during an earthquake, and protects occupants' safety. It also helps preserve property value and reduces potential repair costs after an event.",
+        "@type": "Answer",
+        "description": "Foundation retrofit reinforces a building's foundation against earthquake damage, essential for safety and property protection in seismic zones."
+      }
+    }
+  ],
+  "description": "Foundation retrofit reinforces a building's foundation against earthquake damage, essential for safety and property protection in seismic zones."
+}
