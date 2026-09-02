@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-02T23:30:28.689Z",
+  "generatedAt": "2026-09-02T23:30:45.213Z",
   "client": {
     "name": "Cali View Builders",
     "canonicalUrl": "https://caliviewbuilders.aiovisibility.net",
@@ -82,7 +82,7 @@
   },
   "package": {
     "totalFiles": 619,
-    "totalBytes": 2819062,
+    "totalBytes": 2778230,
     "stats": {
       "qna": 0,
       "faqs": 399,
@@ -3114,42 +3114,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21215,
+        "bytes": 15949,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 36447,
+        "bytes": 31301,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 29772,
+        "bytes": 24539,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15637,
+        "bytes": 10614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 373702,
+        "bytes": 368658,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 506500,
+        "bytes": 501525,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 23167,
+        "bytes": 18033,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24489,
+        "bytes": 19478,
         "purpose": "LLM-optimized public page"
       }
     ],
