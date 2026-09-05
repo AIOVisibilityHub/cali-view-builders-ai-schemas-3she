@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:35:57.073Z",
+  "generatedAt": "2026-09-05T21:36:11.758Z",
   "client": {
     "name": "Cali View Builders",
     "canonicalUrl": "https://caliviewbuilders.aiovisibility.net",
@@ -82,7 +82,7 @@
   },
   "package": {
     "totalFiles": 804,
-    "totalBytes": 6068815,
+    "totalBytes": 4923301,
     "stats": {
       "qna": 0,
       "faqs": 399,
@@ -3114,967 +3114,967 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19225,
+        "bytes": 13959,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 36472,
+        "bytes": 31326,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 29772,
+        "bytes": 24539,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15637,
+        "bytes": 10614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 373702,
+        "bytes": 368658,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 165453,
+        "bytes": 160478,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 23167,
+        "bytes": 18033,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24489,
+        "bytes": 19478,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-backyard-feels-empty-how-can-i-add-value.html",
-        "bytes": 17191,
+        "bytes": 11207,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-about-an-adu-but-where-do-i-even-start.html",
-        "bytes": 16542,
+        "bytes": 10527,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-common-adu-construction-pitfalls.html",
-        "bytes": 18699,
+        "bytes": 12710,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-an-adu-professional.html",
-        "bytes": 18643,
+        "bytes": 12659,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-building-an-adu-really-worth-it.html",
-        "bytes": 18275,
+        "bytes": 12375,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/concerned-about-permit-headaches-for-my-adu-project.html",
-        "bytes": 19282,
+        "bytes": 13251,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-biggest-mistakes-people-make-with-adus.html",
-        "bytes": 16821,
+        "bytes": 10784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-bring-in-a-pro-for-my-adu-build.html",
-        "bytes": 17429,
+        "bytes": 11437,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-garage-conversion-working-out.html",
-        "bytes": 16822,
+        "bytes": 10863,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-when-planning-a-detached-adu.html",
-        "bytes": 14665,
+        "bytes": 8667,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-pitfalls-in-detached-adu-construction.html",
-        "bytes": 14749,
+        "bytes": 8722,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-call-a-pro-for-your-detached-adu-project.html",
-        "bytes": 15091,
+        "bytes": 9028,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-know-before-building-an-attached-adu.html",
-        "bytes": 14719,
+        "bytes": 8740,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-with-your-attached-adu-project.html",
-        "bytes": 14743,
+        "bytes": 8739,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-an-attached-adu-the-right-choice.html",
-        "bytes": 14705,
+        "bytes": 8748,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-backyard-adu-project-so-complicated.html",
-        "bytes": 16600,
+        "bytes": 10611,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-common-pitfalls-should-i-avoid-with-my-backyard-adu.html",
-        "bytes": 16686,
+        "bytes": 10635,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-the-right-time-to-get-professional-help-for-my-adu.html",
-        "bytes": 17183,
+        "bytes": 11103,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-first-steps-to-converting-my-garage.html",
-        "bytes": 16652,
+        "bytes": 10633,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-do-people-make-when-converting-a-garage.html",
-        "bytes": 16766,
+        "bytes": 10721,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-hire-a-contractor-for-a-garage-conversion.html",
-        "bytes": 17273,
+        "bytes": 11223,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-biggest-headaches-in-a-garage-to-adu-conversion.html",
-        "bytes": 18034,
+        "bytes": 11964,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-avoid-common-garage-conversion-pitfalls.html",
-        "bytes": 18083,
+        "bytes": 12066,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-bring-in-a-pro-for-my-garage-conversion.html",
-        "bytes": 18142,
+        "bytes": 12094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-choose-the-right-garage-conversion-builder.html",
-        "bytes": 18286,
+        "bytes": 12249,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-garage-conversion-builder-isn-t-communicating-what-now.html",
-        "bytes": 18182,
+        "bytes": 12106,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/are-there-hidden-costs-in-garage-conversions.html",
-        "bytes": 18263,
+        "bytes": 12287,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-of-adding-space-what-you-should-know-first.html",
-        "bytes": 16711,
+        "bytes": 10686,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-avoid-common-pitfalls-in-your-home-addition-project.html",
-        "bytes": 17532,
+        "bytes": 11449,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-current-home-just-isn-t-big-enough-anymore.html",
-        "bytes": 16881,
+        "bytes": 10840,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-the-right-time-to-consider-a-room-addition.html",
-        "bytes": 17002,
+        "bytes": 10990,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-your-room-addition-feel-like-it-s-always-been-there.html",
-        "bytes": 16897,
+        "bytes": 10814,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/budgeting-for-your-room-addition-unexpected-costs-to-watch-out-for.html",
-        "bytes": 17307,
+        "bytes": 11159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-common-pitfalls-when-planning-a-house-addition.html",
-        "bytes": 16884,
+        "bytes": 10797,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-consider-a-house-addition-instead-of-moving.html",
-        "bytes": 16711,
+        "bytes": 10635,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-know-if-a-house-addition-is-right-for-my-home.html",
-        "bytes": 16574,
+        "bytes": 10528,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-challenges-come-with-adding-a-second-story.html",
-        "bytes": 16458,
+        "bytes": 10464,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-consider-a-second-story-addition.html",
-        "bytes": 16531,
+        "bytes": 10488,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-make-sure-my-second-story-addition-blends-in.html",
-        "bytes": 16575,
+        "bytes": 10517,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-kitchen-layout-just-not-work.html",
-        "bytes": 16963,
+        "bytes": 11012,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-biggest-mistakes-people-make-in-kitchen-remodels.html",
-        "bytes": 18651,
+        "bytes": 12544,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-really-time-to-invest-in-a-kitchen-renovation.html",
-        "bytes": 18737,
+        "bytes": 12662,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-kitchen-look-so-dark-and-uninviting.html",
-        "bytes": 17557,
+        "bytes": 11557,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-expect-during-a-kitchen-renovation-project.html",
-        "bytes": 19809,
+        "bytes": 14023,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-kitchen-cabinets-are-old-do-i-need-to-replace-them-all.html",
-        "bytes": 19621,
+        "bytes": 13527,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-adu-costs-getting-out-of-hand.html",
-        "bytes": 17592,
+        "bytes": 11620,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-adu-project-in-los-angeles.html",
-        "bytes": 19155,
+        "bytes": 13486,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-the-most-of-your-adu-s-small-space.html",
-        "bytes": 17685,
+        "bytes": 11730,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-adu-myths-you-shouldn-t-believe.html",
-        "bytes": 18263,
+        "bytes": 12323,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-between-a-detached-or-attached-adu.html",
-        "bytes": 19134,
+        "bytes": 13153,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-garage-conversion-right-for-your-adu.html",
-        "bytes": 18189,
+        "bytes": 12213,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-building-an-adu-really-worth-the-hassle-in-los-angeles.html",
-        "bytes": 16639,
+        "bytes": 10560,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-permits-and-planning-for-a-new-backyard-home.html",
-        "bytes": 16572,
+        "bytes": 10498,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-different-types-of-adus-and-which-is-right-for-me.html",
-        "bytes": 17905,
+        "bytes": 11788,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-garage-is-wasted-space-can-it-become-something-more.html",
-        "bytes": 17402,
+        "bytes": 11638,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-an-adu-actually-add-significant-value-to-my-property.html",
-        "bytes": 18798,
+        "bytes": 12729,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-detached-adu-right-for-my-property.html",
-        "bytes": 18041,
+        "bytes": 12088,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/concerns-about-detached-adu-construction-timeline.html",
-        "bytes": 17447,
+        "bytes": 11424,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-detached-adu-project.html",
-        "bytes": 19468,
+        "bytes": 13838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/should-i-choose-an-attached-adu-for-my-home.html",
-        "bytes": 17167,
+        "bytes": 11198,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/will-an-attached-adu-disrupt-my-main-home.html",
-        "bytes": 18399,
+        "bytes": 12429,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-misconceptions-about-attached-adu-construction.html",
-        "bytes": 19570,
+        "bytes": 13522,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/feeling-overwhelmed-by-adu-permits-in-los-angeles.html",
-        "bytes": 16067,
+        "bytes": 10044,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-backyard-adu-project-smoothly.html",
-        "bytes": 20612,
+        "bytes": 14916,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-challenges-might-i-face-when-building-a-backyard-adu.html",
-        "bytes": 18674,
+        "bytes": 12595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/will-my-garage-conversion-actually-add-value-to-my-home.html",
-        "bytes": 18456,
+        "bytes": 12382,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-about-converting-your-garage-but-not-sure-where-to-start.html",
-        "bytes": 22334,
+        "bytes": 16502,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/unexpected-hurdles-when-converting-a-garage.html",
-        "bytes": 18596,
+        "bytes": 12612,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-converting-my-garage-to-an-adu-worth-the-effort.html",
-        "bytes": 17218,
+        "bytes": 11191,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-steps-to-convert-my-garage-into-an-adu.html",
-        "bytes": 22021,
+        "bytes": 16270,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-permitting-for-my-garage-conversion.html",
-        "bytes": 17748,
+        "bytes": 11749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/finding-the-right-builder-for-my-garage-conversion-project.html",
-        "bytes": 18111,
+        "bytes": 12055,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-garage-is-just-collecting-junk-what-else-can-it-be.html",
-        "bytes": 17725,
+        "bytes": 11671,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-challenges-should-i-expect-with-a-garage-conversion.html",
-        "bytes": 18729,
+        "bytes": 12660,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-what-to-really-expect-from-a-home-addition.html",
-        "bytes": 17331,
+        "bytes": 11249,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-los-angeles-home-addition-project-successfully.html",
-        "bytes": 19791,
+        "bytes": 13982,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-family-needs-more-space-adding-on-vs-moving.html",
-        "bytes": 17350,
+        "bytes": 11299,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/considering-a-room-addition-here-s-what-you-should-know.html",
-        "bytes": 17317,
+        "bytes": 11258,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-your-room-addition-seamless-with-existing-architecture.html",
-        "bytes": 17921,
+        "bytes": 11817,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-the-permitting-process-for-your-room-addition.html",
-        "bytes": 19740,
+        "bytes": 13936,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-house-big-enough-for-my-family-anymore.html",
-        "bytes": 17287,
+        "bytes": 11265,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-get-started-with-a-house-addition-project.html",
-        "bytes": 21892,
+        "bytes": 16182,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-about-home-additions.html",
-        "bytes": 19802,
+        "bytes": 13880,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-second-story-addition-right-for-my-property.html",
-        "bytes": 19079,
+        "bytes": 13063,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-a-successful-second-story-addition.html",
-        "bytes": 23437,
+        "bytes": 17735,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-questions-about-second-story-additions.html",
-        "bytes": 21206,
+        "bytes": 15238,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-kitchen-remodel-feels-overwhelming-where-do-i-start.html",
-        "bytes": 16713,
+        "bytes": 10652,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-get-the-kitchen-layout-i-really-want.html",
-        "bytes": 16561,
+        "bytes": 10563,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-my-kitchen-remodel-goes-over-budget.html",
-        "bytes": 17477,
+        "bytes": 11793,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-make-my-small-kitchen-feel-bigger.html",
-        "bytes": 20303,
+        "bytes": 14325,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-kitchen-renovation-worth-the-investment.html",
-        "bytes": 17617,
+        "bytes": 11629,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-choose-the-right-materials-for-my-kitchen.html",
-        "bytes": 18470,
+        "bytes": 12757,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-building-an-adu-worth-the-investment.html",
-        "bytes": 16034,
+        "bytes": 10081,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-adu-project-effectively.html",
-        "bytes": 20846,
+        "bytes": 15192,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-know-before-converting-your-garage-to-an-adu.html",
-        "bytes": 16234,
+        "bytes": 10193,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/concerned-about-adu-construction-costs.html",
-        "bytes": 15920,
+        "bytes": 9974,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/maximizing-space-with-a-detached-adu.html",
-        "bytes": 15899,
+        "bytes": 9976,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-of-an-adu-how-to-get-started.html",
-        "bytes": 16951,
+        "bytes": 11015,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-adu-project-moving-forward.html",
-        "bytes": 19461,
+        "bytes": 13805,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-adu-permits-and-regulations.html",
-        "bytes": 20377,
+        "bytes": 14413,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-an-adu-add-value-to-my-property.html",
-        "bytes": 18000,
+        "bytes": 12047,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-hire-a-professional-adu-builder.html",
-        "bytes": 19500,
+        "bytes": 13847,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-an-attached-adu-right-for-my-home.html",
-        "bytes": 18184,
+        "bytes": 12252,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-permitting-for-my-detached-adu.html",
-        "bytes": 16886,
+        "bytes": 10916,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-choose-the-right-location-for-your-backyard-adu.html",
-        "bytes": 19294,
+        "bytes": 13536,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-about-an-attached-adu-but-how-does-it-work.html",
-        "bytes": 17675,
+        "bytes": 11635,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-s-the-difference-between-an-attached-adu-and-a-regular-addition.html",
-        "bytes": 18492,
+        "bytes": 12342,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/getting-started-with-your-attached-adu-project.html",
-        "bytes": 18992,
+        "bytes": 12976,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-backyard-adu-project-feels-overwhelming-where-do-i-start.html",
-        "bytes": 19406,
+        "bytes": 13613,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-garage-conversion-right-for-my-property.html",
-        "bytes": 18415,
+        "bytes": 12466,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-know-before-planning-an-adu-in-los-angeles.html",
-        "bytes": 17967,
+        "bytes": 11898,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/maximizing-value-with-a-garage-conversion.html",
-        "bytes": 17799,
+        "bytes": 11847,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dealing-with-permits-for-my-backyard-adu.html",
-        "bytes": 18277,
+        "bytes": 12329,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-the-best-layout-for-my-garage-conversion.html",
-        "bytes": 18766,
+        "bytes": 12734,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-garage-to-adu-conversion-right-for-my-los-angeles-home.html",
-        "bytes": 17408,
+        "bytes": 11312,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-permits-do-i-need-for-an-adu-conversion.html",
-        "bytes": 21065,
+        "bytes": 15365,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-maximize-space-in-my-garage-adu.html",
-        "bytes": 16733,
+        "bytes": 10784,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-the-right-builder-for-your-garage-conversion.html",
-        "bytes": 17139,
+        "bytes": 11094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-garage-conversion-project-taking-so-long.html",
-        "bytes": 17169,
+        "bytes": 11133,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-converting-your-garage.html",
-        "bytes": 18101,
+        "bytes": 12093,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-home-feels-too-small-what-are-my-options.html",
-        "bytes": 16793,
+        "bytes": 10815,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-plan-a-seamless-home-addition.html",
-        "bytes": 20116,
+        "bytes": 14464,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-pitfalls-in-home-addition-projects.html",
-        "bytes": 18828,
+        "bytes": 12825,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-room-addition-right-for-my-growing-family.html",
-        "bytes": 16802,
+        "bytes": 10803,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/maximizing-space-designing-a-functional-room-addition.html",
-        "bytes": 22651,
+        "bytes": 16597,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-permits-for-your-room-addition-project.html",
-        "bytes": 18615,
+        "bytes": 12580,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-second-story-addition-the-best-option.html",
-        "bytes": 17123,
+        "bytes": 11117,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-expanding-your-home-footprint.html",
-        "bytes": 17137,
+        "bytes": 11095,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-home-ready-for-a-major-addition-project.html",
-        "bytes": 19298,
+        "bytes": 13262,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-permits-for-your-house-addition-in-los-angeles.html",
-        "bytes": 20472,
+        "bytes": 14693,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/maximizing-value-with-a-thoughtful-second-story-addition.html",
-        "bytes": 17338,
+        "bytes": 11290,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/adding-a-second-story-what-about-structural-integrity.html",
-        "bytes": 17551,
+        "bytes": 11454,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-kitchen-layout-feels-all-wrong-what-can-i-do.html",
-        "bytes": 17199,
+        "bytes": 11184,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-dream-kitchen-remodel.html",
-        "bytes": 22418,
+        "bytes": 16775,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-kitchen-renovation-gets-overwhelming.html",
-        "bytes": 17772,
+        "bytes": 11696,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-kitchen-is-outdated-but-i-don-t-know-where-to-start.html",
-        "bytes": 17993,
+        "bytes": 11926,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-starting-your-kitchen-renovation.html",
-        "bytes": 19067,
+        "bytes": 13001,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-permits-for-your-adu-project.html",
-        "bytes": 18517,
+        "bytes": 12561,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-budget-for-your-adu-construction-in-los-angeles.html",
-        "bytes": 19082,
+        "bytes": 13030,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-between-an-attached-or-detached-adu.html",
-        "bytes": 19061,
+        "bytes": 13073,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-turn-your-garage-into-livable-space.html",
-        "bytes": 20754,
+        "bytes": 15086,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-an-adu-conversion-right-for-my-property.html",
-        "bytes": 19156,
+        "bytes": 13179,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-call-a-professional-adu-builder.html",
-        "bytes": 19397,
+        "bytes": 13385,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-of-an-adu-but-not-sure-where-to-start.html",
-        "bytes": 17898,
+        "bytes": 11896,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-adu-construction-timelines-in-la.html",
-        "bytes": 18962,
+        "bytes": 13246,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-biggest-mistakes-to-avoid-with-an-adu-project.html",
-        "bytes": 18742,
+        "bytes": 12656,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-the-right-adu-builder-what-to-look-for.html",
-        "bytes": 18941,
+        "bytes": 12941,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-bring-in-a-professional-for-my-adu-project.html",
-        "bytes": 19222,
+        "bytes": 13162,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-an-attached-or-detached-adu-right-for-my-home.html",
-        "bytes": 18971,
+        "bytes": 12982,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-about-a-detached-adu-here-s-how-to-get-started.html",
-        "bytes": 18556,
+        "bytes": 12491,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/planning-an-attached-adu-a-step-by-step-guide.html",
-        "bytes": 21771,
+        "bytes": 16079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-choose-between-a-detached-and-attached-adu.html",
-        "bytes": 20075,
+        "bytes": 14055,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-consider-a-detached-adu-for-rental-income.html",
-        "bytes": 19224,
+        "bytes": 13159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-an-attached-adu-might-be-your-best-expansion-option.html",
-        "bytes": 19655,
+        "bytes": 13635,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-mistakes-in-detached-adu-construction.html",
-        "bytes": 20076,
+        "bytes": 14016,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-building-a-backyard-adu-in-los-angeles.html",
-        "bytes": 17002,
+        "bytes": 10888,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-backyard-adu-project.html",
-        "bytes": 21579,
+        "bytes": 15940,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-choose-a-detached-adu-over-other-options.html",
-        "bytes": 17306,
+        "bytes": 11302,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-garage-is-a-mess-can-it-really-become-a-living-space.html",
-        "bytes": 17277,
+        "bytes": 11212,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-expect-during-a-garage-to-adu-conversion.html",
-        "bytes": 21127,
+        "bytes": 15414,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-pitfalls-in-garage-conversion-projects.html",
-        "bytes": 17791,
+        "bytes": 11754,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-garage-living-up-to-its-potential.html",
-        "bytes": 16097,
+        "bytes": 10098,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-steps-to-a-successful-garage-to-adu-conversion.html",
-        "bytes": 20410,
+        "bytes": 14614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-my-garage-conversion-project-goes-off-track.html",
-        "bytes": 16368,
+        "bytes": 10331,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/choosing-the-right-builder-for-your-garage-conversion-what-to-look-for.html",
-        "bytes": 22328,
+        "bytes": 16176,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-to-avoid-when-converting-your-garage.html",
-        "bytes": 18707,
+        "bytes": 12666,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-garage-ready-to-become-an-adu.html",
-        "bytes": 16372,
+        "bytes": 10456,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-house-feels-too-small-what-are-my-options-for-more-space.html",
-        "bytes": 16877,
+        "bytes": 10802,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-home-addition-in-los-angeles.html",
-        "bytes": 20792,
+        "bytes": 15106,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/home-addition-costs-what-factors-influence-the-price-tag.html",
-        "bytes": 20009,
+        "bytes": 13925,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-room-addition-the-right-move-for-my-family.html",
-        "bytes": 18983,
+        "bytes": 12980,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/worried-about-permitting-for-your-room-addition-here-s-what-to-expect.html",
-        "bytes": 19641,
+        "bytes": 13478,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/making-your-room-addition-feel-seamless-with-your-existing-home.html",
-        "bytes": 19605,
+        "bytes": 13511,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-adding-more-space-to-your-home.html",
-        "bytes": 17210,
+        "bytes": 11155,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-plan-your-house-addition-project-successfully.html",
-        "bytes": 21043,
+        "bytes": 15299,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-pitfalls-to-avoid-when-building-a-house-addition.html",
-        "bytes": 19097,
+        "bytes": 13035,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-does-a-second-story-addition-make-sense-for-your-home.html",
-        "bytes": 16963,
+        "bytes": 10883,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-timeline-for-a-second-story-addition.html",
-        "bytes": 21584,
+        "bytes": 15806,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-second-story-additions-debunked.html",
-        "bytes": 18058,
+        "bytes": 12083,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-kitchen-feels-old-fashioned-what-are-my-options.html",
-        "bytes": 17785,
+        "bytes": 11761,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-starting-a-kitchen-renovation.html",
-        "bytes": 19410,
+        "bytes": 13359,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-i-avoid-when-remodeling-my-kitchen.html",
-        "bytes": 20233,
+        "bytes": 14183,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-get-more-storage-in-my-small-kitchen.html",
-        "bytes": 18341,
+        "bytes": 12642,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-call-a-professional-for-my-kitchen-renovation.html",
-        "bytes": 20039,
+        "bytes": 13949,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-s-the-timeline-for-a-full-kitchen-renovation.html",
-        "bytes": 19385,
+        "bytes": 13665,
         "purpose": "LLM-optimized public page"
       }
     ],
