@@ -1,0 +1,1597 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "My backyard feels empty, how can I add value?",
+      "anchorSlug": "my-backyard-feels-empty-how-can-i-add-value",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-backyard-feels-empty-how-can-i-add-value.html"
+    },
+    {
+      "title": "Thinking about an ADU, but where do I even start?",
+      "anchorSlug": "thinking-about-an-adu-but-where-do-i-even-start",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-about-an-adu-but-where-do-i-even-start.html"
+    },
+    {
+      "title": "How to avoid common ADU construction pitfalls?",
+      "anchorSlug": "how-to-avoid-common-adu-construction-pitfalls",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-adu-construction-pitfalls.html"
+    },
+    {
+      "title": "When is it time to call an ADU professional?",
+      "anchorSlug": "when-is-it-time-to-call-an-adu-professional",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-an-adu-professional.html"
+    },
+    {
+      "title": "Is building an ADU really worth it?",
+      "anchorSlug": "is-building-an-adu-really-worth-it",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-building-an-adu-really-worth-it.html"
+    },
+    {
+      "title": "Concerned about permit headaches for my ADU project?",
+      "anchorSlug": "concerned-about-permit-headaches-for-my-adu-project",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/concerned-about-permit-headaches-for-my-adu-project.html"
+    },
+    {
+      "title": "What are the biggest mistakes people make with ADUs?",
+      "anchorSlug": "what-are-the-biggest-mistakes-people-make-with-adus",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-people-make-with-adus.html"
+    },
+    {
+      "title": "When should I bring in a pro for my ADU build?",
+      "anchorSlug": "when-should-i-bring-in-a-pro-for-my-adu-build",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-bring-in-a-pro-for-my-adu-build.html"
+    },
+    {
+      "title": "Why isn't my garage conversion working out?",
+      "anchorSlug": "why-isn-t-my-garage-conversion-working-out",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-garage-conversion-working-out.html"
+    },
+    {
+      "title": "What to Consider When Planning a Detached ADU?",
+      "anchorSlug": "what-to-consider-when-planning-a-detached-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-when-planning-a-detached-adu.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Detached ADU Construction?",
+      "anchorSlug": "avoiding-common-pitfalls-in-detached-adu-construction",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-detached-adu-construction.html"
+    },
+    {
+      "title": "When Should You Call a Pro for Your Detached ADU Project?",
+      "anchorSlug": "when-should-you-call-a-pro-for-your-detached-adu-project",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-call-a-pro-for-your-detached-adu-project.html"
+    },
+    {
+      "title": "What to Know Before Building an Attached ADU?",
+      "anchorSlug": "what-to-know-before-building-an-attached-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-building-an-attached-adu.html"
+    },
+    {
+      "title": "Mistakes to Avoid with Your Attached ADU Project?",
+      "anchorSlug": "mistakes-to-avoid-with-your-attached-adu-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-with-your-attached-adu-project.html"
+    },
+    {
+      "title": "When is an Attached ADU the Right Choice?",
+      "anchorSlug": "when-is-an-attached-adu-the-right-choice",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-an-attached-adu-the-right-choice.html"
+    },
+    {
+      "title": "Why Is My Backyard ADU Project So Complicated?",
+      "anchorSlug": "why-is-my-backyard-adu-project-so-complicated",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-backyard-adu-project-so-complicated.html"
+    },
+    {
+      "title": "What Common Pitfalls Should I Avoid with My Backyard ADU?",
+      "anchorSlug": "what-common-pitfalls-should-i-avoid-with-my-backyard-adu",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-common-pitfalls-should-i-avoid-with-my-backyard-adu.html"
+    },
+    {
+      "title": "When Is the Right Time to Get Professional Help for My ADU?",
+      "anchorSlug": "when-is-the-right-time-to-get-professional-help-for-my-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-to-get-professional-help-for-my-adu.html"
+    },
+    {
+      "title": "What Are the First Steps to Converting My Garage?",
+      "anchorSlug": "what-are-the-first-steps-to-converting-my-garage",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-first-steps-to-converting-my-garage.html"
+    },
+    {
+      "title": "What Mistakes Do People Make When Converting a Garage?",
+      "anchorSlug": "what-mistakes-do-people-make-when-converting-a-garage",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-do-people-make-when-converting-a-garage.html"
+    },
+    {
+      "title": "When Should I Hire a Contractor for a Garage Conversion?",
+      "anchorSlug": "when-should-i-hire-a-contractor-for-a-garage-conversion",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-contractor-for-a-garage-conversion.html"
+    },
+    {
+      "title": "What are the biggest headaches in a garage to ADU conversion?",
+      "anchorSlug": "what-are-the-biggest-headaches-in-a-garage-to-adu-conversion",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-headaches-in-a-garage-to-adu-conversion.html"
+    },
+    {
+      "title": "How can I avoid common garage conversion pitfalls?",
+      "anchorSlug": "how-can-i-avoid-common-garage-conversion-pitfalls",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-avoid-common-garage-conversion-pitfalls.html"
+    },
+    {
+      "title": "When should I bring in a pro for my garage conversion?",
+      "anchorSlug": "when-should-i-bring-in-a-pro-for-my-garage-conversion",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-bring-in-a-pro-for-my-garage-conversion.html"
+    },
+    {
+      "title": "How do I choose the right garage conversion builder?",
+      "anchorSlug": "how-do-i-choose-the-right-garage-conversion-builder",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-choose-the-right-garage-conversion-builder.html"
+    },
+    {
+      "title": "My garage conversion builder isn't communicating, what now?",
+      "anchorSlug": "my-garage-conversion-builder-isn-t-communicating-what-now",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-garage-conversion-builder-isn-t-communicating-what-now.html"
+    },
+    {
+      "title": "Are there hidden costs in garage conversions?",
+      "anchorSlug": "are-there-hidden-costs-in-garage-conversions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-there-hidden-costs-in-garage-conversions.html"
+    },
+    {
+      "title": "Thinking of Adding Space? What You Should Know First",
+      "anchorSlug": "thinking-of-adding-space-what-you-should-know-first",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-of-adding-space-what-you-should-know-first.html"
+    },
+    {
+      "title": "How to Avoid Common Pitfalls in Your Home Addition Project",
+      "anchorSlug": "how-to-avoid-common-pitfalls-in-your-home-addition-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-pitfalls-in-your-home-addition-project.html"
+    },
+    {
+      "title": "When Your Current Home Just Isn't Big Enough Anymore",
+      "anchorSlug": "when-your-current-home-just-isn-t-big-enough-anymore",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-current-home-just-isn-t-big-enough-anymore.html"
+    },
+    {
+      "title": "When is the Right Time to Consider a Room Addition?",
+      "anchorSlug": "when-is-the-right-time-to-consider-a-room-addition",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-to-consider-a-room-addition.html"
+    },
+    {
+      "title": "Making Your Room Addition Feel Like It's Always Been There",
+      "anchorSlug": "making-your-room-addition-feel-like-it-s-always-been-there",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-your-room-addition-feel-like-it-s-always-been-there.html"
+    },
+    {
+      "title": "Budgeting for Your Room Addition: Unexpected Costs to Watch Out For",
+      "anchorSlug": "budgeting-for-your-room-addition-unexpected-costs-to-watch-out-for",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budgeting-for-your-room-addition-unexpected-costs-to-watch-out-for.html"
+    },
+    {
+      "title": "What are the common pitfalls when planning a house addition?",
+      "anchorSlug": "what-are-the-common-pitfalls-when-planning-a-house-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-common-pitfalls-when-planning-a-house-addition.html"
+    },
+    {
+      "title": "When should I consider a house addition instead of moving?",
+      "anchorSlug": "when-should-i-consider-a-house-addition-instead-of-moving",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-a-house-addition-instead-of-moving.html"
+    },
+    {
+      "title": "How do I know if a house addition is right for my home?",
+      "anchorSlug": "how-do-i-know-if-a-house-addition-is-right-for-my-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-know-if-a-house-addition-is-right-for-my-home.html"
+    },
+    {
+      "title": "What challenges come with adding a second story?",
+      "anchorSlug": "what-challenges-come-with-adding-a-second-story",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-challenges-come-with-adding-a-second-story.html"
+    },
+    {
+      "title": "When is it time to consider a second-story addition?",
+      "anchorSlug": "when-is-it-time-to-consider-a-second-story-addition",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-consider-a-second-story-addition.html"
+    },
+    {
+      "title": "How can I make sure my second-story addition blends in?",
+      "anchorSlug": "how-can-i-make-sure-my-second-story-addition-blends-in",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-make-sure-my-second-story-addition-blends-in.html"
+    },
+    {
+      "title": "Why Does My Kitchen Layout Just Not Work?",
+      "anchorSlug": "why-does-my-kitchen-layout-just-not-work",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-kitchen-layout-just-not-work.html"
+    },
+    {
+      "title": "What Are the Biggest Mistakes People Make in Kitchen Remodels?",
+      "anchorSlug": "what-are-the-biggest-mistakes-people-make-in-kitchen-remodels",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-people-make-in-kitchen-remodels.html"
+    },
+    {
+      "title": "When is it Really Time to Invest in a Kitchen Renovation?",
+      "anchorSlug": "when-is-it-really-time-to-invest-in-a-kitchen-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-really-time-to-invest-in-a-kitchen-renovation.html"
+    },
+    {
+      "title": "Why Does My Kitchen Look So Dark and Uninviting?",
+      "anchorSlug": "why-does-my-kitchen-look-so-dark-and-uninviting",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-kitchen-look-so-dark-and-uninviting.html"
+    },
+    {
+      "title": "What Should I Expect During a Kitchen Renovation Project?",
+      "anchorSlug": "what-should-i-expect-during-a-kitchen-renovation-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-should-i-expect-during-a-kitchen-renovation-project.html"
+    },
+    {
+      "title": "My Kitchen Cabinets Are Old — Do I Need to Replace Them All?",
+      "anchorSlug": "my-kitchen-cabinets-are-old-do-i-need-to-replace-them-all",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-kitchen-cabinets-are-old-do-i-need-to-replace-them-all.html"
+    },
+    {
+      "title": "Worried about ADU costs getting out of hand?",
+      "anchorSlug": "worried-about-adu-costs-getting-out-of-hand",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-adu-costs-getting-out-of-hand.html"
+    },
+    {
+      "title": "How to plan your ADU project in Los Angeles",
+      "anchorSlug": "how-to-plan-your-adu-project-in-los-angeles",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-adu-project-in-los-angeles.html"
+    },
+    {
+      "title": "Making the most of your ADU's small space",
+      "anchorSlug": "making-the-most-of-your-adu-s-small-space",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-the-most-of-your-adu-s-small-space.html"
+    },
+    {
+      "title": "Common ADU myths you shouldn't believe",
+      "anchorSlug": "common-adu-myths-you-shouldn-t-believe",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-adu-myths-you-shouldn-t-believe.html"
+    },
+    {
+      "title": "Choosing between a detached or attached ADU",
+      "anchorSlug": "choosing-between-a-detached-or-attached-adu",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-between-a-detached-or-attached-adu.html"
+    },
+    {
+      "title": "Is a garage conversion right for your ADU?",
+      "anchorSlug": "is-a-garage-conversion-right-for-your-adu",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-garage-conversion-right-for-your-adu.html"
+    },
+    {
+      "title": "Is building an ADU really worth the hassle in Los Angeles?",
+      "anchorSlug": "is-building-an-adu-really-worth-the-hassle-in-los-angeles",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-building-an-adu-really-worth-the-hassle-in-los-angeles.html"
+    },
+    {
+      "title": "Worried about permits and planning for a new backyard home?",
+      "anchorSlug": "worried-about-permits-and-planning-for-a-new-backyard-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-permits-and-planning-for-a-new-backyard-home.html"
+    },
+    {
+      "title": "What are the different types of ADUs, and which is right for me?",
+      "anchorSlug": "what-are-the-different-types-of-adus-and-which-is-right-for-me",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-different-types-of-adus-and-which-is-right-for-me.html"
+    },
+    {
+      "title": "My garage is wasted space. Can it become something more?",
+      "anchorSlug": "my-garage-is-wasted-space-can-it-become-something-more",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-garage-is-wasted-space-can-it-become-something-more.html"
+    },
+    {
+      "title": "Can an ADU actually add significant value to my property?",
+      "anchorSlug": "can-an-adu-actually-add-significant-value-to-my-property",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-an-adu-actually-add-significant-value-to-my-property.html"
+    },
+    {
+      "title": "Is a detached ADU right for my property?",
+      "anchorSlug": "is-a-detached-adu-right-for-my-property",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-detached-adu-right-for-my-property.html"
+    },
+    {
+      "title": "Concerns About Detached ADU Construction Timeline",
+      "anchorSlug": "concerns-about-detached-adu-construction-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/concerns-about-detached-adu-construction-timeline.html"
+    },
+    {
+      "title": "How to Plan Your Detached ADU Project",
+      "anchorSlug": "how-to-plan-your-detached-adu-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-detached-adu-project.html"
+    },
+    {
+      "title": "Should I Choose an Attached ADU for My Home?",
+      "anchorSlug": "should-i-choose-an-attached-adu-for-my-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-i-choose-an-attached-adu-for-my-home.html"
+    },
+    {
+      "title": "Will an Attached ADU Disrupt My Main Home?",
+      "anchorSlug": "will-an-attached-adu-disrupt-my-main-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/will-an-attached-adu-disrupt-my-main-home.html"
+    },
+    {
+      "title": "Common Misconceptions About Attached ADU Construction",
+      "anchorSlug": "common-misconceptions-about-attached-adu-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-misconceptions-about-attached-adu-construction.html"
+    },
+    {
+      "title": "Feeling Overwhelmed by ADU Permits in Los Angeles?",
+      "anchorSlug": "feeling-overwhelmed-by-adu-permits-in-los-angeles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-overwhelmed-by-adu-permits-in-los-angeles.html"
+    },
+    {
+      "title": "How to Plan Your Backyard ADU Project Smoothly",
+      "anchorSlug": "how-to-plan-your-backyard-adu-project-smoothly",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-backyard-adu-project-smoothly.html"
+    },
+    {
+      "title": "What Challenges Might I Face When Building a Backyard ADU?",
+      "anchorSlug": "what-challenges-might-i-face-when-building-a-backyard-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-challenges-might-i-face-when-building-a-backyard-adu.html"
+    },
+    {
+      "title": "Will My Garage Conversion Actually Add Value to My Home?",
+      "anchorSlug": "will-my-garage-conversion-actually-add-value-to-my-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/will-my-garage-conversion-actually-add-value-to-my-home.html"
+    },
+    {
+      "title": "Thinking About Converting Your Garage But Not Sure Where to Start?",
+      "anchorSlug": "thinking-about-converting-your-garage-but-not-sure-where-to-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-about-converting-your-garage-but-not-sure-where-to-start.html"
+    },
+    {
+      "title": "Unexpected Hurdles When Converting a Garage?",
+      "anchorSlug": "unexpected-hurdles-when-converting-a-garage",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/unexpected-hurdles-when-converting-a-garage.html"
+    },
+    {
+      "title": "Is Converting My Garage to an ADU Worth the Effort?",
+      "anchorSlug": "is-converting-my-garage-to-an-adu-worth-the-effort",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-converting-my-garage-to-an-adu-worth-the-effort.html"
+    },
+    {
+      "title": "What Are the Steps to Convert My Garage Into an ADU?",
+      "anchorSlug": "what-are-the-steps-to-convert-my-garage-into-an-adu",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-steps-to-convert-my-garage-into-an-adu.html"
+    },
+    {
+      "title": "Worried About Permitting for My Garage Conversion?",
+      "anchorSlug": "worried-about-permitting-for-my-garage-conversion",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-permitting-for-my-garage-conversion.html"
+    },
+    {
+      "title": "Finding the Right Builder for My Garage Conversion Project",
+      "anchorSlug": "finding-the-right-builder-for-my-garage-conversion-project",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/finding-the-right-builder-for-my-garage-conversion-project.html"
+    },
+    {
+      "title": "My Garage is Just Collecting Junk – What Else Can It Be?",
+      "anchorSlug": "my-garage-is-just-collecting-junk-what-else-can-it-be",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-garage-is-just-collecting-junk-what-else-can-it-be.html"
+    },
+    {
+      "title": "What Challenges Should I Expect with a Garage Conversion?",
+      "anchorSlug": "what-challenges-should-i-expect-with-a-garage-conversion",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-challenges-should-i-expect-with-a-garage-conversion.html"
+    },
+    {
+      "title": "Myths vs. Facts: What to Really Expect from a Home Addition",
+      "anchorSlug": "myths-vs-facts-what-to-really-expect-from-a-home-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-vs-facts-what-to-really-expect-from-a-home-addition.html"
+    },
+    {
+      "title": "How to Plan Your Los Angeles Home Addition Project Successfully",
+      "anchorSlug": "how-to-plan-your-los-angeles-home-addition-project-successfully",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-los-angeles-home-addition-project-successfully.html"
+    },
+    {
+      "title": "When Your Family Needs More Space: Adding On vs. Moving",
+      "anchorSlug": "when-your-family-needs-more-space-adding-on-vs-moving",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-family-needs-more-space-adding-on-vs-moving.html"
+    },
+    {
+      "title": "Considering a Room Addition? Here's What You Should Know",
+      "anchorSlug": "considering-a-room-addition-here-s-what-you-should-know",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-a-room-addition-here-s-what-you-should-know.html"
+    },
+    {
+      "title": "Making Your Room Addition Seamless with Existing Architecture",
+      "anchorSlug": "making-your-room-addition-seamless-with-existing-architecture",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-your-room-addition-seamless-with-existing-architecture.html"
+    },
+    {
+      "title": "How to Navigate the Permitting Process for Your Room Addition",
+      "anchorSlug": "how-to-navigate-the-permitting-process-for-your-room-addition",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-the-permitting-process-for-your-room-addition.html"
+    },
+    {
+      "title": "Why isn't my house big enough for my family anymore?",
+      "anchorSlug": "why-isn-t-my-house-big-enough-for-my-family-anymore",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-house-big-enough-for-my-family-anymore.html"
+    },
+    {
+      "title": "How to get started with a house addition project",
+      "anchorSlug": "how-to-get-started-with-a-house-addition-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-started-with-a-house-addition-project.html"
+    },
+    {
+      "title": "Myths vs. Facts about Home Additions",
+      "anchorSlug": "myths-vs-facts-about-home-additions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-vs-facts-about-home-additions.html"
+    },
+    {
+      "title": "Is a second story addition right for my property?",
+      "anchorSlug": "is-a-second-story-addition-right-for-my-property",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-second-story-addition-right-for-my-property.html"
+    },
+    {
+      "title": "How to plan a successful second story addition",
+      "anchorSlug": "how-to-plan-a-successful-second-story-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-a-successful-second-story-addition.html"
+    },
+    {
+      "title": "Common questions about second-story additions",
+      "anchorSlug": "common-questions-about-second-story-additions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-questions-about-second-story-additions.html"
+    },
+    {
+      "title": "My Kitchen Remodel Feels Overwhelming – Where Do I Start?",
+      "anchorSlug": "my-kitchen-remodel-feels-overwhelming-where-do-i-start",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-kitchen-remodel-feels-overwhelming-where-do-i-start.html"
+    },
+    {
+      "title": "How Do I Get the Kitchen Layout I Really Want?",
+      "anchorSlug": "how-do-i-get-the-kitchen-layout-i-really-want",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-get-the-kitchen-layout-i-really-want.html"
+    },
+    {
+      "title": "What if My Kitchen Remodel Goes Over Budget?",
+      "anchorSlug": "what-if-my-kitchen-remodel-goes-over-budget",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-if-my-kitchen-remodel-goes-over-budget.html"
+    },
+    {
+      "title": "How Can I Make My Small Kitchen Feel Bigger?",
+      "anchorSlug": "how-can-i-make-my-small-kitchen-feel-bigger",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-make-my-small-kitchen-feel-bigger.html"
+    },
+    {
+      "title": "Is a Kitchen Renovation Worth the Investment?",
+      "anchorSlug": "is-a-kitchen-renovation-worth-the-investment",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-kitchen-renovation-worth-the-investment.html"
+    },
+    {
+      "title": "How to Choose the Right Materials for My Kitchen?",
+      "anchorSlug": "how-to-choose-the-right-materials-for-my-kitchen",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-right-materials-for-my-kitchen.html"
+    },
+    {
+      "title": "Is Building an ADU Worth the Investment?",
+      "anchorSlug": "is-building-an-adu-worth-the-investment",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-building-an-adu-worth-the-investment.html"
+    },
+    {
+      "title": "How to Plan Your ADU Project Effectively",
+      "anchorSlug": "how-to-plan-your-adu-project-effectively",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-adu-project-effectively.html"
+    },
+    {
+      "title": "What to Know Before Converting Your Garage to an ADU",
+      "anchorSlug": "what-to-know-before-converting-your-garage-to-an-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-converting-your-garage-to-an-adu.html"
+    },
+    {
+      "title": "Concerned About ADU Construction Costs?",
+      "anchorSlug": "concerned-about-adu-construction-costs",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/concerned-about-adu-construction-costs.html"
+    },
+    {
+      "title": "Maximizing Space with a Detached ADU",
+      "anchorSlug": "maximizing-space-with-a-detached-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maximizing-space-with-a-detached-adu.html"
+    },
+    {
+      "title": "Thinking of an ADU? How to Get Started",
+      "anchorSlug": "thinking-of-an-adu-how-to-get-started",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-of-an-adu-how-to-get-started.html"
+    },
+    {
+      "title": "Why isn't my ADU project moving forward?",
+      "anchorSlug": "why-isn-t-my-adu-project-moving-forward",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-adu-project-moving-forward.html"
+    },
+    {
+      "title": "Worried about ADU permits and regulations?",
+      "anchorSlug": "worried-about-adu-permits-and-regulations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-adu-permits-and-regulations.html"
+    },
+    {
+      "title": "How can an ADU add value to my property?",
+      "anchorSlug": "how-can-an-adu-add-value-to-my-property",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-an-adu-add-value-to-my-property.html"
+    },
+    {
+      "title": "When to Hire a Professional ADU Builder",
+      "anchorSlug": "when-to-hire-a-professional-adu-builder",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-hire-a-professional-adu-builder.html"
+    },
+    {
+      "title": "Is an Attached ADU Right for My Home?",
+      "anchorSlug": "is-an-attached-adu-right-for-my-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-attached-adu-right-for-my-home.html"
+    },
+    {
+      "title": "Worried about permitting for my detached ADU?",
+      "anchorSlug": "worried-about-permitting-for-my-detached-adu",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-permitting-for-my-detached-adu.html"
+    },
+    {
+      "title": "How to choose the right location for your backyard ADU",
+      "anchorSlug": "how-to-choose-the-right-location-for-your-backyard-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-right-location-for-your-backyard-adu.html"
+    },
+    {
+      "title": "Thinking about an attached ADU, but how does it work?",
+      "anchorSlug": "thinking-about-an-attached-adu-but-how-does-it-work",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-about-an-attached-adu-but-how-does-it-work.html"
+    },
+    {
+      "title": "What's the difference between an attached ADU and a regular addition?",
+      "anchorSlug": "what-s-the-difference-between-an-attached-adu-and-a-regular-addition",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-difference-between-an-attached-adu-and-a-regular-addition.html"
+    },
+    {
+      "title": "Getting started with your attached ADU project",
+      "anchorSlug": "getting-started-with-your-attached-adu-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-started-with-your-attached-adu-project.html"
+    },
+    {
+      "title": "My Backyard ADU Project Feels Overwhelming, Where Do I Start?",
+      "anchorSlug": "my-backyard-adu-project-feels-overwhelming-where-do-i-start",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-backyard-adu-project-feels-overwhelming-where-do-i-start.html"
+    },
+    {
+      "title": "Is a Garage Conversion Right for My Property?",
+      "anchorSlug": "is-a-garage-conversion-right-for-my-property",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-garage-conversion-right-for-my-property.html"
+    },
+    {
+      "title": "What Should I Know Before Planning an ADU in Los Angeles?",
+      "anchorSlug": "what-should-i-know-before-planning-an-adu-in-los-angeles",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-should-i-know-before-planning-an-adu-in-los-angeles.html"
+    },
+    {
+      "title": "Maximizing Value with a Garage Conversion",
+      "anchorSlug": "maximizing-value-with-a-garage-conversion",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maximizing-value-with-a-garage-conversion.html"
+    },
+    {
+      "title": "Dealing with Permits for My Backyard ADU",
+      "anchorSlug": "dealing-with-permits-for-my-backyard-adu",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-permits-for-my-backyard-adu.html"
+    },
+    {
+      "title": "Choosing the Best Layout for My Garage Conversion",
+      "anchorSlug": "choosing-the-best-layout-for-my-garage-conversion",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-best-layout-for-my-garage-conversion.html"
+    },
+    {
+      "title": "Is a garage-to-ADU conversion right for my Los Angeles home?",
+      "anchorSlug": "is-a-garage-to-adu-conversion-right-for-my-los-angeles-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-garage-to-adu-conversion-right-for-my-los-angeles-home.html"
+    },
+    {
+      "title": "What permits do I need for an ADU conversion?",
+      "anchorSlug": "what-permits-do-i-need-for-an-adu-conversion",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-permits-do-i-need-for-an-adu-conversion.html"
+    },
+    {
+      "title": "How can I maximize space in my garage ADU?",
+      "anchorSlug": "how-can-i-maximize-space-in-my-garage-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-maximize-space-in-my-garage-adu.html"
+    },
+    {
+      "title": "Choosing the right builder for your garage conversion",
+      "anchorSlug": "choosing-the-right-builder-for-your-garage-conversion",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-builder-for-your-garage-conversion.html"
+    },
+    {
+      "title": "Why is my garage conversion project taking so long?",
+      "anchorSlug": "why-is-my-garage-conversion-project-taking-so-long",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-garage-conversion-project-taking-so-long.html"
+    },
+    {
+      "title": "What to consider before converting your garage?",
+      "anchorSlug": "what-to-consider-before-converting-your-garage",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-converting-your-garage.html"
+    },
+    {
+      "title": "My Home Feels Too Small – What Are My Options?",
+      "anchorSlug": "my-home-feels-too-small-what-are-my-options",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-home-feels-too-small-what-are-my-options.html"
+    },
+    {
+      "title": "How Do I Plan a Seamless Home Addition?",
+      "anchorSlug": "how-do-i-plan-a-seamless-home-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-plan-a-seamless-home-addition.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Home Addition Projects",
+      "anchorSlug": "avoiding-common-pitfalls-in-home-addition-projects",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-home-addition-projects.html"
+    },
+    {
+      "title": "Is a Room Addition Right for My Growing Family?",
+      "anchorSlug": "is-a-room-addition-right-for-my-growing-family",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-room-addition-right-for-my-growing-family.html"
+    },
+    {
+      "title": "Maximizing Space: Designing a Functional Room Addition",
+      "anchorSlug": "maximizing-space-designing-a-functional-room-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maximizing-space-designing-a-functional-room-addition.html"
+    },
+    {
+      "title": "Understanding Permits for Your Room Addition Project",
+      "anchorSlug": "understanding-permits-for-your-room-addition-project",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-permits-for-your-room-addition-project.html"
+    },
+    {
+      "title": "When is a Second Story Addition the Best Option?",
+      "anchorSlug": "when-is-a-second-story-addition-the-best-option",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-second-story-addition-the-best-option.html"
+    },
+    {
+      "title": "What to Consider Before Expanding Your Home Footprint",
+      "anchorSlug": "what-to-consider-before-expanding-your-home-footprint",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-expanding-your-home-footprint.html"
+    },
+    {
+      "title": "Is Your Home Ready for a Major Addition Project?",
+      "anchorSlug": "is-your-home-ready-for-a-major-addition-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-home-ready-for-a-major-addition-project.html"
+    },
+    {
+      "title": "Navigating Permits for Your House Addition in Los Angeles",
+      "anchorSlug": "navigating-permits-for-your-house-addition-in-los-angeles",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permits-for-your-house-addition-in-los-angeles.html"
+    },
+    {
+      "title": "Maximizing Value with a Thoughtful Second Story Addition",
+      "anchorSlug": "maximizing-value-with-a-thoughtful-second-story-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maximizing-value-with-a-thoughtful-second-story-addition.html"
+    },
+    {
+      "title": "Adding a Second Story: What About Structural Integrity?",
+      "anchorSlug": "adding-a-second-story-what-about-structural-integrity",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adding-a-second-story-what-about-structural-integrity.html"
+    },
+    {
+      "title": "My Kitchen Layout Feels All Wrong – What Can I Do?",
+      "anchorSlug": "my-kitchen-layout-feels-all-wrong-what-can-i-do",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-kitchen-layout-feels-all-wrong-what-can-i-do.html"
+    },
+    {
+      "title": "How to Plan Your Dream Kitchen Remodel",
+      "anchorSlug": "how-to-plan-your-dream-kitchen-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-dream-kitchen-remodel.html"
+    },
+    {
+      "title": "What to Do When Your Kitchen Renovation Gets Overwhelming?",
+      "anchorSlug": "what-to-do-when-your-kitchen-renovation-gets-overwhelming",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-kitchen-renovation-gets-overwhelming.html"
+    },
+    {
+      "title": "My Kitchen is Outdated, But I Don't Know Where to Start",
+      "anchorSlug": "my-kitchen-is-outdated-but-i-don-t-know-where-to-start",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-kitchen-is-outdated-but-i-don-t-know-where-to-start.html"
+    },
+    {
+      "title": "What to Consider Before Starting Your Kitchen Renovation",
+      "anchorSlug": "what-to-consider-before-starting-your-kitchen-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-starting-your-kitchen-renovation.html"
+    },
+    {
+      "title": "Worried about permits for your ADU project?",
+      "anchorSlug": "worried-about-permits-for-your-adu-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-permits-for-your-adu-project.html"
+    },
+    {
+      "title": "How to budget for your ADU construction in Los Angeles",
+      "anchorSlug": "how-to-budget-for-your-adu-construction-in-los-angeles",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-budget-for-your-adu-construction-in-los-angeles.html"
+    },
+    {
+      "title": "Choosing between an attached or detached ADU?",
+      "anchorSlug": "choosing-between-an-attached-or-detached-adu",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-between-an-attached-or-detached-adu.html"
+    },
+    {
+      "title": "How to turn your garage into livable space",
+      "anchorSlug": "how-to-turn-your-garage-into-livable-space",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-turn-your-garage-into-livable-space.html"
+    },
+    {
+      "title": "Is an ADU conversion right for my property?",
+      "anchorSlug": "is-an-adu-conversion-right-for-my-property",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-adu-conversion-right-for-my-property.html"
+    },
+    {
+      "title": "When should you call a professional ADU builder?",
+      "anchorSlug": "when-should-you-call-a-professional-adu-builder",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-call-a-professional-adu-builder.html"
+    },
+    {
+      "title": "Thinking of an ADU but not sure where to start?",
+      "anchorSlug": "thinking-of-an-adu-but-not-sure-where-to-start",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-of-an-adu-but-not-sure-where-to-start.html"
+    },
+    {
+      "title": "How to navigate ADU construction timelines in LA?",
+      "anchorSlug": "how-to-navigate-adu-construction-timelines-in-la",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-adu-construction-timelines-in-la.html"
+    },
+    {
+      "title": "What are the biggest mistakes to avoid with an ADU project?",
+      "anchorSlug": "what-are-the-biggest-mistakes-to-avoid-with-an-adu-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-to-avoid-with-an-adu-project.html"
+    },
+    {
+      "title": "Choosing the right ADU builder: what to look for?",
+      "anchorSlug": "choosing-the-right-adu-builder-what-to-look-for",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-adu-builder-what-to-look-for.html"
+    },
+    {
+      "title": "When should I bring in a professional for my ADU project?",
+      "anchorSlug": "when-should-i-bring-in-a-professional-for-my-adu-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-bring-in-a-professional-for-my-adu-project.html"
+    },
+    {
+      "title": "Is an attached or detached ADU right for my home?",
+      "anchorSlug": "is-an-attached-or-detached-adu-right-for-my-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-attached-or-detached-adu-right-for-my-home.html"
+    },
+    {
+      "title": "Thinking About a Detached ADU? Here’s How to Get Started",
+      "anchorSlug": "thinking-about-a-detached-adu-here-s-how-to-get-started",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-about-a-detached-adu-here-s-how-to-get-started.html"
+    },
+    {
+      "title": "Planning an Attached ADU: A Step-by-Step Guide",
+      "anchorSlug": "planning-an-attached-adu-a-step-by-step-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-an-attached-adu-a-step-by-step-guide.html"
+    },
+    {
+      "title": "How to Choose Between a Detached and Attached ADU",
+      "anchorSlug": "how-to-choose-between-a-detached-and-attached-adu",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-between-a-detached-and-attached-adu.html"
+    },
+    {
+      "title": "When Should I Consider a Detached ADU for Rental Income?",
+      "anchorSlug": "when-should-i-consider-a-detached-adu-for-rental-income",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-a-detached-adu-for-rental-income.html"
+    },
+    {
+      "title": "Why an Attached ADU Might Be Your Best Expansion Option",
+      "anchorSlug": "why-an-attached-adu-might-be-your-best-expansion-option",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-an-attached-adu-might-be-your-best-expansion-option.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Detached ADU Construction",
+      "anchorSlug": "avoiding-common-mistakes-in-detached-adu-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-detached-adu-construction.html"
+    },
+    {
+      "title": "What to Consider Before Building a Backyard ADU in Los Angeles",
+      "anchorSlug": "what-to-consider-before-building-a-backyard-adu-in-los-angeles",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-building-a-backyard-adu-in-los-angeles.html"
+    },
+    {
+      "title": "How to Plan Your Backyard ADU Project",
+      "anchorSlug": "how-to-plan-your-backyard-adu-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-backyard-adu-project.html"
+    },
+    {
+      "title": "When to Choose a Detached ADU Over Other Options",
+      "anchorSlug": "when-to-choose-a-detached-adu-over-other-options",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-choose-a-detached-adu-over-other-options.html"
+    },
+    {
+      "title": "My Garage is a Mess, Can it Really Become a Living Space?",
+      "anchorSlug": "my-garage-is-a-mess-can-it-really-become-a-living-space",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-garage-is-a-mess-can-it-really-become-a-living-space.html"
+    },
+    {
+      "title": "What to Expect During a Garage-to-ADU Conversion",
+      "anchorSlug": "what-to-expect-during-a-garage-to-adu-conversion",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-garage-to-adu-conversion.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Garage Conversion Projects",
+      "anchorSlug": "avoiding-common-pitfalls-in-garage-conversion-projects",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-garage-conversion-projects.html"
+    },
+    {
+      "title": "Why isn't my garage living up to its potential?",
+      "anchorSlug": "why-isn-t-my-garage-living-up-to-its-potential",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-garage-living-up-to-its-potential.html"
+    },
+    {
+      "title": "What are the steps to a successful garage-to-ADU conversion?",
+      "anchorSlug": "what-are-the-steps-to-a-successful-garage-to-adu-conversion",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-steps-to-a-successful-garage-to-adu-conversion.html"
+    },
+    {
+      "title": "What if my garage conversion project goes off track?",
+      "anchorSlug": "what-if-my-garage-conversion-project-goes-off-track",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-if-my-garage-conversion-project-goes-off-track.html"
+    },
+    {
+      "title": "Choosing the right builder for your garage conversion: What to look for.",
+      "anchorSlug": "choosing-the-right-builder-for-your-garage-conversion-what-to-look-for",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-builder-for-your-garage-conversion-what-to-look-for.html"
+    },
+    {
+      "title": "Common mistakes to avoid when converting your garage.",
+      "anchorSlug": "common-mistakes-to-avoid-when-converting-your-garage",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-when-converting-your-garage.html"
+    },
+    {
+      "title": "Is my garage ready to become an ADU?",
+      "anchorSlug": "is-my-garage-ready-to-become-an-adu",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-garage-ready-to-become-an-adu.html"
+    },
+    {
+      "title": "My House Feels Too Small: What Are My Options for More Space?",
+      "anchorSlug": "my-house-feels-too-small-what-are-my-options-for-more-space",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-house-feels-too-small-what-are-my-options-for-more-space.html"
+    },
+    {
+      "title": "How to Plan Your Home Addition in Los Angeles",
+      "anchorSlug": "how-to-plan-your-home-addition-in-los-angeles",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-home-addition-in-los-angeles.html"
+    },
+    {
+      "title": "Home Addition Costs: What Factors Influence the Price Tag?",
+      "anchorSlug": "home-addition-costs-what-factors-influence-the-price-tag",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-addition-costs-what-factors-influence-the-price-tag.html"
+    },
+    {
+      "title": "Is a Room Addition the Right Move for My Family?",
+      "anchorSlug": "is-a-room-addition-the-right-move-for-my-family",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-room-addition-the-right-move-for-my-family.html"
+    },
+    {
+      "title": "Worried About Permitting for Your Room Addition? Here’s What to Expect",
+      "anchorSlug": "worried-about-permitting-for-your-room-addition-here-s-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-about-permitting-for-your-room-addition-here-s-what-to-expect.html"
+    },
+    {
+      "title": "Making Your Room Addition Feel Seamless with Your Existing Home",
+      "anchorSlug": "making-your-room-addition-feel-seamless-with-your-existing-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-your-room-addition-feel-seamless-with-your-existing-home.html"
+    },
+    {
+      "title": "What to Consider Before Adding More Space to Your Home?",
+      "anchorSlug": "what-to-consider-before-adding-more-space-to-your-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-adding-more-space-to-your-home.html"
+    },
+    {
+      "title": "How to Plan Your House Addition Project Successfully?",
+      "anchorSlug": "how-to-plan-your-house-addition-project-successfully",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-house-addition-project-successfully.html"
+    },
+    {
+      "title": "Common Pitfalls to Avoid When Building a House Addition",
+      "anchorSlug": "common-pitfalls-to-avoid-when-building-a-house-addition",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-pitfalls-to-avoid-when-building-a-house-addition.html"
+    },
+    {
+      "title": "When Does a Second Story Addition Make Sense for Your Home?",
+      "anchorSlug": "when-does-a-second-story-addition-make-sense-for-your-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-a-second-story-addition-make-sense-for-your-home.html"
+    },
+    {
+      "title": "Understanding the Timeline for a Second Story Addition",
+      "anchorSlug": "understanding-the-timeline-for-a-second-story-addition",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-timeline-for-a-second-story-addition.html"
+    },
+    {
+      "title": "Myths About Second Story Additions Debunked",
+      "anchorSlug": "myths-about-second-story-additions-debunked",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/myths-about-second-story-additions-debunked.html"
+    },
+    {
+      "title": "My Kitchen Feels Old-fashioned: What Are My Options?",
+      "anchorSlug": "my-kitchen-feels-old-fashioned-what-are-my-options",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-kitchen-feels-old-fashioned-what-are-my-options.html"
+    },
+    {
+      "title": "What to Consider Before Starting a Kitchen Renovation?",
+      "anchorSlug": "what-to-consider-before-starting-a-kitchen-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-starting-a-kitchen-renovation.html"
+    },
+    {
+      "title": "What Mistakes Should I Avoid When Remodeling My Kitchen?",
+      "anchorSlug": "what-mistakes-should-i-avoid-when-remodeling-my-kitchen",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-when-remodeling-my-kitchen.html"
+    },
+    {
+      "title": "How Can I Get More Storage in My Small Kitchen?",
+      "anchorSlug": "how-can-i-get-more-storage-in-my-small-kitchen",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-get-more-storage-in-my-small-kitchen.html"
+    },
+    {
+      "title": "When Should I Call a Professional for My Kitchen Renovation?",
+      "anchorSlug": "when-should-i-call-a-professional-for-my-kitchen-renovation",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-call-a-professional-for-my-kitchen-renovation.html"
+    },
+    {
+      "title": "What's the Timeline for a Full Kitchen Renovation?",
+      "anchorSlug": "what-s-the-timeline-for-a-full-kitchen-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-timeline-for-a-full-kitchen-renovation.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://caliviewbuilders.aiovisibility.net/articles.html",
+    "https://caliviewbuilders.aiovisibility.net/articles/getting-started.html",
+    "https://caliviewbuilders.aiovisibility.net/articles/services-and-process.html",
+    "https://caliviewbuilders.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://caliviewbuilders.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://caliviewbuilders.aiovisibility.net/articles/local-service-guidance.html",
+    "https://caliviewbuilders.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
